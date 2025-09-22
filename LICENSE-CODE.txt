@@ -1,0 +1,5 @@
+MIT License - Code Components Only
+
+Permission is hereby granted to use, copy, modify, and distribute the HTML, CSS, and JavaScript code in this repository for any purpose, including commercial use.
+
+This license DOES NOT apply to story content, character names, plot elements, or any creative writing found in markdown files or embedded in the code.
