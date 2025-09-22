@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dangai</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;700&family=Exo:wght@100;200;300;400&display=swap" rel="stylesheet">
+    <style>
+        html, body {
+            background-color: #000000;
+            color: #e0e0e0;
+        }
+
+        /* Prevent flash of unstyled content */
+        body {
+            visibility: hidden;
+        }
+
+        body.loaded {
+            visibility: visible;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Crimson Text', 'Times New Roman', serif;
+            background: linear-gradient(135deg, #000000 0%, #111111 50%, #1a1a1a 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .reader {
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .reader .back-button {
+            margin-left: 7.5%;
+            margin-bottom: 30px;
+        }
+
+        .main-page, .arc-page, .reader {
+            display: none;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        .main-page.active, .arc-page.active, .reader.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .title {
+            font-size: 5rem;
+            font-weight: bold;
+            color: #ffffff;
+            margin-bottom: 20px;
+            margin-top: 40px;
+            text-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+            font-family: 'Playfair Display', 'Times New Roman', serif;
+            letter-spacing: 20px;
+        }
+
+        .subtitle {
+            font-size: 1rem;
+            opacity: 0.7;
+            color: #cccccc;
+            font-style: italic;
+        }
+
+        .decorative-line {
+            width: 160%;
+            height: 5px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 10%, #ffffff 90%, transparent 100%);
+            margin: 100px auto;
+            position: relative;
+            opacity: 0.8;
+            left: -30%;
+        }
+
+        .decorative-line::after {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 7px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 25%, #ffffff 75%, transparent 100%);
+            opacity: 0.6;
+        }
+
+        .arc-selection {
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .arcs-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .arc-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 16px;
+            padding: 40px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .arc-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+        }
+
+        .arc-card.locked {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .arc-card.locked:hover {
+            transform: none;
+            background: rgba(255, 255, 255, 0.03);
+            box-shadow: none;
+        }
+
+        .arc-title-btn {
+            font-size: 1.5rem;
+            color: #ffffff;
+            font-family: 'Playfair Display', 'Times New Roman', serif;
+            margin-bottom: 15px;
+            font-weight: 600;
+            letter-spacing: 3px;
+        }
+
+        .arc-description {
+            font-size: 1.3rem;
+            color: #cccccc;
+            line-height: 1.6;
+            font-style: italic;
+            font-weight: 400;
+            letter-spacing: 6px;
+        }
+
+        .arc-section {
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .arc-section .decorative-line {
+            width: 120%;
+            height: 3px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 15%, #ffffff 85%, transparent 100%);
+            margin: 60px auto;
+            position: relative;
+            opacity: 0.6;
+            left: -10%;
+        }
+
+        .arc-section .decorative-line::after {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50%;
+            height: 5px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 30%, #ffffff 70%, transparent 100%);
+            opacity: 0.4;
+        }
+
+        .arc-title {
+            font-size: 1.8rem;
+            color: #ffffff;
+            font-family: 'Playfair Display', 'Times New Roman', serif;
+            margin-bottom: 50px;
+            letter-spacing: 2px;
+        }
+
+        .chapters-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .chapter-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 12px;
+            padding: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .chapter-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        .chapter-card.locked {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .chapter-card.locked:hover {
+            transform: none;
+            background: rgba(255, 255, 255, 0.05);
+            box-shadow: none;
+        }
+
+        .chapter-title {
+            font-size: 1.1rem;
+            color: #ffffff;
+            font-family: 'Times New Roman', 'Georgia', serif;
+            margin-bottom: 10px;
+            font-weight: 600;
+            letter-spacing: 2px;
+        }
+
+        .chapter-description {
+            font-size: 0.95rem;
+            color: #aaaaaa;
+            line-height: 1.5;
+            font-style: italic;
+        }
+
+        .coming-soon {
+            color: #888888;
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .nav-button {
+            background: linear-gradient(135deg, #555555 0%, #333333 100%);
+            border: 1px solid #777777;
+            color: white;
+            padding: 12px 24px;
+            font-size: 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 10px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            font-family: 'Crimson Text', 'Times New Roman', serif;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .nav-button:hover {
+            transform: translateY(-3px);
+            background: linear-gradient(135deg, #666666 0%, #444444 100%);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+        }
+
+        .back-button {
+            background: linear-gradient(135deg, #666666 0%, #444444 100%);
+            margin-bottom: 30px;
+        }
+
+        .reader-content {
+            background: rgba(30, 30, 30, 0.95);
+            color: #e0e0e0;
+            border-radius: 12px;
+            padding: 50px;
+            margin: 20px 0;
+            line-height: 1.8;
+            font-size: 1.1rem;
+            max-height: 75vh;
+            overflow-y: auto;
+            font-family: 'Exo', sans-serif;
+            font-weight: 200;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            width: 85%;
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .reader-content .centered {
+            text-align: center;
+        }
+
+        .reader-content::-webkit-scrollbar {
+            width: 12px;
+        }
+
+        .reader-content::-webkit-scrollbar-track {
+            background: rgba(30, 30, 30, 0.95);
+            border-radius: 6px;
+        }
+
+        .reader-content::-webkit-scrollbar-thumb {
+            background: #e0e0e0;
+            border-radius: 6px;
+        }
+
+        .reader-content::-webkit-scrollbar-thumb:hover {
+            background: #ffffff;
+        }
+
+        @media (min-width: 769px) {
+            .reader-content {
+                width: 95%;
+                max-width: 1800px;
+            }
+        }
+
+        .reader .title {
+            font-family: 'Exo', sans-serif;
+            font-weight: 200;
+        }
+
+        .reader-controls {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .download-button {
+            width: 180px;
+            text-align: center;
+            background: linear-gradient(135deg, #777777 0%, #555555 100%);
+        }
+
+        .chapter-nav {
+            width: 150px;
+            text-align: center;
+            background: linear-gradient(135deg, #888888 0%, #666666 100%);
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .title {
+                font-size: 2.5rem;
+                letter-spacing: 4px;
+            }
+            
+            .container {
+                padding: 20px 15px;
+            }
+            
+            .reader-content {
+                padding: 25px;
+            }
+
+            .chapters-grid, .arcs-grid {
+                max-width: 100%;
+            }
+
+            .chapter-card, .arc-card {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Main Landing Page - Arc Selection -->
+        <div class="main-page active" id="mainPage">
+            <div class="header">
+                <h1 class="title">D A N G A I</h1>
+            </div>
+            
+            <div class="decorative-line"></div>
+            
+            <div class="arc-selection">
+                <div class="arcs-grid">
+                    <div class="arc-card" onclick="navigateToArc('first_arc')">
+                        <div class="arc-title-btn">First Arc</div>
+                        <div class="arc-description">The Hollow Soul</div>
+                    </div>
+                    
+                    <div class="arc-card locked">
+                        <div class="arc-title-btn">Second Arc</div>
+                        <div class="arc-description coming-soon">Coming Soon</div>
+                    </div>
+                    
+                    <div class="arc-card locked">
+                        <div class="arc-title-btn">Third Arc</div>
+                        <div class="arc-description coming-soon">Coming Soon</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Arc Page - Chapter Selection -->
+        <div class="arc-page" id="arcPage">
+            <button class="nav-button back-button" onclick="showMain()">← Back to Arcs</button>
+            
+            <div class="arc-section">
+                <h2 class="arc-title" id="currentArcTitle">First Arc: The Hollow Soul</h2>
+                
+                <div class="decorative-line"></div>
+                
+                <div class="chapters-grid">
+                    <div class="chapter-card locked">
+                        <div class="chapter-title">Chapter 1: College Life</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(2)">
+                        <div class="chapter-title">Chapter 2: Shura</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(3)">
+                        <div class="chapter-title">Chapter 3: The Beginning</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(4)">
+                        <div class="chapter-title">Chapter 4: Where Nothing Exists</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(5)">
+                        <div class="chapter-title">Chapter 5: In Exchange For A Heart</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(6)">
+                        <div class="chapter-title">Chapter 6: The One Who Returned</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(7)">
+                        <div class="chapter-title">Chapter 7: Frosty Hero</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(8)">
+                        <div class="chapter-title">Chapter 8: Just Another Day</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(9)">
+                        <div class="chapter-title">Chapter 9: A Seat at the Table</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(10)">
+                        <div class="chapter-title">Chapter 10: The Unwilling Recruit</div>
+                    </div>
+                    
+                    <div class="chapter-card" onclick="navigateToChapter(11)">
+                        <div class="chapter-title">Chapter 11: The Blade of Choice</div>
+                    </div>
+
+                    <div class="chapter-card locked">
+                        <div class="chapter-title">Chapter 12: Coming Soon</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reader -->
+        <div class="reader" id="reader">
+            <button class="nav-button back-button" onclick="goBackToArc()">← Back to Chapters</button>
+            
+            <div class="header">
+                <h2 class="title" style="font-size: 2rem;" id="chapterTitle">Chapter Title</h2>
+            </div>
+
+            <div class="reader-content" id="chapterContent">
+                <p>Chapter content will appear here...</p>
+            </div>
+
+            <div class="reader-controls">
+                <button class="nav-button chapter-nav" id="prevChapterBtn" onclick="navigateToPrevChapter()">← Previous</button>
+                <button class="nav-button download-button" onclick="downloadChapter()">Download</button>
+                <button class="nav-button chapter-nav" id="nextChapterBtn" onclick="navigateToNextChapter()">Next →</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let currentChapterKey = 2;
+        let currentArc = 'first_arc';
+
+        const chapterNames = {
+            1: "Chapter 1: College Life",
+            2: "Chapter 2: Shura",
+            3: "Chapter 3: The Beginning",
+            4: "Chapter 4: Where Nothing Exists",
+            5: "Chapter 5: In Exchange For A Heart",
+            6: "Chapter 6: The One Who Returned",
+            7: "Chapter 7: Frosty Hero",
+            8: "Chapter 8: Just Another Day",
+            9: "Chapter 9: A Seat at the Table",
+            10: "Chapter 10: The Unwilling Recruit",
+            11: "Chapter 11: The Blade of Choice",
+            12: "Chapter 12: Coming Soon"
+        };
+
+        // URL routing functions
+        function getRouteFromUrl() {
+            const path = window.location.pathname;
+            
+            // Clean homepage - ignore any hash fragments
+            if (path === '/' || path === '/index.html') {
+                // Clear any hash that might be present
+                if (window.location.hash) {
+                    window.history.replaceState(null, '', '/');
+                }
+                return { type: 'home' };
+            }
+            
+            const arcMatch = path.match(/^\/([^\/]+)$/);
+            if (arcMatch) {
+                return { type: 'arc', arc: arcMatch[1] };
+            }
+            
+            const chapterMatch = path.match(/^\/([^\/]+)\/chapter_(\d+)$/);
+            if (chapterMatch) {
+                return { type: 'chapter', arc: chapterMatch[1], chapter: parseInt(chapterMatch[2]) };
+            }
+            
+            return { type: 'home' };
+        }
+
+        function navigateToArc(arcName) {
+            const newUrl = `/${arcName}`;
+            window.history.pushState({ type: 'arc', arc: arcName }, '', newUrl);
+            showArc(arcName);
+            updatePageTitle(`${arcName.replace('_', ' ')} - Dangai`);
+        }
+
+        function navigateToChapter(chapterNum) {
+            const newUrl = `/${currentArc}/chapter_${chapterNum}`;
+            window.history.pushState({ type: 'chapter', arc: currentArc, chapter: chapterNum }, '', newUrl);
+            readChapter(chapterNum);
+        }
+
+        function navigateToPrevChapter() {
+            if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
+                navigateToChapter(currentChapterKey - 1);
+            }
+        }
+
+        function navigateToNextChapter() {
+            if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
+                navigateToChapter(currentChapterKey + 1);
+            }
+        }
+
+        function updatePageTitle(title) {
+            document.title = title || 'Dangai';
+        }
+
+        function showMain() {
+            window.history.pushState({ type: 'home' }, '', '/');
+            document.title = 'Dangai';
+            hideAll();
+            document.getElementById('mainPage').classList.add('active');
+        }
+
+        function showArc(arcName) {
+            currentArc = arcName;
+            hideAll();
+            document.getElementById('arcPage').classList.add('active');
+            
+            // Update arc title based on arcName
+            const arcTitles = {
+                'first_arc': 'First Arc: The Hollow Soul',
+                'second_arc': 'Second Arc: Coming Soon',
+                'third_arc': 'Third Arc: Coming Soon'
+            };
+            
+            document.getElementById('currentArcTitle').textContent = arcTitles[arcName] || arcName;
+        }
+
+        function goBackToArc() {
+            navigateToArc(currentArc);
+        }
+
+        // Load chapter content from markdown files
+        async function loadChapterContent(chapterNum) {
+            try {
+                const response = await fetch(`/chapters/chapter_${chapterNum}.md`);
+                if (!response.ok) {
+                    throw new Error(`Chapter ${chapterNum} not found`);
+                }
+                const markdown = await response.text();
+                return marked.parse(markdown);
+            } catch (error) {
+                console.error(`Failed to load chapter ${chapterNum}:`, error);
+                return `<p>Failed to load chapter content. Please try again.</p>`;
+            }
+        }
+
+        async function readChapter(chapterNum) {
+            currentChapterKey = chapterNum;
+            hideAll();
+
+            const chapterTitle = chapterNames[chapterNum];
+            document.getElementById('chapterTitle').textContent = chapterTitle;
+            document.getElementById('chapterContent').innerHTML = '<p>Loading chapter...</p>';
+            document.getElementById('reader').classList.add('active');
+            
+            // Load chapter content
+            const content = await loadChapterContent(chapterNum);
+            const contentWithTitle = `<h3 class="centered">${chapterTitle}</h3>\n` + content;
+            document.getElementById('chapterContent').innerHTML = contentWithTitle;
+            
+            updateNavButtons();
+            updatePageTitle(`${chapterTitle} - Dangai`);
+        }
+
+        function updateNavButtons() {
+            const prevBtn = document.getElementById('prevChapterBtn');
+            const nextBtn = document.getElementById('nextChapterBtn');
+            
+            // Update previous button
+            if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
+                prevBtn.style.opacity = '1';
+                prevBtn.style.pointerEvents = 'auto';
+            } else {
+                prevBtn.style.opacity = '0.5';
+                prevBtn.style.pointerEvents = 'none';
+            }
+            
+            // Update next button
+            if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
+                nextBtn.style.opacity = '1';
+                nextBtn.style.pointerEvents = 'auto';
+            } else {
+                nextBtn.style.opacity = '0.5';
+                nextBtn.style.pointerEvents = 'none';
+            }
+        }
+
+        async function downloadChapter() {
+            const chapterTitle = chapterNames[currentChapterKey];
+            if (!chapterTitle) return;
+
+            const content = await loadChapterContent(currentChapterKey);
+            const contentHTML = `<div>
+                    <h3 class="centered">${chapterTitle}</h3>
+                    ${content}
+            </div>`;
+
+            // Create a temporary container
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = contentHTML;
+            tempDiv.style.fontFamily = "'Exo', sans-serif";
+            tempDiv.style.color = '#000';
+            tempDiv.style.padding = '20px';
+            document.body.appendChild(tempDiv);
+
+            // PDF options
+            const opt = {
+                margin: 10,
+                filename: `Dangai_${chapterTitle.replace(/[^a-zA-Z0-9]/g, '_')}.pdf`,
+                image: { type: 'jpeg', quality: 0.98 },
+                html2canvas: { scale: 2, logging: false, scrollY: 0 },
+                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+            };
+
+            html2pdf().set(opt).from(tempDiv).save().then(() => {
+                document.body.removeChild(tempDiv); // clean up
+            });
+        }
+
+        function hideAll() {
+            document.querySelectorAll('.main-page, .arc-page, .reader').forEach(el => {
+                el.classList.remove('active');
+            });
+        }
+
+        // Handle browser back/forward buttons
+        window.addEventListener('popstate', function(e) {
+            const route = getRouteFromUrl();
+            handleRoute(route);
+        });
+
+        // Handle initial page load
+        window.addEventListener('load', function() {
+            const route = getRouteFromUrl();
+            handleRoute(route);
+        });
+
+        // Route handler
+        function handleRoute(route) {
+            switch (route.type) {
+                case 'home':
+                    showMain();
+                    break;
+                case 'arc':
+                    showArc(route.arc);
+                    break;
+                case 'chapter':
+                    currentArc = route.arc;
+                    readChapter(route.chapter);
+                    break;
+                default:
+                    showMain();
+                    break;
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.classList.add('loaded');
+            const route = getRouteFromUrl();
+            handleRoute(route);
+        });
+    </script>
+</body>
+</html>
