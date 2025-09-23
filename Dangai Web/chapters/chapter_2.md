@@ -1,6 +1,4 @@
-# Chapter 2: [Title Here] 
- 
-[Chapter content goes here] 
+
 <p class="centered">The next day, Izumi meets Hitsumi in class.</p>
 
 **Izumi:** Hey, how are you?
@@ -116,5 +114,6 @@
 **Shura:** *SHURAAA*
 
 <p class="centered">He crushes the demon's head in his hands. Blood splatters everywhere as he continues laughing.</p>
+
 
 <p class="centered"><em>To be continued...</em></p>
