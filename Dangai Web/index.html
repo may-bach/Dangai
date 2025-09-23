@@ -6,26 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dangai</title>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;700&family=Exo:wght@100;200;300;400&display=swap" rel="stylesheet">
     <style>
-        html, body {
-            background-color: #000000;
-            color: #e0e0e0;
-        }
-
-        /* Prevent flash of unstyled content */
-        body {
-            visibility: hidden;
-        }
-
-        body.loaded {
-            visibility: visible;
-        }
-
         * {
             margin: 0;
             padding: 0;
@@ -166,39 +148,15 @@
         }
 
         .arc-description {
-            font-size: 1.3rem;
-            color: #cccccc;
+            font-size: 1rem;
+            color: #aaaaaa;
             line-height: 1.6;
             font-style: italic;
-            font-weight: 400;
-            letter-spacing: 6px;
         }
 
         .arc-section {
             text-align: center;
             margin-top: 60px;
-        }
-
-        .arc-section .decorative-line {
-            width: 120%;
-            height: 3px;
-            background: linear-gradient(to right, transparent 0%, #ffffff 15%, #ffffff 85%, transparent 100%);
-            margin: 60px auto;
-            position: relative;
-            opacity: 0.6;
-            left: -10%;
-        }
-
-        .arc-section .decorative-line::after {
-            content: '';
-            position: absolute;
-            top: -1px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 50%;
-            height: 5px;
-            background: linear-gradient(to right, transparent 0%, #ffffff 30%, #ffffff 70%, transparent 100%);
-            opacity: 0.4;
         }
 
         .arc-title {
@@ -262,9 +220,7 @@
         }
 
         .coming-soon {
-            color: #888888;
-            font-size: 1.1rem;
-            font-weight: 500;
+            color: #777777;
         }
 
         .nav-button {
@@ -301,7 +257,7 @@
             padding: 50px;
             margin: 20px 0;
             line-height: 1.8;
-            font-size: 1.1rem;
+            font-size: 1.3rem;
             max-height: 75vh;
             overflow-y: auto;
             font-family: 'Exo', sans-serif;
@@ -316,6 +272,29 @@
 
         .reader-content .centered {
             text-align: center;
+        }
+
+        .reader-content p {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .reader-content strong {
+            font-weight: 500;
+            color: #f0f0f0;
+        }
+
+        .reader-content em {
+            color: #cccccc;
+        }
+
+        .reader-content h1, .reader-content h2, .reader-content h3 {
+            font-size: 2.2rem;
+            margin-bottom: 1.5rem;
+            color: #ffffff;
+            font-family: 'Exo', sans-serif;
+            font-weight: 200;
+            text-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
         }
 
         .reader-content::-webkit-scrollbar {
@@ -425,13 +404,10 @@
 
         <!-- Arc Page - Chapter Selection -->
         <div class="arc-page" id="arcPage">
-            <button class="nav-button back-button" onclick="showMain()">← Back to Arcs</button>
+            <a href="/" class="nav-button back-button">← Back to Arcs</a>
             
             <div class="arc-section">
                 <h2 class="arc-title" id="currentArcTitle">First Arc: The Hollow Soul</h2>
-                
-                <div class="decorative-line"></div>
-                
                 <div class="chapters-grid">
                     <div class="chapter-card locked">
                         <div class="chapter-title">Chapter 1: College Life</div>
@@ -486,7 +462,7 @@
 
         <!-- Reader -->
         <div class="reader" id="reader">
-            <button class="nav-button back-button" onclick="goBackToArc()">← Back to Chapters</button>
+            <a href="/first_arc" class="nav-button back-button">← Back to Chapters</a>
             
             <div class="header">
                 <h2 class="title" style="font-size: 2rem;" id="chapterTitle">Chapter Title</h2>
@@ -497,9 +473,9 @@
             </div>
 
             <div class="reader-controls">
-                <button class="nav-button chapter-nav" id="prevChapterBtn" onclick="navigateToPrevChapter()">← Previous</button>
+                <a href="#" class="nav-button chapter-nav" id="prevChapterBtn">← Previous</a>
                 <button class="nav-button download-button" onclick="downloadChapter()">Download</button>
-                <button class="nav-button chapter-nav" id="nextChapterBtn" onclick="navigateToNextChapter()">Next →</button>
+                <a href="#" class="nav-button chapter-nav" id="nextChapterBtn">Next →</a>
             </div>
         </div>
     </div>
@@ -526,13 +502,7 @@
         // URL routing functions
         function getRouteFromUrl() {
             const path = window.location.pathname;
-            
-            // Clean homepage - ignore any hash fragments
             if (path === '/' || path === '/index.html') {
-                // Clear any hash that might be present
-                if (window.location.hash) {
-                    window.history.replaceState(null, '', '/');
-                }
                 return { type: 'home' };
             }
             
@@ -546,7 +516,7 @@
                 return { type: 'chapter', arc: chapterMatch[1], chapter: parseInt(chapterMatch[2]) };
             }
             
-            return { type: 'home' };
+            return null;
         }
 
         function navigateToArc(arcName) {
@@ -560,18 +530,6 @@
             const newUrl = `/${currentArc}/chapter_${chapterNum}`;
             window.history.pushState({ type: 'chapter', arc: currentArc, chapter: chapterNum }, '', newUrl);
             readChapter(chapterNum);
-        }
-
-        function navigateToPrevChapter() {
-            if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
-                navigateToChapter(currentChapterKey - 1);
-            }
-        }
-
-        function navigateToNextChapter() {
-            if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
-                navigateToChapter(currentChapterKey + 1);
-            }
         }
 
         function updatePageTitle(title) {
@@ -598,10 +556,6 @@
             };
             
             document.getElementById('currentArcTitle').textContent = arcTitles[arcName] || arcName;
-        }
-
-        function goBackToArc() {
-            navigateToArc(currentArc);
         }
 
         // Load chapter content from markdown files
@@ -643,18 +597,32 @@
             
             // Update previous button
             if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
+                prevBtn.href = `/${currentArc}/chapter_${currentChapterKey - 1}`;
+                prevBtn.onclick = (e) => {
+                    e.preventDefault();
+                    navigateToChapter(currentChapterKey - 1);
+                };
                 prevBtn.style.opacity = '1';
                 prevBtn.style.pointerEvents = 'auto';
             } else {
+                prevBtn.href = '#';
+                prevBtn.onclick = (e) => e.preventDefault();
                 prevBtn.style.opacity = '0.5';
                 prevBtn.style.pointerEvents = 'none';
             }
             
             // Update next button
             if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
+                nextBtn.href = `/${currentArc}/chapter_${currentChapterKey + 1}`;
+                nextBtn.onclick = (e) => {
+                    e.preventDefault();
+                    navigateToChapter(currentChapterKey + 1);
+                };
                 nextBtn.style.opacity = '1';
                 nextBtn.style.pointerEvents = 'auto';
             } else {
+                nextBtn.href = '#';
+                nextBtn.onclick = (e) => e.preventDefault();
                 nextBtn.style.opacity = '0.5';
                 nextBtn.style.pointerEvents = 'none';
             }
@@ -700,40 +668,27 @@
 
         // Handle browser back/forward buttons
         window.addEventListener('popstate', function(e) {
-            const route = getRouteFromUrl();
-            handleRoute(route);
+            if (e.state && e.state.chapter) {
+                currentArc = e.state.arc || currentArc;
+                readChapter(e.state.chapter);
+            } else if (e.state && e.state.arc) {
+                showArc(e.state.arc);
+            } else {
+                showMain();
+            }
         });
 
-        // Handle initial page load
+        // Initialize the correct view based on URL when page loads
         window.addEventListener('load', function() {
             const route = getRouteFromUrl();
-            handleRoute(route);
-        });
-
-        // Route handler
-        function handleRoute(route) {
-            switch (route.type) {
-                case 'home':
-                    showMain();
-                    break;
-                case 'arc':
-                    showArc(route.arc);
-                    break;
-                case 'chapter':
-                    currentArc = route.arc;
-                    readChapter(route.chapter);
-                    break;
-                default:
-                    showMain();
-                    break;
+            if (route && route.type === 'chapter' && route.chapter && chapterNames[route.chapter]) {
+                currentArc = route.arc;
+                readChapter(route.chapter);
+            } else if (route && route.type === 'arc') {
+                showArc(route.arc);
+            } else {
+                showMain();
             }
-        }
-
-        // Initialize on page load
-        document.addEventListener('DOMContentLoaded', function() {
-            document.body.classList.add('loaded');
-            const route = getRouteFromUrl();
-            handleRoute(route);
         });
     </script>
 </body>
