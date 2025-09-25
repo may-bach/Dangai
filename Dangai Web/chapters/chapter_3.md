@@ -1,4 +1,3 @@
-# Chapter 3
 
 <p class="centered">They exit the portal on the other side. It looks like they’re inside a tree, covered by black branches with blue leaves. And through each of the cracks (just big enough to put your hand through) you can see different places, each very different from the other. They look around as they walk into a huge room made of these branches. There, they see a man standing, looking out into a crack in the shape of a rectangle with the scenery constantly changing from a field to a village, a sea, a forest, a city, a silver and gold path, and a fiery terrain filled with magma as they talk. They walk towards him.</p>
 
@@ -429,5 +428,6 @@
 **Hitsumi:** You mean.
 
 **Izumi:** *Dangai*.
+
 
 
