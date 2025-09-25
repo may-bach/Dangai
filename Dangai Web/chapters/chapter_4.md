@@ -771,7 +771,6 @@
 
 <p class="centered">He looks up in the sky and sees a group of soldiers on griffins.</p>
 
-**Izumi:** *smirks* our ride home.
+**Izumi:** *smirks* our ride home
 
-<p class="centered"><em>To be continued...</em></p>
 
