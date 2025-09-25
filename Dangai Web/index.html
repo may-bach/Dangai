@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;700&family=Exo:wght@100;200;300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;700&family=Exo:wght@100;200;300;400&family=Cinzel:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         html, body {
             background-color: #000000;
@@ -43,7 +43,7 @@
         .container {
             max-width: 900px;
             margin: 0 auto;
-            padding: 40px 20px;
+            padding: 2.5vw;
         }
 
         .reader {
@@ -72,32 +72,188 @@
 
         .header {
             text-align: center;
-            margin-bottom: 80px;
+            margin-bottom: clamp(4rem, 8vw, 5rem);
         }
 
-        .title {
-            font-size: 5rem;
-            font-weight: bold;
+        /* Homepage title styling - reasonable letter spacing */
+        .main-page .title {
+            font-weight: 400;
             color: #ffffff;
             margin-bottom: 20px;
-            margin-top: 40px;
+            margin-top: 2rem;
+            text-shadow: 0 0 40px rgba(255, 255, 255, 0.5), 
+                         0 0 80px rgba(255, 255, 255, 0.3),
+                         0 0 120px rgba(255, 255, 255, 0.1);
+            font-family: 'Cinzel', serif;
+            text-align: center;
+            width: 100%;
+            white-space: nowrap;
+            overflow: visible;
+            
+            /* Default mobile vertical (375px-414px width) */
+            font-size: 2.5rem;
+            letter-spacing: 0.05em;
+        }
+        
+        /* Phone landscape and small tablets (480px-768px) */
+        @media (min-width: 480px) {
+            .main-page .title {
+                font-size: 3rem;
+                letter-spacing: 0.08em;
+            }
+        }
+        
+        /* Tablets and small laptops (768px-1024px) */
+        @media (min-width: 768px) {
+            .main-page .title {
+                font-size: 3.5rem;
+                letter-spacing: 0.1em;
+                margin-top: 2.5rem;
+            }
+        }
+        
+        /* 1080p screens (1080px-1366px) */
+        @media (min-width: 1080px) {
+            .main-page .title {
+                font-size: 4rem;
+                letter-spacing: 0.12em;
+                margin-top: 2.5rem;
+            }
+        }
+        
+        /* 1440p and larger (1440px-1920px) */
+        @media (min-width: 1440px) {
+            .main-page .title {
+                font-size: 4.5rem;
+                letter-spacing: 0.15em;
+                margin-top: 3rem;
+            }
+        }
+        
+        /* 2K screens (1920px-2560px) */
+        @media (min-width: 1920px) {
+            .main-page .title {
+                font-size: 5rem;
+                letter-spacing: 0.18em;
+                margin-top: 3rem;
+            }
+        }
+        
+        /* 4K screens (2560px+) */
+        @media (min-width: 2560px) {
+            .main-page .title {
+                font-size: 6rem;
+                letter-spacing: 0.2em;
+                margin-top: 3.5rem;
+            }
+        }
+
+        /* Other page titles - fixed spacing */
+        .title {
+            font-weight: 400;
+            color: #ffffff;
+            margin-bottom: 20px;
             text-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
             font-family: 'Playfair Display', 'Times New Roman', serif;
-            letter-spacing: 20px;
+            
+            /* Default mobile vertical */
+            font-size: 2rem;
+            letter-spacing: 0.1em;
+            margin-top: 1.5rem;
+        }
+        
+        /* Phone landscape and small tablets */
+        @media (min-width: 480px) {
+            .title {
+                font-size: 2.2rem;
+                letter-spacing: 0.12em;
+            }
+        }
+        
+        /* Tablets and small laptops */
+        @media (min-width: 768px) {
+            .title {
+                font-size: 2.5rem;
+                letter-spacing: 0.15em;
+                margin-top: 2rem;
+            }
+        }
+        
+        /* 1080p screens */
+        @media (min-width: 1080px) {
+            .title {
+                font-size: 3rem;
+                letter-spacing: 0.2em;
+                margin-top: 2rem;
+            }
+        }
+        
+        /* 1440p and larger */
+        @media (min-width: 1440px) {
+            .title {
+                font-size: 3.5rem;
+                letter-spacing: 0.25em;
+                margin-top: 2.5rem;
+            }
+        }
+        
+        /* 2K screens */
+        @media (min-width: 1920px) {
+            .title {
+                font-size: 4rem;
+                letter-spacing: 0.3em;
+                margin-top: 2.5rem;
+            }
+        }
+        
+        /* 4K screens */
+        @media (min-width: 2560px) {
+            .title {
+                font-size: 4.5rem;
+                letter-spacing: 0.35em;
+                margin-top: 3rem;
+            }
         }
 
         .subtitle {
-            font-size: 1rem;
+            font-size: clamp(0.9rem, 1.2vw, 1rem);
             opacity: 0.7;
             color: #cccccc;
             font-style: italic;
         }
 
+        /* Homepage decorative line */
+        .main-page .decorative-line {
+            width: 160%;
+            height: 5px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 10%, #ffffff 90%, transparent 100%);
+            margin: clamp(5rem, 10vw, 6.25rem) auto;
+            position: relative;
+            opacity: 0.8;
+            left: -30%;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.4),
+                        0 0 40px rgba(255, 255, 255, 0.2);
+        }
+
+        .main-page .decorative-line::after {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 7px;
+            background: linear-gradient(to right, transparent 0%, #ffffff 25%, #ffffff 75%, transparent 100%);
+            opacity: 0.6;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+        }
+
+        /* Other page decorative lines */
         .decorative-line {
             width: 160%;
             height: 5px;
             background: linear-gradient(to right, transparent 0%, #ffffff 10%, #ffffff 90%, transparent 100%);
-            margin: 100px auto;
+            margin: clamp(4rem, 8vw, 6.25rem) auto;
             position: relative;
             opacity: 0.8;
             left: -30%;
@@ -117,22 +273,70 @@
 
         .arc-selection {
             text-align: center;
-            margin-top: 60px;
+            margin-top: clamp(3rem, 6vw, 3.75rem);
         }
 
         .arcs-grid {
             display: flex;
             flex-direction: column;
-            gap: 40px;
-            max-width: 600px;
+            gap: clamp(2rem, 4vw, 2.5rem);
+            max-width: min(600px, 90vw);
             margin: 0 auto;
         }
 
+        /* Homepage arc cards */
+        .main-page .arc-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 16px;
+            padding: clamp(2rem, 4vw, 2.5rem);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .main-page .arc-card:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4);
+        }
+
+        .main-page .arc-card.locked {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .main-page .arc-card.locked:hover {
+            transform: none;
+            background: rgba(255, 255, 255, 0.03);
+            box-shadow: none;
+        }
+
+        .main-page .arc-title-btn {
+            font-size: clamp(1.25rem, 2vw, 1.5rem);
+            color: #ffffff;
+            font-family: 'Playfair Display', 'Times New Roman', serif;
+            margin-bottom: 15px;
+            font-weight: 600;
+            letter-spacing: clamp(0.1em, 0.4vw, 0.1875em);
+        }
+
+        .main-page .arc-description {
+            font-size: clamp(1rem, 1.8vw, 1.3rem);
+            color: #cccccc;
+            line-height: 1.6;
+            font-style: italic;
+            font-weight: 400;
+            letter-spacing: clamp(0.2em, 0.8vw, 0.375em);
+        }
+
+        /* Other page arc cards */
         .arc-card {
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(255, 255, 255, 0.15);
             border-radius: 16px;
-            padding: 40px;
+            padding: clamp(2rem, 4vw, 2.5rem);
             cursor: pointer;
             transition: all 0.3s ease;
             text-align: center;
@@ -157,36 +361,37 @@
         }
 
         .arc-title-btn {
-            font-size: 1.5rem;
+            font-size: clamp(1.25rem, 2vw, 1.5rem);
             color: #ffffff;
             font-family: 'Playfair Display', 'Times New Roman', serif;
             margin-bottom: 15px;
             font-weight: 600;
-            letter-spacing: 3px;
+            letter-spacing: clamp(0.1em, 0.4vw, 0.1875em);
         }
 
         .arc-description {
-            font-size: 1.3rem;
-            color: #cccccc;
+            font-size: clamp(0.9rem, 1.2vw, 1rem);
+            color: #aaaaaa;
             line-height: 1.6;
             font-style: italic;
-            font-weight: 400;
-            letter-spacing: 6px;
         }
 
         .arc-section {
             text-align: center;
-            margin-top: 60px;
+            margin-top: clamp(3rem, 6vw, 3.75rem);
         }
 
+        /* Arc page decorative line - smaller version */
         .arc-section .decorative-line {
             width: 120%;
             height: 3px;
             background: linear-gradient(to right, transparent 0%, #ffffff 15%, #ffffff 85%, transparent 100%);
-            margin: 60px auto;
+            margin: clamp(2.5rem, 5vw, 3rem) auto;
             position: relative;
-            opacity: 0.6;
+            opacity: 0.7;
             left: -10%;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.3),
+                        0 0 30px rgba(255, 255, 255, 0.1);
         }
 
         .arc-section .decorative-line::after {
@@ -198,22 +403,23 @@
             width: 50%;
             height: 5px;
             background: linear-gradient(to right, transparent 0%, #ffffff 30%, #ffffff 70%, transparent 100%);
-            opacity: 0.4;
+            opacity: 0.5;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
         }
 
         .arc-title {
-            font-size: 1.8rem;
+            font-size: clamp(1.5rem, 2.5vw, 1.8rem);
             color: #ffffff;
             font-family: 'Playfair Display', 'Times New Roman', serif;
-            margin-bottom: 50px;
-            letter-spacing: 2px;
+            margin-bottom: clamp(1rem, 2vw, 1.5rem);
+            letter-spacing: clamp(0.1em, 0.3vw, 0.125em);
         }
 
         .chapters-grid {
             display: flex;
             flex-direction: column;
-            gap: 25px;
-            max-width: 600px;
+            gap: clamp(1.25rem, 2.5vw, 1.5625rem);
+            max-width: min(600px, 90vw);
             margin: 0 auto;
         }
 
@@ -221,7 +427,7 @@
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(255, 255, 255, 0.15);
             border-radius: 12px;
-            padding: 25px;
+            padding: clamp(1.25rem, 2.5vw, 1.5625rem);
             cursor: pointer;
             transition: all 0.3s ease;
             text-align: center;
@@ -246,33 +452,31 @@
         }
 
         .chapter-title {
-            font-size: 1.1rem;
+            font-size: clamp(1rem, 1.5vw, 1.1rem);
             color: #ffffff;
             font-family: 'Times New Roman', 'Georgia', serif;
             margin-bottom: 10px;
             font-weight: 600;
-            letter-spacing: 2px;
+            letter-spacing: clamp(0.05em, 0.2vw, 0.125em);
         }
 
         .chapter-description {
-            font-size: 0.95rem;
+            font-size: clamp(0.85rem, 1.2vw, 0.95rem);
             color: #aaaaaa;
             line-height: 1.5;
             font-style: italic;
         }
 
         .coming-soon {
-            color: #888888;
-            font-size: 1.1rem;
-            font-weight: 500;
+            color: #777777;
         }
 
         .nav-button {
             background: linear-gradient(135deg, #555555 0%, #333333 100%);
             border: 1px solid #777777;
             color: white;
-            padding: 12px 24px;
-            font-size: 1rem;
+            padding: clamp(0.75rem, 1.5vw, 0.75rem) clamp(1.25rem, 2.5vw, 1.5rem);
+            font-size: clamp(0.9rem, 1.2vw, 1rem);
             border-radius: 8px;
             cursor: pointer;
             transition: all 0.3s ease;
@@ -298,24 +502,46 @@
             background: rgba(30, 30, 30, 0.95);
             color: #e0e0e0;
             border-radius: 12px;
-            padding: 50px;
+            padding: clamp(2.5rem, 5vw, 3.125rem);
             margin: 20px 0;
             line-height: 1.8;
-            font-size: 1.1rem;
+            font-size: clamp(1.1rem, 1.8vw, 1.3rem);
             max-height: 75vh;
             overflow-y: auto;
             font-family: 'Exo', sans-serif;
             font-weight: 200;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
             border: 1px solid rgba(255, 255, 255, 0.1);
-            width: 85%;
-            max-width: 1000px;
+            width: min(85%, 1000px);
             margin-left: auto;
             margin-right: auto;
         }
 
         .reader-content .centered {
             text-align: center;
+        }
+
+        .reader-content p {
+            font-size: clamp(1.1rem, 1.6vw, 1.25rem);
+            margin-bottom: 1rem;
+        }
+
+        .reader-content strong {
+            font-weight: 500;
+            color: #f0f0f0;
+        }
+
+        .reader-content em {
+            color: #cccccc;
+        }
+
+        .reader-content h1, .reader-content h2, .reader-content h3 {
+            font-size: clamp(1.8rem, 3vw, 2.2rem);
+            margin-bottom: 1.5rem;
+            color: #ffffff;
+            font-family: 'Exo', sans-serif;
+            font-weight: 200;
+            text-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
         }
 
         .reader-content::-webkit-scrollbar {
@@ -338,8 +564,7 @@
 
         @media (min-width: 769px) {
             .reader-content {
-                width: 95%;
-                max-width: 1800px;
+                width: min(95%, 1800px);
             }
         }
 
@@ -357,30 +582,33 @@
         }
 
         .download-button {
-            width: 180px;
+            min-width: clamp(140px, 20vw, 180px);
             text-align: center;
             background: linear-gradient(135deg, #777777 0%, #555555 100%);
         }
 
         .chapter-nav {
-            width: 150px;
+            min-width: clamp(120px, 18vw, 150px);
             text-align: center;
             background: linear-gradient(135deg, #888888 0%, #666666 100%);
             color: white;
         }
 
-        @media (max-width: 768px) {
-            .title {
-                font-size: 2.5rem;
-                letter-spacing: 4px;
-            }
-            
+        /* Large screen optimizations - removed clamp usage */
+        @media (min-width: 1920px) {
             .container {
-                padding: 20px 15px;
+                padding: 2rem;
+            }
+        }
+
+        /* Mobile optimizations - removed clamp usage */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1.25rem;
             }
             
             .reader-content {
-                padding: 25px;
+                padding: 1.5rem;
             }
 
             .chapters-grid, .arcs-grid {
@@ -388,7 +616,7 @@
             }
 
             .chapter-card, .arc-card {
-                padding: 20px;
+                padding: 1.25rem;
             }
         }
     </style>
@@ -425,11 +653,12 @@
 
         <!-- Arc Page - Chapter Selection -->
         <div class="arc-page" id="arcPage">
-            <button class="nav-button back-button" onclick="showMain()">← Back to Arcs</button>
+            <a href="/" class="nav-button back-button" onclick="event.preventDefault(); showMain();">← Back to Arcs</a>
             
             <div class="arc-section">
                 <h2 class="arc-title" id="currentArcTitle">First Arc: The Hollow Soul</h2>
                 
+                <!-- Added decorative line between arc title and chapters -->
                 <div class="decorative-line"></div>
                 
                 <div class="chapters-grid">
@@ -486,10 +715,10 @@
 
         <!-- Reader -->
         <div class="reader" id="reader">
-            <button class="nav-button back-button" onclick="goBackToArc()">← Back to Chapters</button>
+            <a href="/first_arc" class="nav-button back-button" onclick="event.preventDefault(); navigateToArc(currentArc);">← Back to Chapters</a>
             
             <div class="header">
-                <h2 class="title" style="font-size: 2rem;" id="chapterTitle">Chapter Title</h2>
+                <h2 class="title" style="font-size: clamp(1.5rem, 3vw, 2rem);" id="chapterTitle">Chapter Title</h2>
             </div>
 
             <div class="reader-content" id="chapterContent">
@@ -497,9 +726,9 @@
             </div>
 
             <div class="reader-controls">
-                <button class="nav-button chapter-nav" id="prevChapterBtn" onclick="navigateToPrevChapter()">← Previous</button>
+                <a href="#" class="nav-button chapter-nav" id="prevChapterBtn">← Previous</a>
                 <button class="nav-button download-button" onclick="downloadChapter()">Download</button>
-                <button class="nav-button chapter-nav" id="nextChapterBtn" onclick="navigateToNextChapter()">Next →</button>
+                <a href="#" class="nav-button chapter-nav" id="nextChapterBtn">Next →</a>
             </div>
         </div>
     </div>
@@ -527,23 +756,21 @@
         function getRouteFromUrl() {
             const path = window.location.pathname;
             
-            // Clean homepage - ignore any hash fragments
-            if (path === '/' || path === '/index.html') {
-                // Clear any hash that might be present
+            if (path === '/' || path === '/index.html' || path === '') {
                 if (window.location.hash) {
                     window.history.replaceState(null, '', '/');
                 }
                 return { type: 'home' };
             }
             
-            const arcMatch = path.match(/^\/([^\/]+)$/);
-            if (arcMatch) {
-                return { type: 'arc', arc: arcMatch[1] };
-            }
-            
             const chapterMatch = path.match(/^\/([^\/]+)\/chapter_(\d+)$/);
             if (chapterMatch) {
                 return { type: 'chapter', arc: chapterMatch[1], chapter: parseInt(chapterMatch[2]) };
+            }
+
+            const arcMatch = path.match(/^\/([^\/]+)$/);
+            if (arcMatch) {
+                return { type: 'arc', arc: arcMatch[1] };
             }
             
             return { type: 'home' };
@@ -553,25 +780,13 @@
             const newUrl = `/${arcName}`;
             window.history.pushState({ type: 'arc', arc: arcName }, '', newUrl);
             showArc(arcName);
-            updatePageTitle(`${arcName.replace('_', ' ')} - Dangai`);
+            updatePageTitle(`${arcName.replace(/_/g, ' ')} - Dangai`);
         }
 
         function navigateToChapter(chapterNum) {
             const newUrl = `/${currentArc}/chapter_${chapterNum}`;
             window.history.pushState({ type: 'chapter', arc: currentArc, chapter: chapterNum }, '', newUrl);
             readChapter(chapterNum);
-        }
-
-        function navigateToPrevChapter() {
-            if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
-                navigateToChapter(currentChapterKey - 1);
-            }
-        }
-
-        function navigateToNextChapter() {
-            if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
-                navigateToChapter(currentChapterKey + 1);
-            }
         }
 
         function updatePageTitle(title) {
@@ -590,7 +805,6 @@
             hideAll();
             document.getElementById('arcPage').classList.add('active');
             
-            // Update arc title based on arcName
             const arcTitles = {
                 'first_arc': 'First Arc: The Hollow Soul',
                 'second_arc': 'Second Arc: Coming Soon',
@@ -598,10 +812,6 @@
             };
             
             document.getElementById('currentArcTitle').textContent = arcTitles[arcName] || arcName;
-        }
-
-        function goBackToArc() {
-            navigateToArc(currentArc);
         }
 
         // Load chapter content from markdown files
@@ -615,7 +825,7 @@
                 return marked.parse(markdown);
             } catch (error) {
                 console.error(`Failed to load chapter ${chapterNum}:`, error);
-                return `<p>Failed to load chapter content. Please try again.</p>`;
+                return `<p>Content for this chapter is not yet available.</p>`;
             }
         }
 
@@ -628,7 +838,6 @@
             document.getElementById('chapterContent').innerHTML = '<p>Loading chapter...</p>';
             document.getElementById('reader').classList.add('active');
             
-            // Load chapter content
             const content = await loadChapterContent(chapterNum);
             const contentWithTitle = `<h3 class="centered">${chapterTitle}</h3>\n` + content;
             document.getElementById('chapterContent').innerHTML = contentWithTitle;
@@ -641,20 +850,32 @@
             const prevBtn = document.getElementById('prevChapterBtn');
             const nextBtn = document.getElementById('nextChapterBtn');
             
-            // Update previous button
-            if (currentChapterKey > 2) { // Start from chapter 2 since 1 is locked
+            // Available chapters: 2 through 11
+            const availableChapters = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]; 
+            const currentIndex = availableChapters.indexOf(currentChapterKey);
+
+            if (currentIndex > 0) {
+                const prevChapter = availableChapters[currentIndex - 1];
+                prevBtn.href = `/${currentArc}/chapter_${prevChapter}`;
+                prevBtn.onclick = (e) => { e.preventDefault(); navigateToChapter(prevChapter); };
                 prevBtn.style.opacity = '1';
                 prevBtn.style.pointerEvents = 'auto';
             } else {
+                prevBtn.href = '#';
+                prevBtn.onclick = (e) => e.preventDefault();
                 prevBtn.style.opacity = '0.5';
                 prevBtn.style.pointerEvents = 'none';
             }
             
-            // Update next button
-            if (currentChapterKey < 11 && chapterNames[currentChapterKey + 1] && !chapterNames[currentChapterKey + 1].includes('Coming Soon')) {
+            if (currentIndex < availableChapters.length - 1) {
+                const nextChapter = availableChapters[currentIndex + 1];
+                nextBtn.href = `/${currentArc}/chapter_${nextChapter}`;
+                nextBtn.onclick = (e) => { e.preventDefault(); navigateToChapter(nextChapter); };
                 nextBtn.style.opacity = '1';
                 nextBtn.style.pointerEvents = 'auto';
             } else {
+                nextBtn.href = '#';
+                nextBtn.onclick = (e) => e.preventDefault();
                 nextBtn.style.opacity = '0.5';
                 nextBtn.style.pointerEvents = 'none';
             }
@@ -666,19 +887,17 @@
 
             const content = await loadChapterContent(currentChapterKey);
             const contentHTML = `<div>
-                    <h3 class="centered">${chapterTitle}</h3>
+                    <h3 style="text-align: center; font-family: 'Exo', sans-serif;">${chapterTitle}</h3>
                     ${content}
             </div>`;
 
-            // Create a temporary container
             const tempDiv = document.createElement('div');
             tempDiv.innerHTML = contentHTML;
             tempDiv.style.fontFamily = "'Exo', sans-serif";
             tempDiv.style.color = '#000';
             tempDiv.style.padding = '20px';
-            document.body.appendChild(tempDiv);
+            tempDiv.style.maxWidth = '800px';
 
-            // PDF options
             const opt = {
                 margin: 10,
                 filename: `Dangai_${chapterTitle.replace(/[^a-zA-Z0-9]/g, '_')}.pdf`,
@@ -687,9 +906,7 @@
                 jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
             };
 
-            html2pdf().set(opt).from(tempDiv).save().then(() => {
-                document.body.removeChild(tempDiv); // clean up
-            });
+            html2pdf().set(opt).from(tempDiv).save();
         }
 
         function hideAll() {
@@ -698,19 +915,11 @@
             });
         }
 
-        // Handle browser back/forward buttons
-        window.addEventListener('popstate', function(e) {
+        window.addEventListener('popstate', (e) => {
             const route = getRouteFromUrl();
             handleRoute(route);
         });
 
-        // Handle initial page load
-        window.addEventListener('load', function() {
-            const route = getRouteFromUrl();
-            handleRoute(route);
-        });
-
-        // Route handler
         function handleRoute(route) {
             switch (route.type) {
                 case 'home':
@@ -729,8 +938,7 @@
             }
         }
 
-        // Initialize on page load
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', () => {
             document.body.classList.add('loaded');
             const route = getRouteFromUrl();
             handleRoute(route);
