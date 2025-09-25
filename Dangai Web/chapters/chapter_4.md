@@ -1,4 +1,3 @@
-# Chapter 4
 
 **Hitsumi:** So, how do we start?
 
@@ -775,3 +774,4 @@
 **Izumi:** *smirks* our ride home.
 
 <p class="centered"><em>To be continued...</em></p>
+
