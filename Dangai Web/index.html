@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dangai</title>
+    <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@400;700&family=Exo:wght@100;200;300;400&family=Cinzel:wght@400;500;600&family=Lora:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        html, body {
+            background-color: #000000;
+            color: #e0e0e0;
+            font-family: 'Crimson Text', 'Times New Roman', serif;
+        }
+        .font-cinzel { font-family: 'Cinzel', serif; }
+        .font-playfair { font-family: 'Playfair Display', 'Times New Roman', serif; }
+        .font-exo { font-family: 'Exo', sans-serif; }
+        .font-lora { font-family: 'Lora', serif; }
+        
+        /* Custom scrollbar for reader content */
+        #chapterContent::-webkit-scrollbar {
+            width: 8px;
+        }
+        #chapterContent::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+        }
+        #chapterContent::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+        }
+        #chapterContent::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Custom Reader Content Styles */
+        .reader-content {
+            font-size: 1.125rem; /* 18px */
+            line-height: 1.7;
+            color: #f0f0f0; /* Increased visibility */
+        }
+        .reader-content p {
+            margin-bottom: 0.5em; /* Tighter spacing for dialogue */
+        }
+        .reader-content strong {
+            color: #c8c8c8; /* Toned down even more */
+            font-weight: 600;
+        }
+        .reader-content em {
+            color: #e0e0e0; /* Increased visibility */
+        }
+        .reader-content .centered {
+            text-align: center;
+            margin-top: 1.5em;
+            margin-bottom: 1.5em;
+            color: #b0b0b0; /* Increased visibility */
+            font-style: italic;
+        }
+
+        /* Added Animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fadeIn {
+            animation: fadeIn 1s ease-out forwards;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.3",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.21.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/"
+  }
+}
+</script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+</body>
+</html>
