@@ -876,3 +876,5 @@
 **Demon:** NO, NOOOOOO.
 
 <p class="centered">His screams flood the room, but they’re brought to a rest as Ikki beheads him.</p>
+
+<p class="centered"><em>To be continued...</em></p>

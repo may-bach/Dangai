@@ -392,3 +392,5 @@
 **Hitsumi:** *laughs* I'm joking, come on, let's go.
 
 **Izumi:** *sighs* *smiles* fine, let’s explore.
+
+<p class="centered"><em>To be continued...</em></p>

@@ -610,3 +610,5 @@
 **Sora:** STOP!
 
 <p class="centered">Sora jumps in between them and looks at Raiga furiously</p>
+
+<p class="centered"><em>To be continued...</em></p>

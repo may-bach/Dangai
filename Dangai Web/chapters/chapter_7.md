@@ -994,3 +994,5 @@
 **Hitsumi:** Good night.
 
 **Izumi:** Good night.
+
+<p class="centered"><em>To be continued...</em></p>
