@@ -22,28 +22,6 @@ A sophisticated single-page web application for reading serialized stories onlin
 -   **Markdown Parsing**: [Marked.js](https://marked.js.org/)
 -   **PDF Generation**: [html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
 
-## Project Structure
-
-The project uses a standard Vite + React structure to separate public assets from source code.
-
-/
-├── public/
-│   └── chapters/
-│       └── first_arc/
-│           ├── chapter_1.md
-│           └── ...
-├── src/
-│   ├── components/
-│   │   ├── ReaderPage.tsx
-│   │   └── ...
-│   ├── App.tsx
-│   └── index.tsx
-├── .gitignore
-├── index.html
-├── package.json
-├── vercel.json
-└── vite.config.ts
-
 ## Setup and Running Locally
 
 1.  **Clone this repository:**
