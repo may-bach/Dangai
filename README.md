@@ -27,13 +27,13 @@ A sophisticated single-page web application for reading serialized stories onlin
 The project uses a standard Vite + React structure to separate public assets from source code.
 
 /
-├── /public/
-│   └── /chapters/
-│       └── /first_arc/
+├── public/
+│   └── chapters/
+│       └── first_arc/
 │           ├── chapter_1.md
 │           └── ...
-├── /src/
-│   ├── /components/
+├── src/
+│   ├── components/
 │   │   ├── ReaderPage.tsx
 │   │   └── ...
 │   ├── App.tsx
