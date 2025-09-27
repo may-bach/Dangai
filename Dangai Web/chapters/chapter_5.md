@@ -449,7 +449,9 @@
 
 **???:** It’s so good to be,
 
+
 <p class="centered">He turns around halfway and looks at the demon over his shoulder. His eyes are jet black, and his iris is shining gold.</p>
 
 **???:** back.
 
+<p class="centered"><em>To be continued...</em></p>
