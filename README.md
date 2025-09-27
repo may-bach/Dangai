@@ -26,11 +26,11 @@ A sophisticated single-page web application for reading serialized stories onlin
 
 1.  **Clone this repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/may-bach/Dangai
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd <your-project-folder>
+    cd Dangai
     ```
 3.  **Install dependencies:**
     ```bash
