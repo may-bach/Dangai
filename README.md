@@ -1,42 +1,28 @@
-Of course. Based on our conversations and the current state of your project, here is an updated README.md file that accurately reflects your modern React and Vite setup.
-
-Dangai Web Reader
+# Dangai Web Reader
 
 A sophisticated single-page web application for reading serialized stories online, built with React and Vite. Features a sleek dark interface, dynamic content loading, and a fully organized project structure ready for deployment on Vercel.
 
-Features
+## Features
 
-    Clean, Dark UI: A professional dark theme with elegant, readable typography.
+-   **Clean, Dark UI**: A professional dark theme with elegant, readable typography.
+-   **Arc & Chapter Navigation**: Organized story structure with smooth client-side routing using React Router.
+-   **Markdown Support**: Dynamically loads and parses story content from markdown files.
+-   **PDF Export**: Allows users to download individual chapters as well-formatted PDF files.
+-   **Mobile Responsive**: Works seamlessly across desktop and mobile devices thanks to Tailwind CSS.
+-   **URL-based Navigation**: Deep, bookmarkable links for every chapter with browser back/forward support.
 
-    Arc & Chapter Navigation: Organized story structure with smooth client-side routing using React Router.
+## Tech Stack
 
-    Markdown Support: Dynamically loads and parses story content from markdown files.
+-   **Framework**: React
+-   **Language**: TypeScript
+-   **Build Tool**: Vite
+-   **Styling**: Tailwind CSS
+-   **Routing**: React Router
+-   **Deployment**: Vercel
+-   **Markdown Parsing**: [Marked.js](https://marked.js.org/)
+-   **PDF Generation**: [html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
 
-    PDF Export: Allows users to download individual chapters as well-formatted PDF files.
-
-    Mobile Responsive: Works seamlessly across desktop and mobile devices thanks to Tailwind CSS.
-
-    URL-based Navigation: Deep, bookmarkable links for every chapter with browser back/forward support.
-
-Tech Stack
-
-    Framework: React
-
-    Language: TypeScript
-
-    Build Tool: Vite
-
-    Styling: Tailwind CSS
-
-    Routing: React Router
-
-    Deployment: Vercel
-
-    Markdown Parsing: Marked.js
-
-    PDF Generation: html2pdf.js
-
-Project Structure
+## Project Structure
 
 The project uses a standard Vite + React structure to separate public assets from source code.
 
@@ -58,39 +44,34 @@ The project uses a standard Vite + React structure to separate public assets fro
 ├── vercel.json
 └── vite.config.ts
 
-Setup and Running Locally
+## Setup and Running Locally
 
-    Clone this repository:
-    Bash
-
-git clone <your-repo-url>
-
-Navigate to the project directory:
-Bash
-
-cd <your-project-folder>
-
-Install dependencies:
-Bash
-
-npm install
-
-Run the development server:
-Bash
-
+1.  **Clone this repository:**
+    ```bash
+    git clone <your-repo-url>
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd <your-project-folder>
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Run the development server:**
+    ```bash
     npm run dev
+    ```
+    The application will be available at `http://localhost:3000`.
 
-    The application will be available at http://localhost:3000.
+## Adding Content
 
-Adding Content
+-   Story content is placed in arc-specific subfolders inside `/public/chapters/`.
+-   You can use the included `create.bat` script to automatically generate new chapter files in the correct location with the correct naming convention.
 
-    Story content is placed in arc-specific subfolders inside /public/chapters/.
+## Deployment
 
-    You can use the included create.bat script to automatically generate new chapter files in the correct location with the correct naming convention.
-
-Deployment
-
-This project is pre-configured for seamless deployment on Vercel. The vercel.json file is included to handle the necessary rewrites for a single-page application, ensuring that direct navigation to chapter URLs works correctly.
+This project is pre-configured for seamless deployment on **Vercel**. The `vercel.json` file is included to handle the necessary rewrites for a single-page application, ensuring that direct navigation to chapter URLs works correctly.
 
 ## Images
 
