@@ -747,252 +747,250 @@
 
 <p class="centered">They both laugh. As they were about to walk away to search for a place to stay, Reina walked out.</p>
 
-**Reina:** Um, Izumi.
+Reina: Um, Izumi.
 
-**Izumi:** Oh, Reina. What's up?
+Izumi: Oh, Reina. What's up?
 
-**Reina:** I overheard that you guys are looking for a place to stay.
+Reina: I overheard that you guys are looking for a place to stay.
 
-**Izumi:** Yeah.
+Izumi: Yeah.
 
-**Reina:** I have an empty room upstairs since my brother just died.
+Reina: I have an empty room upstairs since my brother just died.
 
-**Izumi:** Well, we don’t have money, though.
+Izumi: Well, we don’t have money, though.
 
 <p class="centered">She immediately responds hastily.</p>
 
-**Reina:** That’s not a problem, after all, you’ve already given me so much money.
+Reina: That’s not a problem, after all, you’ve already given me so much money.
 
-**Izumi:** But it's a personal room, right?
+Izumi: But it's a personal room, right?
 
-**Reina:** (looks down and thinks about it as she holds her hand) It is, but I need to move on. What's happened has happened.
+Reina: (looks down and thinks about it as she holds her hand) It is, but I need to move on. What's happened has happened.
 
-**Izumi:** *smiles and comforts her* Thank you.
+Izumi: smiles and comforts her Thank you.
 
 <p class="centered">She looks up at him</p>
 
 <p class="centered">Hitsumi grabs him by his shirt and pulls him inside.</p>
 
-**Hitsumi:** Okayyy, let's go inside.
+Hitsumi: Okayyy, let's go inside.
 
-**Izumi:** Oi, let me go.
+Izumi: Oi, let me go.
 
 <p class="centered">She continues to pull him inside.</p>
 
-**Reina:** *laughs*
+Reina: laughs
 
 <p class="centered">She leads them to the room.</p>
 
-**Reina:** Here it is.
+Reina: Here it is.
 
 <p class="centered">He looks around.</p>
 
-**Izumi:** Yoo, this place looks sick.
+Izumi: Yoo, this place looks sick.
 
 <p class="centered">He sees a lot of pictures and models of cars</p>
 
-**Izumi:** Was he a big car enthusiast?
+Izumi: Was he a big car enthusiast?
 
-**Hitsumi:** These cars are pretty similar to the ones on Earth.
+Hitsumi: These cars are pretty similar to the ones on Earth.
 
-**Izumi:** It is cause they are.
+Izumi: It is cause they are.
 
-**Hitsumi:** How?
+Hitsumi: How?
 
-**Izumi:** We have a small view into what's going on on Earth.
+Izumi: We have a small view into what's going on on Earth.
 
-**Hitsumi:** Ohh.
+Hitsumi: Ohh.
 
 <p class="centered">Reina gets confused</p>
 
-**Reina:** Have you never seen Earth?
+Reina: Have you never seen Earth?
 
 <p class="centered">Hitsumi gulps, realizing her cover might get blown</p>
 
-**Izumi:** Umm, she actually has short-term memory loss, so she often forgets small things, right?
+Izumi: Umm, she actually has short-term memory loss, so she often forgets small things, right?
 
 <p class="centered">He turns towards Hitsumi.</p>
 
-**Hitsumi:** *slightly annoyed* Yeah, you know me. Sometimes I can be a little dumb.
+Hitsumi: slightly annoyed Yeah, you know me. Sometimes I can be a little dumb. (faking a smile as she says it)
 
-<p class="centered">(faking a smile as she says it)</p>
+Reina: Oh, okay.
 
-**Reina:** Oh, okay.
+<p class="centered">Izumi sighs in relief.</p>
 
-<p class="centered">Izumi sighs in relief. He walks over towards one of the car models, which is kept separate from the others.</p>
+<p class="centered">He walks over towards one of the car models, which is kept separate from the others.</p>
 
-**Reina:** That one was his favorite.
+Reina: That one was his favorite.
 
-**Izumi:** He has good taste. An RX-7 FD3S, huh.
+Izumi: He has good taste. An RX-7 FD3S, huh.
 
-**Reina:** That’s the car his favorite racer used to drive.
+Reina: That’s the car his favorite racer used to drive.
 
-**Izumi:** Interesting.
+Izumi: Interesting.
 
-**Reina:** He used to say that cars were the only good thing ever made by Earthlings.
+Reina: He used to say that cars were the only good thing ever made by Earthlings.
 
-**Izumi:** *laughs* right.
+Izumi: laughs right.
 
 <p class="centered">He looks over at Hitsumi, glaring at her, and quiets down as she also fakes a little laugh.</p>
 
-**Reina:** You seem to know a lot about cars.
+Reina: You seem to know a lot about cars.
 
-**Izumi:** I know a little bit.
+Izumi: I know a little bit.
 
-**Reina:** *smiles* You and my brother would’ve got along well.
+Reina: smiles You and my brother would’ve got along well.
 
 <p class="centered">Izumi smiles</p>
 
-**Reina:** He always played with them. He even wanted to race, but we were never rich enough to get him his own actual car.
+Reina: He always played with them. He even wanted to race, but we were never rich enough to get him his own actual car.
 
 <p class="centered">Izumi lifts a stand, holding a solid silver metal bracelet</p>
 
-**Reina:** He always used to wear that.
+Reina: He always used to wear that.
 
-**Izumi:** It looks really good.
+Izumi: It looks really good.
 
-**Reina:** You can keep it if you want.
+Reina: You can keep it if you want.
 
-**Izumi:** I couldn’t (surprised).
+Izumi: I couldn’t (surprised).
 
-**Reina:** No, really, it's fine. He told us to sell it anyway, but I’d rather give it to you. You could consider it a thank you for the money.
+Reina: No, really, it's fine. He told us to sell it anyway, but I’d rather give it to you. You could consider it a thank you for the money.
 
-**Izumi:** *smiles* Thank you.
+Izumi: smiles Thank you.
 
 <p class="centered">He wears it on his wrist.</p>
 
-**Izumi:** It looks good, no.
+Izumi: It looks good, no.
 
-**Reina:** Yes.
+Reina: Yes.
 
 <p class="centered">He looks at Hitsumi</p>
 
-**Izumi:** What do you think?
+Izumi: What do you think?
 
-**Hitsumi:** *glares*
+Hitsumi: glares
 
-**Izumi:** *removes it and keeps it back on the stand* You know what, on second thought, I don’t want it.
+Izumi: removes it and keeps it back on the stand You know what, on second thought, I don’t want it.
 
-**Reina:** Oh, ok.
+Reina: Oh, ok.
 
 <p class="centered">Hitsumi removes her shoes and falls onto the bed</p>
 
-**Hitsumi:** Finally, I needed this so badly.
+Hitsumi: Finally, I needed this so badly.
 
-**Izumi:** Hey, wait, where will I sleep?
+Izumi: Hey, wait, where will I sleep?
 
-**Reina:** I'm sorry, there's only one bed.
+Reina: I'm sorry, there's only one bed.
 
-**Hitsumi:** *laughs* unlucky.
+Hitsumi: laughs unlucky.
 
-**Reina:** I have a spare mattress in my room, but there's no place in this room. So you’ll have to sleep in my room.
+Reina: I have a spare mattress in my room, but there's no place in this room. So you’ll have to sleep in my room.
 
 <p class="centered">Hitsumi opens her eyes</p>
 
-**Izumi:** Sur-
+Izumi: Sur-
 
-**Hitsumi:** He likes sleeping on the floor.
+Hitsumi: He likes sleeping on the floor.
 
-**Izumi:** What? (confused)
+Izumi: What? (confused)
 
-**Hitsumi:** You like sleeping on the floor, right?
+Hitsumi: You like sleeping on the floor, right?
 
 <p class="centered">She says, and she looks at Izumi with a smile</p>
 
-**Izumi:** *scared* YES, I LIKE SLEEPING ON THE FLOOR.
+Izumi: scared YES, I LIKE SLEEPING ON THE FLOOR.
 
-**Reina:** Oh, okay.
+Reina: Oh, okay.
 
-**Izumi:** *smiles in fear*
+Izumi: smiles in fear
 
-**Reina:** Alright, good night.
+Reina: Alright, good night.
 
-**Izumi:** Good night.
+Izumi: Good night.
 
-**Hitsumi:** Good night.
+Hitsumi: Good night.
 
 <p class="centered">Reina closes the door and goes to sleep</p>
 
-**Izumi:** *sighs*.
+Izumi: sighs.
 
 <p class="centered">He takes off his shirt and falls to the floor with his arms wide open.</p>
 
-**Hitsumi:** *thinks* Fine, I feel bad for you. You can sleep on the bed.
+Hitsumi: thinks Fine, I feel bad for you. You can sleep on the bed.
 
-**Izumi:** Really.
+Izumi: Really.
 
 <p class="centered">He sits up happily</p>
 
-**Hitsumi:** *smiles* I guess. Go to sleep before I regret it.
+Hitsumi: sighs I guess. Go to sleep before I regret it.
 
-**Izumi:** Thank you.
+Izumi: Thank you.
 
-<p class="centered">Hitsumi moves over to the side, and he gets on the bed. He tried to go to sleep but couldn’t</p>
+<p class="centered">Hitsumi moves over to the side, and he gets on the bed.</p>
+
+<p class="centered">He tried to go to sleep but couldn’t</p>
 
 <p class="centered">-After 10 minutes-</p>
 
-**Izumi:** You asleep?
+Izumi: You asleep?
 
-**Hitsumi:** No.
+Hitsumi: No.
 
-**Izumi:** *sighs* It’s been so long since I’ve gone to sleep in Dangai.
+Izumi: sighs It’s been so long since I’ve gone to sleep in Dangai.
 
-**Hitsumi:** How long?
+Hitsumi: How long?
 
-**Izumi:** 5 years.
+Izumi: 5 years.
 
-**Hitsumi:** Considering how long you’ve lived, it isn’t that long.
+Hitsumi: Considering how long you’ve lived, it isn't that long.
 
-**Izumi:** I guess.
+Izumi: I guess.
 
-**Hitsumi:** Mmm.
+Hitsumi: Mmm.
 
-**Izumi:** Mmm.
+Izumi: Mmm.
 
 <p class="centered">After a few seconds of silence</p>
 
-**Izumi:** I'm impressed that you were able to figure out that you should probably not make it obvious you’re from Earth.
+Izumi: I'm impressed that you were able to figure out that you should probably not make it obvious you’re from Earth.
 
-**Hitsumi:** It just seemed right. But why should I not?
+Hitsumi: It just seemed right. But why should I not?
 
-**Izumi:** The people of Dangai tend to look down upon Earthlings, as they like to call them.
+Izumi: The people of Dangai tend to look down upon Earthlings, as they like to call them.
 
-**Hitsumi:** Why?
+Hitsumi: Why?
 
-**Izumi:** Because of your lack of divinity.
+Izumi: Because of your lack of divinity.
 
-**Hitsumi:** That’s bullshit.
+Hitsumi: That’s bullshit.
 
-**Izumi:** It is what it is.
+Izumi: It is what it is.
 
-**Hitsumi:** Mmm.
+Hitsumi: Mmm.
 
-**Izumi:** Hey, why don't you want me to talk to Reina?
+Izumi: Hey, why don't you want me to talk to Reina?
 
-**Hitsumi:** It's not that I don’t want you to. I just don’t want you to flirt with a girl you barely know.
+Hitsumi: It's not that I don’t want you to. I just don’t want you to sleep with a girl you barely know. Get to know her, then you can try to get with her.
 
-**Izumi:** You mean?
+Izumi: sighs Fair enough.
 
-**Hitsumi:** Get to know her, then you can try to get with her.
+Izumi: smiles and pats her head Thank you for caring.
 
-**Izumi:** *sighs* Fair enough.
+Hitsumi: smiles Alright, now to go to sleep.
 
-**Izumi:** *smiles and pats her head* Thank you for caring.
+Izumi: grins I saw the way you looked at Sora.
 
-**Hitsumi:** *smiles* Alright, now to go to sleep.
+Hitsumi: EXCUSE ME.
 
-**Izumi:** *grins* I saw the way you looked at Sora.
+Izumi: laughs I'm joking, I'm joking.
 
-**Hitsumi:** EXCUSE ME.
+Hitsumi: puffs her face.
 
-**Izumi:** *laughs* I'm joking, I'm joking.
+Izumi: Alright, go to sleep.
 
-**Hitsumi:** *puffs her face*.
+Hitsumi: Good night.
 
-**Izumi:** Alright, go to sleep.
-
-**Hitsumi:** Good night.
-
-**Izumi:** Good night.
+Izumi: Good night.
 
 <p class="centered"><em>To be continued...</em></p>
