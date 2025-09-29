@@ -387,7 +387,7 @@
 
 **Hitsumi:** FINALLY, all that running built up an appetite.
 
-**Izumi:** What is running? (sarcastically)
+**Izumi:** What, running? (sarcastically)
 
 **Hitsumi:** *laughs* I'm joking, come on, let's go.
 
