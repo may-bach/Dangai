@@ -1,4 +1,3 @@
-Chapter 1
 
 <p class="centered">A guy lies on the floor with his left arm covering his eyes and playing with a ball with his right. He has his earbuds plugged in as he talks to his friend on the phone. He throws the ball up and catches it before throwing it up again.</p>
 
