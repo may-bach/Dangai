@@ -1,10 +1,14 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { ARCS, NOVEL_TITLE } from '../constants';
 import type { Arc } from '../types';
 import DecorativeLine from './DecorativeLine';
 
-const ArcCard: React.FC<{ arc: Arc }> = ({ arc }) => {
+interface ArcCardProps {
+    arc: Arc;
+    onSelect: (arc: Arc) => void;
+}
+
+const ArcCard: React.FC<ArcCardProps> = ({ arc, onSelect }) => {
     const cardClasses = `
         bg-white/5 border border-white/15 rounded-2xl p-6 text-center transition-all duration-300
         ${arc.locked 
@@ -14,7 +18,7 @@ const ArcCard: React.FC<{ arc: Arc }> = ({ arc }) => {
     `;
 
     const content = (
-        <div className={cardClasses}>
+        <div className={cardClasses} onClick={() => !arc.locked && onSelect(arc)}>
             <div className="font-playfair text-xl md:text-2xl font-semibold text-white mb-4 tracking-[0.2em] md:tracking-[0.25em] [text-shadow:0_0_15px_rgba(255,255,255,0.4)]">{arc.title}</div>
             <div className={`font-serif text-base md:text-lg italic ${arc.locked ? 'text-neutral-500' : 'text-neutral-300'} ${arc.id === 'first_arc' ? 'tracking-[0.15em]' : ''}`}>
                 {arc.description}
@@ -22,10 +26,14 @@ const ArcCard: React.FC<{ arc: Arc }> = ({ arc }) => {
         </div>
     );
 
-    return arc.locked ? content : <Link to={`/${arc.slug}`}>{content}</Link>;
+    return content;
 };
 
-const MainPage: React.FC = () => {
+interface MainPageProps {
+    onSelectArc: (arc: Arc) => void;
+}
+
+const MainPage: React.FC<MainPageProps> = ({ onSelectArc }) => {
     React.useEffect(() => {
         document.title = 'Dangai';
     }, []);
@@ -42,7 +50,7 @@ const MainPage: React.FC = () => {
 
             <main className="text-center mt-12">
                 <div className="grid grid-cols-1 gap-8 max-w-lg mx-auto">
-                    {ARCS.map(arc => <ArcCard key={arc.id} arc={arc} />)}
+                    {ARCS.map(arc => <ArcCard key={arc.id} arc={arc} onSelect={onSelectArc} />)}
                 </div>
             </main>
         </div>
