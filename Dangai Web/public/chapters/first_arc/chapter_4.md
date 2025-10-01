@@ -1,5 +1,4 @@
 
-Chapter 4
 
 Hitsumi: So, how do we start?
 
