@@ -121,7 +121,7 @@
 
 **Guy:** What the hell?
 
-<p class="centered">Izumi side vaults over his table, landing in the empty seat beside Layla.</p>
+<p class="centered">Izumi side vaults over his table, landing in the empty seat beside Chloe.</p>
 
 <p class="centered">He puts his arm around her and smiles.</p>
 
@@ -135,23 +135,29 @@
 
 **Izumi:** So what's Ms. Pretty's name.
 
-**Layla:** It's Layla.
+**Chloe:** It's Chloe.
 
-**Izumi:** Oh, you're from the US?
+**Izumi:** Oh, you're not from here?
 
-**Layla:** What gave it away, the blonde hair?
+**Chloe:** What gave it away, the blonde hair or the accent?
 
-**Izumi:** You'd be surprised how many girls dye their hair to look more American.
+**Izumi:** *laughs* Fair, so where are you from?
 
-<p class="centered">Layla laughs</p>
+**Chloe:** I'm from the US.
+
+**Izumi:** Woah, American, that's pretty exotic.
+
+**Chloe:** I'll take that as a compliment.
+
+<p class="centered">Chloe laughs</p>
 
 **Izumi:** So, since you're new, I was thinking I could offer to take some time out of my busy day to give you a tour of the place.
 
-**Layla:** Wow, really. That's very generous, but as I said, my friends a senior, she can give me the tour.
+**Chloe:** Wow, really. That's very generous, but as I said, my friends a senior, she can give me the tour.
 
 **Izumi:** Oh, are you sure? I know a lot about the university which even your friend wouldn't know.
 
-**Layla:** Yeah, I'm sure. I already made plans with her.
+**Chloe:** Yeah, I'm sure. I already made plans with her.
 
 **Izumi:** *sighs and smiles* Well you win some, you lose some.
 
@@ -159,15 +165,15 @@
 
 <p class="centered">As he is about to she grabs his arm.</p>
 
-**Layla:** Wait.
+**Chloe:** Wait.
 
 **Izumi:** Hmm?
 
-**Layla:** I didn't hear the best things about you, but you seem like a nice guy. What about after she gives me a tour we can grab coffee.
+**Chloe:** I didn't hear the best things about you, but you seem like a nice guy. What about after she gives me a tour we can grab coffee.
 
 **Izumi:** *smirks* Of course, there's this really good coffee place I know downtown.
 
-**Layla:** Great.
+**Chloe:** Great.
 
 <p class="centered">She hands him a paper with her number</p>
 
