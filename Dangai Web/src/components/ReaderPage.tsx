@@ -245,35 +245,37 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
 
     return (
         <div className="w-full min-h-screen px-4 sm:px-6 md:px-12 lg:px-20 xl:px-24 py-4 sm:py-6 md:py-8 animate-fadeIn">
-            <div className="w-full mb-8 pt-4">
-                <button onClick={onBack} className={backButtonClasses}>
-                    &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
-                </button>
-            </div>
+            <div className="max-w-screen-2xl mx-auto">
+                <div className="w-full mb-8 pt-4">
+                    <button onClick={onBack} className={backButtonClasses}>
+                        &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
+                    </button>
+                </div>
 
-            <header className="text-center mb-12">
-                <h1 className="font-exo font-extralight text-3xl md:text-4xl lg:text-5xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
-                    {headerTitle}
-                </h1>
-            </header>
+                <header className="text-center mb-12">
+                    <h1 className="font-exo font-extralight text-3xl md:text-4xl lg:text-5xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
+                        {headerTitle}
+                    </h1>
+                </header>
 
-            <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 w-full max-h-[80vh] overflow-y-auto reader-content">
-                {showBookmarkPrompt && (
-                    <div className="sticky top-0 z-10 bg-black/70 backdrop-blur-sm p-4 mb-4 flex flex-col sm:flex-row sm:justify-between items-center gap-3 animate-fadeIn rounded-lg border border-yellow-500/30 text-center sm:text-left">
-                        <p className="text-lg text-yellow-300">Jump to your last reading position?</p>
-                        <div className="flex-shrink-0">
-                            <button onClick={handleJumpToBookmark} className="bg-yellow-500/80 text-black font-bold py-2 px-5 rounded-md mr-2 hover:bg-yellow-400 transition-colors text-base">Jump</button>
-                            <button onClick={() => setShowBookmarkPrompt(false)} className="bg-neutral-600/80 text-white py-2 px-5 rounded-md hover:bg-neutral-500 transition-colors text-base">Dismiss</button>
+                <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 w-full max-h-[80vh] overflow-y-auto reader-content">
+                    {showBookmarkPrompt && (
+                        <div className="sticky top-0 z-10 bg-black/70 backdrop-blur-sm p-4 mb-4 flex flex-col sm:flex-row sm:justify-between items-center gap-3 animate-fadeIn rounded-lg border border-yellow-500/30 text-center sm:text-left">
+                            <p className="text-lg text-yellow-300">Jump to your last reading position?</p>
+                            <div className="flex-shrink-0">
+                                <button onClick={handleJumpToBookmark} className="bg-yellow-500/80 text-black font-bold py-2 px-5 rounded-md mr-2 hover:bg-yellow-400 transition-colors text-base">Jump</button>
+                                <button onClick={() => setShowBookmarkPrompt(false)} className="bg-neutral-600/80 text-white py-2 px-5 rounded-md hover:bg-neutral-500 transition-colors text-base">Dismiss</button>
+                            </div>
                         </div>
-                    </div>
-                )}
-                {isLoading ? <LoadingSpinner /> : <div dangerouslySetInnerHTML={{ __html: content }} />}
-            </div>
-            
-            <div className="flex justify-center items-center gap-4 md:gap-6 mt-8 flex-wrap">
-                <NavButton nav={prevNav}>&larr; Previous</NavButton>
-                <button onClick={handleDownload} className={buttonClasses}>Download</button>
-                <NavButton nav={nextNav}>Next &rarr;</NavButton>
+                    )}
+                    {isLoading ? <LoadingSpinner /> : <div dangerouslySetInnerHTML={{ __html: content }} />}
+                </div>
+                
+                <div className="flex justify-center items-center gap-4 md:gap-6 mt-8 flex-wrap">
+                    <NavButton nav={prevNav}>&larr; Previous</NavButton>
+                    <button onClick={handleDownload} className={buttonClasses}>Download</button>
+                    <NavButton nav={nextNav}>Next &rarr;</NavButton>
+                </div>
             </div>
         </div>
     );
