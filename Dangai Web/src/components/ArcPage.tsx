@@ -141,8 +141,12 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
             </button>
 
             <section className="text-center mt-12">
-                <h2 className="font-playfair text-xl md:text-2xl font-normal text-white mb-4 tracking-[0.1em] [text-shadow:0_0_30px_rgba(255,255,255,0.4),0_0_50px_rgba(255,255,255,0.2)]">
-                    Chapter {chapter.id}: {chapter.title}
+                <h2 className={`font-playfair font-normal text-white mb-4 [text-shadow:0_0_30px_rgba(255,255,255,0.4),0_0_50px_rgba(255,255,255,0.2)] ${
+                    arc.id === 'prologue' 
+                    ? 'text-2xl md:text-3xl tracking-[0.15em]' 
+                    : 'text-xl md:text-2xl tracking-[0.1em]'
+                }`}>
+                    {arc.id === 'prologue' ? arc.title : `Chapter ${chapter.id}: ${chapter.title}`}
                 </h2>
 
                 <DecorativeLine variant="arc" />
