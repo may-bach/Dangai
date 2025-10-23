@@ -245,7 +245,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
 
     return (
         <div className="w-full min-h-screen p-4 sm:p-6 md:p-8 animate-fadeIn">
-            <div className="max-w-6xl lg:max-w-7xl mx-auto mb-8 pt-4">
+            <div className="max-w-7xl mx-auto mb-8 pt-4">
                 <button onClick={onBack} className={backButtonClasses}>
                     &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
                 </button>
@@ -257,7 +257,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
                 </h1>
             </header>
 
-            <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 max-w-6xl lg:max-w-7xl mx-auto max-h-[80vh] overflow-y-auto reader-content">
+            <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 max-w-7xl mx-auto max-h-[80vh] overflow-y-auto reader-content">
                 {showBookmarkPrompt && (
                     <div className="sticky top-0 z-10 bg-black/70 backdrop-blur-sm p-4 mb-4 flex flex-col sm:flex-row sm:justify-between items-center gap-3 animate-fadeIn rounded-lg border border-yellow-500/30 text-center sm:text-left">
                         <p className="text-lg text-yellow-300">Jump to your last reading position?</p>
