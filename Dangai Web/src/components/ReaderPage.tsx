@@ -245,7 +245,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
 
     return (
         <div className="w-full min-h-screen px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 py-4 sm:py-6 md:py-8 animate-fadeIn">
-            <div className="max-w-screen-2xl mx-auto">
+            <div className="mx-auto max-w-[105rem]">
                 <div className="w-full mb-8 pt-4">
                     <button onClick={onBack} className={backButtonClasses}>
                         &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
