@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect, useCallback } from 'react';
 import MainPage from './components/MainPage';
 import ArcPage, { ChapterPartsPage } from './components/ArcPage';
@@ -151,7 +152,7 @@ const App: React.FC = () => {
     };
 
     return (
-        <div className="min-h-screen bg-black text-neutral-200">
+        <div className="min-h-screen bg-black text-neutral-200 overflow-x-hidden">
             {renderContent()}
         </div>
     );

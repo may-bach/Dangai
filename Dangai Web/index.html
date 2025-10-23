@@ -38,31 +38,18 @@
             background: rgba(255, 255, 255, 0.3);
         }
 
-        /* Custom Reader Content Styles */
+        /* Base Reader Content Styles */
         .reader-content {
-            font-size: 1.18rem; /* ~19px */
+            font-size: 1.1rem; /* Base for smaller screens */
             line-height: 1.7;
-            color: #f0f0f0; /* Increased visibility */
+            color: #f0f0f0;
         }
-        .reader-content p {
-            margin-bottom: 0.5em; /* Tighter spacing for dialogue */
-        }
-        .reader-content strong {
-            color: #c8c8c8; /* Toned down even more */
-            font-weight: 600;
-        }
-        .reader-content em {
-            color: #e0e0e0; /* Increased visibility */
-        }
-        .reader-content .centered {
-            text-align: center;
-            margin-top: 1.5em;
-            margin-bottom: 1.5em;
-            color: #b0b0b0; /* Increased visibility */
-            font-style: italic;
-        }
+        .reader-content p { margin-bottom: 0.5em; }
+        .reader-content strong { color: #c8c8c8; font-weight: 600; }
+        .reader-content em { color: #e0e0e0; }
+        .reader-content .centered { text-align: center; margin-top: 1.5em; margin-bottom: 1.5em; color: #b0b0b0; font-style: italic; }
 
-        /* Added Animation */
+        /* Animation */
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
@@ -70,6 +57,51 @@
         .animate-fadeIn {
             animation: fadeIn 1s ease-out forwards;
         }
+
+        /* RESPONSIVE OVERHAUL FOR 1080p vs 1440p */
+
+        /* --- Default & Mobile covered by Tailwind --- */
+
+        /* --- 1080p DESKTOP STYLES (Most common desktop size up to 1920px width) --- */
+        @media (min-width: 1280px) {
+            /* MainPage */
+            .main-page-container { max-width: 64rem; }
+            .main-title { font-size: 4.5rem; letter-spacing: 0.18em; }
+            .main-arcs-grid { max-width: 34rem; }
+
+            /* ArcPage / ChapterPartsPage */
+            .arc-page-container { max-width: 64rem; }
+            .arc-title { font-size: 1.6rem; letter-spacing: 0.1em; }
+            .prologue-title { font-size: 2rem; letter-spacing: 0.15em; }
+            .arc-list-grid { max-width: 34rem; }
+            
+            /* ReaderPage */
+            .reader-page-container { max-width: 72rem; }
+            .reader-title { font-size: 2.75rem; letter-spacing: 0.1em; }
+            .reader-subtitle { font-size: 1.3rem; }
+            .reader-content { font-size: 1.1rem; }
+        }
+
+        /* --- 1440p+ DESKTOP STYLES (Large, high-resolution screens) --- */
+        @media (min-width: 1921px) {
+            /* MainPage */
+            .main-page-container { max-width: 88rem; } /* 1408px */
+            .main-title { font-size: 7rem; letter-spacing: 0.3em; }
+            .main-arcs-grid { max-width: 48rem; }
+
+            /* ArcPage / ChapterPartsPage */
+            .arc-page-container { max-width: 88rem; }
+            .arc-title { font-size: 2.25rem; }
+            .prologue-title { font-size: 3rem; }
+            .arc-list-grid { max-width: 48rem; }
+
+            /* ReaderPage */
+            .reader-page-container { max-width: 105rem; } /* 1680px */
+            .reader-title { font-size: 4.5rem; }
+            .reader-subtitle { font-size: 2.25rem; }
+            .reader-content { font-size: 1.28rem; }
+        }
+
     </style>
 <script type="importmap">
 {
@@ -81,9 +113,10 @@
   }
 }
 </script>
+<link rel="stylesheet" href="/index.css">
 </head>
 <body>
     <div id="root"></div>
-    <script type="module" src="/src/index.tsx"></script>
+    <script type="module" src="/index.tsx"></script>
 </body>
 </html>

@@ -11,7 +11,7 @@ export const ARCS: Arc[] = [
             { 
                 id: 1, 
                 slug: "the-day-it-all-began",
-                title: "The Day It All Began",
+                title: "Prologue",
                 locked: false,
                 parts: [
                     { id: 1, slug: "part-1-a-normal-day", title: "Part 1: A Normal Day", locked: false },

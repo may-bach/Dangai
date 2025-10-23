@@ -54,19 +54,19 @@ const ArcPage: React.FC<ArcPageProps> = ({ arc, onSelectChapter, onBack }) => {
     }
 
     return (
-        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 py-8 md:py-12 animate-fadeIn">
+        <div className="arc-page-container container mx-auto px-6 py-8 md:py-12 animate-fadeIn">
              <button onClick={onBack} className="inline-block bg-gradient-to-br from-neutral-500 to-neutral-700 border border-neutral-400 text-white py-1 px-4 text-sm rounded-lg hover:from-neutral-400 hover:to-neutral-600 transition-transform duration-300 hover:-translate-y-0.5 shadow-lg">
                 &larr; Back to Arcs
             </button>
 
             <section className="text-center mt-12">
-                <h2 className="font-playfair text-xl md:text-2xl font-normal text-white mb-4 tracking-[0.1em] [text-shadow:0_0_30px_rgba(255,255,255,0.4),0_0_50px_rgba(255,255,255,0.2)]">
+                <h2 className="arc-title font-playfair text-2xl md:text-3xl font-normal text-white mb-4 [text-shadow:0_0_30px_rgba(255,255,255,0.4),0_0_50px_rgba(255,255,255,0.2)]">
                     {arc.title}: {arc.description}
                 </h2>
 
                 <DecorativeLine variant="arc" />
 
-                <div className="grid grid-cols-1 gap-5 max-w-lg lg:max-w-2xl mx-auto">
+                <div className="arc-list-grid grid grid-cols-1 gap-5 max-w-lg mx-auto">
                     {arc.chapters.map(chapter => (
                         <ChapterCard 
                             key={chapter.id} 
@@ -135,7 +135,7 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
     }
 
     return (
-        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 py-8 md:py-12 animate-fadeIn">
+        <div className="arc-page-container container mx-auto px-6 py-8 md:py-12 animate-fadeIn">
             <button onClick={onBack} className="inline-block bg-gradient-to-br from-neutral-500 to-neutral-700 border border-neutral-400 text-white py-1 px-4 text-sm rounded-lg hover:from-neutral-400 hover:to-neutral-600 transition-transform duration-300 hover:-translate-y-0.5 shadow-lg">
                 &larr; {arc.id === 'prologue' ? 'Back to Arcs' : 'Back to Chapters'}
             </button>
@@ -143,15 +143,15 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
             <section className="text-center mt-12">
                 <h2 className={`font-playfair font-normal text-white mb-4 [text-shadow:0_0_30px_rgba(255,255,255,0.4),0_0_50px_rgba(255,255,255,0.2)] ${
                     arc.id === 'prologue' 
-                    ? 'text-2xl md:text-3xl tracking-[0.15em]' 
-                    : 'text-xl md:text-2xl tracking-[0.1em]'
+                    ? 'prologue-title text-3xl md:text-4xl' 
+                    : 'arc-title text-2xl md:text-3xl'
                 }`}>
                     {arc.id === 'prologue' ? arc.title : `Chapter ${chapter.id}: ${chapter.title}`}
                 </h2>
 
                 <DecorativeLine variant="arc" />
 
-                <div className="grid grid-cols-1 gap-5 max-w-lg lg:max-w-2xl mx-auto">
+                <div className="arc-list-grid grid grid-cols-1 gap-5 max-w-lg mx-auto">
                     {chapter.parts.map(part => (
                         <PartCard 
                             key={part.id} 

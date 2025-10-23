@@ -35,7 +35,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
         return (
             <>
                 {mainTitle}
-                {subTitle && <span className="block text-xl md:text-2xl mt-2 opacity-70">{subTitle}</span>}
+                {subTitle && <span className="reader-subtitle block mt-2 opacity-70">{subTitle}</span>}
             </>
         )
     }, [arc, chapter, part]);
@@ -244,8 +244,8 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
     };
 
     return (
-        <div className="w-full min-h-screen px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 py-4 sm:py-6 md:py-8 animate-fadeIn">
-            <div className="mx-auto max-w-[105rem]">
+        <div className="w-full min-h-screen px-4 sm:px-6 md:px-8 py-4 sm:py-6 md:py-8 animate-fadeIn">
+            <div className="reader-page-container mx-auto">
                 <div className="w-full mb-8 pt-4">
                     <button onClick={onBack} className={backButtonClasses}>
                         &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
@@ -253,7 +253,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
                 </div>
 
                 <header className="text-center mb-12">
-                    <h1 className="font-exo font-extralight text-3xl md:text-4xl lg:text-5xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
+                    <h1 className="reader-title font-exo font-extralight text-3xl md:text-4xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
                         {headerTitle}
                     </h1>
                 </header>
