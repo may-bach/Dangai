@@ -34,19 +34,10 @@ export const getBookmark = (arcId: string, chapterId: number, partId?: number): 
 };
 
 export const setBookmark = (arcId: string, chapterId: number, scrollPosition: number, partId?: number) => {
-    const bookmarks = getBookmarks();
-    const chapterPrefix = `${arcId}-${chapterId}`;
-
-    // Clear any existing bookmarks for this chapter (parts or whole)
-    for (const key in bookmarks) {
-        if (key.startsWith(chapterPrefix)) {
-            delete bookmarks[key];
-        }
-    }
-
     const key = buildKey(arcId, chapterId, partId);
-    bookmarks[key] = { scrollPosition };
-    saveBookmarks(bookmarks);
+    // Create a new bookmark object that will overwrite any existing bookmarks.
+    const newBookmark = { [key]: { scrollPosition } };
+    saveBookmarks(newBookmark);
 };
 
 export const removeBookmark = (arcId: string, chapterId: number, partId?: number) => {
