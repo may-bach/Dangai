@@ -5,7 +5,7 @@ interface DecorativeLineProps {
 }
 
 const DecorativeLine: React.FC<DecorativeLineProps> = ({ variant = 'main' }) => {
-  const mainLineClasses = "w-full lg:w-[200%] lg:left-[-50%] h-[4px] my-6 md:my-8 shadow-[0_0_20px_rgba(255,255,255,0.4),0_0_40px_rgba(255,255,255,0.2)]";
+  const mainLineClasses = "w-full lg:w-[200%] lg:left-[-50%] h-[4px] my-14 md:my-16 shadow-[0_0_20px_rgba(255,255,255,0.4),0_0_40px_rgba(255,255,255,0.2)]";
   const mainAfterClasses = "top-[-1px] w-[50%] lg:w-[70%] h-[6px] opacity-60 shadow-[0_0_15px_rgba(255,255,255,0.3)]";
 
   const arcLineClasses = "w-full lg:w-[120%] lg:left-[-10%] h-[3px] my-10 md:my-12 shadow-[0_0_15px_rgba(255,255,255,0.3),0_0_30px_rgba(255,255,255,0.1)]";

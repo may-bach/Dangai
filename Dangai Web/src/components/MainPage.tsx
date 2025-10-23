@@ -45,7 +45,7 @@ const MainPage: React.FC<MainPageProps> = ({ onSelectArc }) => {
     }, []);
 
     return (
-        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 pt-6 md:pt-8 pb-8 md:pb-12 animate-fadeIn">
+        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 pt-16 md:pt-20 pb-8 md:pb-12 animate-fadeIn">
             <header className="text-center">
                 <h1 className="font-cinzel font-normal text-white [text-shadow:0_0_60px_rgba(255,255,255,0.8),0_0_150px_rgba(255,255,255,0.7)] text-5xl sm:text-6xl md:text-6xl lg:text-7xl xl:text-8xl tracking-[0.1em] sm:tracking-[0.15em] lg:tracking-[0.2em]">
                     {NOVEL_TITLE}
