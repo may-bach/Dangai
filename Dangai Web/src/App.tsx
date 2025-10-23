@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import MainPage from './components/MainPage';
 import ArcPage, { ChapterPartsPage } from './components/ArcPage';
 import ReaderPage from './components/ReaderPage';
@@ -13,12 +13,19 @@ const App: React.FC = () => {
     const [selectedChapter, setSelectedChapter] = useState<Chapter | null>(null);
     const [selectedPart, setSelectedPart] = useState<ChapterPart | null>(null);
 
+    const navigate = useCallback((path: string) => {
+        if (window.location.pathname !== path) {
+            history.pushState({}, '', path);
+            window.dispatchEvent(new PopStateEvent('popstate'));
+        }
+    }, []);
+
     useEffect(() => {
         const handlePathChange = () => {
             const path = window.location.pathname.replace(/^\/|\/$/g, '').split('/');
-            const [arcSlug, chapterSlug, partSlug] = path;
+            const [arcSlug, secondSlug] = path;
 
-            if (!arcSlug || arcSlug === '') {
+            if (!arcSlug) {
                 setCurrentView('main');
                 setSelectedArc(null);
                 setSelectedChapter(null);
@@ -28,17 +35,15 @@ const App: React.FC = () => {
 
             const arc = ARCS.find(a => a.slug === arcSlug);
             if (!arc) {
-                history.pushState({}, '', '/');
-                window.dispatchEvent(new PopStateEvent('popstate'));
+                navigate('/');
                 return;
             }
-            
-            if (!chapterSlug) {
-                if (arc.id === 'prologue' && arc.chapters.length > 0) {
-                    const firstChapter = arc.chapters[0];
+
+            if (!secondSlug) {
+                if (arc.id === 'prologue') {
                     setCurrentView('chapterParts');
                     setSelectedArc(arc);
-                    setSelectedChapter(firstChapter);
+                    setSelectedChapter(arc.chapters[0]); // Prologue has one chapter wrapper
                     setSelectedPart(null);
                 } else {
                     setCurrentView('arc');
@@ -49,32 +54,40 @@ const App: React.FC = () => {
                 return;
             }
 
-            const chapter = arc.chapters.find(c => c.slug === chapterSlug);
-            if (!chapter) {
-                history.pushState({}, '', `/${arc.slug}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-                return;
-            }
+            if (arc.id === 'prologue') {
+                if (secondSlug.startsWith('part-')) {
+                    const partId = parseInt(secondSlug.replace('part-', ''), 10);
+                    const chapter = arc.chapters[0];
+                    const part = chapter.parts?.find(p => p.id === partId);
 
-            if (!partSlug) {
-                setCurrentView(chapter.parts && chapter.parts.length > 0 ? 'chapterParts' : 'reader');
-                setSelectedArc(arc);
-                setSelectedChapter(chapter);
-                setSelectedPart(null);
-                return;
+                    if (part) {
+                        setCurrentView('reader');
+                        setSelectedArc(arc);
+                        setSelectedChapter(chapter);
+                        setSelectedPart(part);
+                    } else {
+                        navigate(`/${arc.slug}`); // Invalid part, go to prologue parts list
+                    }
+                } else {
+                    navigate(`/${arc.slug}`); // Invalid URL for prologue, go to parts list
+                }
+            } else { // Not prologue
+                if (secondSlug.startsWith('chapter-')) {
+                    const chapterId = parseInt(secondSlug.replace('chapter-', ''), 10);
+                    const chapter = arc.chapters.find(c => c.id === chapterId);
+                    
+                    if (chapter) {
+                        setCurrentView('reader');
+                        setSelectedArc(arc);
+                        setSelectedChapter(chapter);
+                        setSelectedPart(null);
+                    } else {
+                        navigate(`/${arc.slug}`); // Invalid chapter, go to arc chapter list
+                    }
+                } else {
+                    navigate(`/${arc.slug}`); // Invalid URL for this arc, go to chapter list
+                }
             }
-            
-            const part = chapter.parts?.find(p => p.slug === partSlug);
-            if (!part) {
-                history.pushState({}, '', `/${arc.slug}/${chapter.slug}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-                return;
-            }
-
-            setCurrentView('reader');
-            setSelectedArc(arc);
-            setSelectedChapter(chapter);
-            setSelectedPart(part);
         };
 
         handlePathChange();
@@ -83,51 +96,33 @@ const App: React.FC = () => {
         return () => {
             window.removeEventListener('popstate', handlePathChange);
         };
-    }, []);
-
-    const navigate = (path: string) => {
-        history.pushState({}, '', path);
-        window.dispatchEvent(new PopStateEvent('popstate'));
-    };
+    }, [navigate]);
 
     const handleSelectArc = (arc: Arc) => {
-        if (arc.id === 'prologue' && arc.chapters.length > 0) {
-            navigate(`/${arc.slug}/${arc.chapters[0].slug}`);
-        } else {
-            navigate(`/${arc.slug}`);
-        }
+        navigate(`/${arc.slug}`);
     };
 
     const handleSelectChapter = (arc: Arc, chapter: Chapter) => {
-        navigate(`/${arc.slug}/${chapter.slug}`);
+        navigate(`/${arc.slug}/chapter-${chapter.id}`);
     };
     
     const handleSelectPart = (arc: Arc, chapter: Chapter, part: ChapterPart) => {
-        navigate(`/${arc.slug}/${chapter.slug}/${part.slug}`);
+        // This is only for the prologue arc
+        navigate(`/${arc.slug}/part-${part.id}`);
     };
 
     const handleReaderNavigate = (arc: Arc, chapter: Chapter, part?: ChapterPart) => {
-        if (part) {
-            navigate(`/${arc.slug}/${chapter.slug}/${part.slug}`);
+        if (arc.id === 'prologue' && part) {
+            navigate(`/${arc.slug}/part-${part.id}`);
         } else {
-            navigate(`/${arc.slug}/${chapter.slug}`);
+            navigate(`/${arc.slug}/chapter-${chapter.id}`);
         }
     };
 
     const handleNavigateUp = () => {
-        if (currentView === 'reader') {
-            if (selectedPart && selectedArc && selectedChapter) { // From a part, go to parts list
-                navigate(`/${selectedArc.slug}/${selectedChapter.slug}`);
-            } else if (selectedArc) { // From a chapter without parts, go to arc list
-                 navigate(`/${selectedArc.slug}`);
-            }
-        } else if (currentView === 'chapterParts' && selectedArc) { // From parts list, go to arc list
-            if (selectedArc.id === 'prologue') {
-                navigate('/');
-            } else {
-                navigate(`/${selectedArc.slug}`);
-            }
-        } else if (currentView === 'arc') { // From arc list, go to main page
+        if (currentView === 'reader' && selectedArc) {
+            navigate(`/${selectedArc.slug}`);
+        } else if ((currentView === 'chapterParts' || currentView === 'arc')) {
             navigate('/');
         }
     };
