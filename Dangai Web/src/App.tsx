@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import MainPage from './components/MainPage';
 import ArcPage, { ChapterPartsPage } from './components/ArcPage';
 import ReaderPage from './components/ReaderPage';
@@ -13,114 +13,22 @@ const App: React.FC = () => {
     const [selectedChapter, setSelectedChapter] = useState<Chapter | null>(null);
     const [selectedPart, setSelectedPart] = useState<ChapterPart | null>(null);
 
-    useEffect(() => {
-        const syncStateFromPath = () => {
-            const path = window.location.pathname;
-            const pathParts = path.split('/').filter(p => p);
-
-            const setMainView = () => {
-                setCurrentView('main');
-                setSelectedArc(null);
-                setSelectedChapter(null);
-                setSelectedPart(null);
-            };
-
-            if (pathParts.length === 0) {
-                setMainView();
-                return;
-            }
-
-            const arcSlug = pathParts[0];
-            const arc = ARCS.find(a => a.slug === arcSlug);
-
-            if (!arc) {
-                setMainView();
-                return;
-            }
-
-            const setArcView = () => {
-                setCurrentView('arc');
-                setSelectedArc(arc);
-                setSelectedChapter(null);
-                setSelectedPart(null);
-            };
-
-            if (pathParts.length === 1) {
-                setArcView();
-                return;
-            }
-
-            const chapterIdString = pathParts[1].startsWith('chapter-') ? pathParts[1].substring('chapter-'.length) : null;
-            const chapterId = chapterIdString ? parseInt(chapterIdString, 10) : NaN;
-            if (isNaN(chapterId)) {
-                setArcView();
-                return;
-            }
-            const chapter = arc.chapters.find(c => c.id === chapterId);
-
-            if (!chapter) {
-                setArcView();
-                return;
-            }
-            
-            const setChapterPartsView = () => {
-                setCurrentView('chapterParts');
-                setSelectedArc(arc);
-                setSelectedChapter(chapter);
-                setSelectedPart(null);
-            };
-
-            if (pathParts.length === 2) {
-                if (chapter.parts && chapter.parts.length > 0) {
-                    setChapterPartsView();
-                } else {
-                    setCurrentView('reader');
-                    setSelectedArc(arc);
-                    setSelectedChapter(chapter);
-                    setSelectedPart(null);
-                }
-                return;
-            }
-
-            if (pathParts.length === 3) {
-                const partIdString = pathParts[2].startsWith('part-') ? pathParts[2].substring('part-'.length) : null;
-                const partId = partIdString ? parseInt(partIdString, 10) : NaN;
-                if(isNaN(partId)) {
-                    setChapterPartsView();
-                    return;
-                }
-
-                const part = chapter.parts?.find(p => p.id === partId);
-                if (part) {
-                    setCurrentView('reader');
-                    setSelectedArc(arc);
-                    setSelectedChapter(chapter);
-                    setSelectedPart(part);
-                    return;
-                }
-            }
-
-            setArcView();
-        };
-
-        syncStateFromPath();
-
-        window.addEventListener('popstate', syncStateFromPath);
-        return () => window.removeEventListener('popstate', syncStateFromPath);
-    }, []);
-
     const handleSelectArc = (arc: Arc) => {
-        const url = `/${arc.slug}`;
-        window.history.pushState({}, '', url);
-        setCurrentView('arc');
-        setSelectedArc(arc);
-        setSelectedChapter(null);
-        setSelectedPart(null);
+        if (arc.id === 'prologue' && arc.chapters.length > 0) {
+            const firstChapter = arc.chapters[0];
+            setSelectedArc(arc);
+            setSelectedChapter(firstChapter);
+            setSelectedPart(null);
+            setCurrentView('chapterParts');
+        } else {
+            setCurrentView('arc');
+            setSelectedArc(arc);
+            setSelectedChapter(null);
+            setSelectedPart(null);
+        }
     };
 
     const handleSelectChapter = (arc: Arc, chapter: Chapter) => {
-        const url = `/${arc.slug}/chapter-${chapter.id}`;
-        window.history.pushState({}, '', url);
         setSelectedArc(arc);
         setSelectedChapter(chapter);
         setSelectedPart(null);
@@ -132,8 +40,6 @@ const App: React.FC = () => {
     };
     
     const handleSelectPart = (arc: Arc, chapter: Chapter, part: ChapterPart) => {
-        const url = `/${arc.slug}/chapter-${chapter.id}/part-${part.id}`;
-        window.history.pushState({}, '', url);
         setSelectedArc(arc);
         setSelectedChapter(chapter);
         setSelectedPart(part);
@@ -141,10 +47,6 @@ const App: React.FC = () => {
     };
 
     const handleReaderNavigate = (arc: Arc, chapter: Chapter, part?: ChapterPart) => {
-        const url = part
-            ? `/${arc.slug}/chapter-${chapter.id}/part-${part.id}`
-            : `/${arc.slug}/chapter-${chapter.id}`;
-        window.history.replaceState({}, '', url);
         setSelectedArc(arc);
         setSelectedChapter(chapter);
         setSelectedPart(part || null);
@@ -152,7 +54,28 @@ const App: React.FC = () => {
     };
 
     const handleNavigateUp = () => {
-        window.history.back();
+        if (currentView === 'reader') {
+            if (selectedPart && selectedArc && selectedChapter) { // From a part, go to parts list
+                setCurrentView('chapterParts');
+                setSelectedPart(null);
+            } else if (selectedArc) { // From a chapter, go to arc list
+                setCurrentView('arc');
+                setSelectedChapter(null);
+                setSelectedPart(null);
+            }
+        } else if (currentView === 'chapterParts' && selectedArc) { // From parts list, go to arc list
+            if (selectedArc.id === 'prologue') {
+                setCurrentView('main');
+                setSelectedArc(null);
+                setSelectedChapter(null);
+            } else {
+                setCurrentView('arc');
+                setSelectedChapter(null);
+            }
+        } else if (currentView === 'arc') { // From arc list, go to main page
+            setCurrentView('main');
+            setSelectedArc(null);
+        }
     };
 
     const renderContent = () => {

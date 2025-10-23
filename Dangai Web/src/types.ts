@@ -12,6 +12,7 @@ export interface Chapter {
     description?: string;
     locked: boolean;
     parts?: ChapterPart[];
+    contentFile?: string;
 }
 
 export interface Arc {

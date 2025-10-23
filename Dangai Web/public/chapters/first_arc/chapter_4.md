@@ -1,267 +1,457 @@
-**Hitsumi:** So, how do we start?
 
-**Izumi:** Aoi, you ready?
+**Izumi:** Get ready.
 
-**Aoi:** I've been ready for a long time now.
+**Hitsumi:** Ready for whattt?
 
-<p class="centered">The vines from the trees start growing out and take the form of a portal</p>
+<p class="centered">Before she can finish, one of the guys dives toward them faster than Hitsumi can even register</p>
 
-**Aoi:** You're going to O-Ten, right?
+<p class="centered">Izumi jumps up towards the left of the griffin and dodges the spear, but as the soldier is about to pass by, he jumps again off the air and spin-kicks the guy off the griffin and catches it by its tail.</p>
 
-**Izumi:** Yep.
+**Hitsumi:** AAAAAAA
 
-**Hitsumi:** What's that?
+**Izumi:** Chill, I got this.
 
-**Izumi:** It's the capital of Dangai, right at the center.
+**Hitsumi:** WHAT? !
 
-**Hitsumi:** Why are we going there?
+**Izumi:** Hold on tight.
 
-**Izumi:** To meet someone.
+**Hitsumi:** Why-?
 
-**Hitsumi:** And who is this someone?
+<p class="centered">Before she can finish, he jumps up using its tail and mounts the griffin</p>
 
-**Izumi:** My best friend.
+**Hitsumi:** AAAAAAAAAAAA
 
-<p class="centered">The portal lights up, and you can see a huge city on the other side</p>
+<p class="centered">She screams and hugs him tightly</p>
 
-**Aoi:** Alright, you're up.
+**Izumi:** Told you.
 
-**Izumi:** Come on, let's go.
+<p class="centered">Hitsumi catches her breath. He looks around and sees another guy coming towards him.</p>
 
-**Hitsumi:** Wait, is this safe, for a human, I mean?
+**Izumi:** Get ready.
 
-**Izumi:** You'll be fine, I think.
+**Hitsumi:** Not again.
 
-**Hitsumi:** You think—woahhh
+<p class="centered">He dodges the guy's spear by jumping up and lands on his spear. The guy pulls his spear back. He jumps up again. As he goes up a guy is ready with his spear. Coming at him from his left, he blocks the spear with his hands and grabs onto it, using which he yanks him off. He climbs onto this griffin now.</p>
 
-<p class="centered">She screams as Izumi drags her through</p>
+**Hitsumi:** I think I'm feeling sick. *Nearly throwing up*.
 
-**Izumi:** Catch you later, bro.
+**Izumi:** Just a few more, hold on.
 
-**Aoi:** *smiles* bye
+<p class="centered">Two guys come at them from either side, he calmly waits till the last moment and slides back to the griffin’s tail and the two soldiers impale each other. A soldier ambushes them from behind with his spear pointed towards them. He lets go of the tail and falls towards his spear, he redirects it using his legs and kicks it out of his hand. He then kicks the guy off and lands on his griffin.</p>
 
-<p class="centered">The portal closes on Aoi's side. They exit on the other side, but Izumi looks confused as they end up in what looks like the middle of the desert with no sun</p>
+**Hitsumi:** That’s it I'm getting off. *With a sick face*
 
-**Hitsumi:** Looks pretty barren for a capital.
+<p class="centered">She gets off and stands on the griffin.</p>
 
-**Izumi:** This is not O-Ten.
+**Izumi:** Don’t worry, that’s part of the plan.
 
-**Hitsumi:** Wait, where are we?
+<p class="centered">The only two soldiers left let go of their griffins and landed on his.</p>
 
-**Izumi:** I don't know.
+**Izumi:** *To Hitsumi with a serious face* Stay back.
 
-**Hitsumi:** Oh *her smile slowly turns into anger* YOU DON'T WHAT!!!!! I FOLLOW YOU TO THIS PLACE WHERE I DON'T KNOW, TRUSTING IN YOU AND-
+**Izumi:** *smiling* Hey there guys, I don’t know if you’ve realized it yet, but this isn’t meant to carry this many people.
 
-**Izumi:** Wait a minute-
+<p class="centered">Without saying anything one of the soldiers attacks him. He plunges forward, Izumi dodges the spear and punches him in the stomach, sending him back.</p>
 
-**Hitsumi:** YOU DON'T EVEN KNOW WHERE WE ARE.
+**Izumi:** Not one for small talk, huh?
 
-**Izumi:** Hey, chill out
+<p class="centered">The other one jumps over his back and dives towards him. The other soldier attacks him from below. He tries to go back but bumps into Hitsumi</p>
 
-**Hitsumi:** HONESTLY, I DON'T EVEN KNOW WHAT I WAS THINKING-
+**Izumi:** *Exhales*
 
-**Izumi:** SHUT UP.
+<p class="centered">He blocks the soldier from below by grabbing his spear by the tip to buy more time. And before the guy's top can land, he moves forward toward the other soldier and backspin kicks him off the griffin. The guy from the top misses and impales the griffin, causing it to shake violently. Izumi and the remaining soldiers manage to hold on, but Hitsumi falls off without being able to balance herself. She manages to catch its leg and ends up suspended in the air.</p>
 
-<p class="centered">Everything goes silent</p>
+**Hitsumi:** IZUMIIII.
 
-**Izumi:** Let me finish. *takes a breath* I know where we are.
+**Izumi:** Tsk.
 
-**Hitsumi:** Oh, you should've said that.
+<p class="centered">The guy runs towards him unarmed, as the spear gets stuck in the griffin. Izumi blocks all his punches and sends him flying off with a kick</p>
 
-**Izumi:** Well, technically.
+**Hitsumi:** IZUMIII!!!
 
-**Hitsumi:** Technically? There's nothing technical about it. You either do or you don't.
+**Izumi:** Hold on.
 
-**Izumi:** I know the place we're in, but not exactly our location.
+<p class="centered">He jumps down from the griffin and grabs her. She holds him tight</p>
 
-**Hitsumi:** Explain.
+**Izumi:** *grunts*
 
-**Izumi:** We're in what we call the nameless.
+<p class="centered">He jumps off the griffin and lands on the sand, shielding Hitsumi from the impact.</p>
 
-**Hitsumi:** What kind of name is that?
+**Hitsumi:** Are you okay?
 
-**Izumi:** A brilliant one, as it perfectly sums up what this place is.
+**Izumi:** *grunts* Yeah, I’m fine.
 
-**Hitsumi:** Which is?
+**Hitsumi:** *gasps* your hand.
 
-**Izumi:** It's a place where nothing exists.
+<p class="centered">He looks at his hand, and the bandages around his palms are torn, and he is rapidly bleeding.</p>
 
-**Hitsumi:** What do you mean?
+<p class="centered">She tears off the bottom half of her t-shirt and ties his hand.</p>
 
-**Izumi:** Dangai is a complicated plane. The capital city O-Ten is a huge city located at the center with walls all around, secluding it from the outside world.
+**Izumi:** Chill, it’s not the deep-
 
-**Hitsumi:** So, why is this place "nameless"?
+**Hitsumi:** Shut up.
 
-**Izumi:** *smiles and clears throat* Dangai can be split into 5 parts. The first in the center is O-Ten, surrounding which there is a huge ocean, kind of like a moat. Then there is a forest, which serves as a kind of barrier between O-Ten and the next part, the outskirts. It is the border of Dangai. It is made up of a lot of these small villages. It is the most populated place in Dangai.
+**Izumi:** *smiles*
 
-**Hitsumi:** Why aren't any of these places connected to Dangai?
+**Hitsumi:** What’s with that face?
 
-<p class="centered">Izumi's eyes go dark</p>
+**Izumi:** Nothing *smiles*.
 
-**Izumi:** Racism.
+<p class="centered">She looks at him angrily and ties the last knot tightly</p>
 
-**Hitsumi:** Racism?
+**Izumi:** Ouch.
 
-**Izumi:** Yes, well not exactly racism. It's people who are not pure.
+**Hitsumi:** Stop acting, after all of that, this is when you feel pain.
 
-**Hitsumi:** Pure?
+**Izumi:** *laughs*
 
-**Izumi:** Pure blooded. Humans in Dangai have angel blood which makes us stronger. Using which we can also tap into angelic powers and magic etc. They were meant to be a gift, but we managed to make even that into a way of discrimination based on how much of your blood was angelic. Anyone with less than 25% angelic blood, were considered impure and excommunicated to the outskirts, where they are forced to fend for themselves in the wilderness, while the people in power look down on them and insult them. The only way they could ever make it to the capital was if they were either sold as slaves or recruited as soldiers, just to be put on the frontline and die meaningless deaths.
+**Hitsumi:** What? *flustered*
 
-<p class="centered">Hitsumi's eyes widen as Izumi forms a fist.</p>
+**Izumi:** Nothing. Now, how will you carry me?
 
-**Izumi:** Even the police sent to maintain justice just extort them and take advantage of the fact that no one would ask. They were forced to live as lifeless beings; objects in their eyes.
+**Izumi:** Come on, it’s not like I’m injured or anything.
 
-<p class="centered">She looks at him concerned. Izumi sighs, and his hand loosens.</p>
+**Hitsumi:** Then what do you call this?
 
-**Izumi:** Well, at least that's no longer the case, thanks to her.
+**Izumi:** I’m used to it.
 
-**Hitsumi:** You mean…
+**Hitsumi:** *sighs* What are you?
 
-**Izumi:** Yeah, her. She worked her ass off, and it paid off. She changed how everyone viewed each other. *smiles* We were even able to build a portal from all the main points of the outskirts to O-Ten.
+**Izumi:** You’ll come to know soon enough. *smiles*, now let’s go.
 
-**Hitsumi:** *smiles* I see.
+**Hitsumi:** Go where?
 
-<p class="centered">Slowly, her smile turns into a frown, and she shouts at him</p>
+**Izumi:** Look behind you.
 
-**Hitsumi:** YOU STILL HAVEN'T TOLD ME WHY THIS PLACE IS NAMELESS.
+<p class="centered">She turns around and sees a huge wall.</p>
 
-**Izumi:** Oh yeah, my bad. *he says as he sticks his tongue out and rubs his hair*. That brings me to the fifth part, the nameless. It lies outside the borders of the outskirts.
+**Hitsumi:** It’s so big, so this is?
 
-**Hitsumi:** Why is there a huge border around the outskirts? Can't you just let the people expand?
+**Izumi:** Yep, this is the border, cross this and we're at the outskirts.
 
-**Izumi:** *he looks at her, confused* Oh yeah, there's still something about Dangai that you don't know.
+**Hitsumi:** Wait, won’t it be guarded by more guards? Why did they even attack us?
 
-**Hitsumi:** Which is? *Folds her hands*
+**Izumi:** I don’t know. Most probably because they are ordered to kill anything on the outskirts without mercy.
 
-**Izumi:** Demons can invade Dangai in two ways, one is dungeons, which are present all around Dangai, except in O-Ten. That was considered too much of a risk. Raiding these dungeons is one of the best ways to get real experience fighting demons.
+**Hitsumi:** That makes sense. BUT IT WOULD'VE BEEN NICER IF YOU LET ME KNOW BEFOREHAND.
+
+**Izumi:** Well, now you know.
+
+**Hitsumi:** That’s not how it works. Besides, how are you going to convince them to let us in?
+
+**Izumi:** Convincing them we aren’t demons shouldn’t be too hard, the hard part will be to convince them to give us a pass to enter the capital.
+
+**Hitsumi:** So you’re supposed to get a pass from the guards here, and then show it to the ones at the capital.
+
+**Izumi:** How smart you are.
+
+**Hitsumi:** But isn’t this kind of inefficient?
+
+**Izumi:** It is, which is why it’s only done in extreme cases. People usually don’t arrive outside the border.
+
+**Hitsumi:** What if they don’t?
+
+**Izumi:** Then we will have to seek out alternate methods. *smirks*
+
+**Hitsumi:** I like the sound of that *smirks*
+
+<p class="centered">They look at each other mischievously</p>
+
+**Hitsumi:** Besides, how did we arrive here?
+
+**Izumi:** I planned it, of course.
+
+**Hitsumi:** You mean you rode the griffin in this direction even when you were fighting?
+
+**Izumi:** Of course.
+
+**Hitsumi:** I guess you are a genius.
+
+**Izumi:** Tell me something I don’t know.
+
+**Hitsumi:** You’re also retarded.
+
+**Izumi:** Ok, man.
+
+**Hitsumi:** *laughs*
+
+**Izumi:** *smiles*
+
+**Hitsumi:** Wait, didn’t you say the area around us changes with time?
+
+**Izumi:** It does.
+
+**Hitsumi:** Then how did we arrive so soon? Did we get that lucky?
+
+**Izumi:** It’s nearly impossible to get that lucky.
+
+**Hitsumi:** Then how?
+
+**Izumi:** Simple, it doesn’t affect me.
+
+**Hitsumi:** HUH, you mean…
+
+**Izumi:** Yeah, I negate alterations in space and time around me by nature.
+
+**Hitsumi:** How does that even make sense?
+
+**Izumi:** Don’t ask questions you don’t want to know the answers to. *Smiles*
+
+**Hitsumi:** *sighs* Fine, so how do we enter? Is there a gate somewhere? A secret code?
+
+**Izumi:** Nope, the good old way.
+
+**Hitsumi:** *thinks*, *realizes* seriously?
+
+**Izumi:** Hold on tight.
+
+**Hitsumi:** Wait, wait, WAIT-
+
+<p class="centered">He lifts her and jumps up nearly 100 meters in the sky as he reaches the peak of his jump. He slows down, plants his foot in the air, and jumps up again</p>
+
+**Hitsumi:** *Closes eyes*
+
+**Izumi:** *smiles*
+
+<p class="centered">He reaches the top eventually and stands on top of the border</p>
+
+**Hitsumi:** *breathes in and out deeply*
+
+**Izumi:** Are you okay?
+
+**Hitsumi:** I JUST WENT UP GOD KNOWS HOW MANY MILES; HOW DO YOU THINK I FEEL?
+
+**Izumi:** *laughs*
+
+**Hitsumi:** Not *exhales* funny.
+
+**Izumi:** What do you think of the view?
+
+<p class="centered">She quiets down and looks to the side. She sees the small villages and cities, and far enough she can even see the green mountains separating them from the forest and the light blue sky above the clouds</p>
+
+**Izumi:** Nice, right?
 
 **Hitsumi:** Mmm.
 
-**Izumi:** But dungeons are heavily guarded with complex mechanisms. So, it's really hard for demons to invade through them. But they can't open gates the border either as it is guarded by divine protection.
+**Izumi:** *smiles*
 
-**Hitsumi:** So, they use the other way?
+<p class="centered">As he looks down, his smile vanishes</p>
 
-**Izumi:** Yes, Invading from the nameless.
+**Hitsumi:** What happened?
 
-**Hitsumi:** Mmhmm. That makes sense.
+**Izumi:** There are no guards here.
 
-**Izumi:** And also, Dangai is infinite.
+**Hitsumi:** Yeah, why could that be?
 
-**Hitsumi:** Oh. WHAT?!
+**Izumi:** I can think of a bunch of reasons, and none of them are good.
 
-**Izumi:** Yeah, the nameless extends forever.
+<p class="centered">He lifts her and jumps down</p>
 
-**Hitsumi:** SO, WE ARE LOST IN THE MIDDLE OF NOWHERE.
+**Hitsumi:** Hey, hey, hey, wait a minute-
 
-**Izumi:** Yes.
+<p class="centered">As he lands on the sand, it flies up and creates smoke all around him</p>
 
-<p class="centered">Hitsumi slowly starts to faint upon the realization</p>
+**Hitsumi:** *coughs*
 
-**Izumi:** But fret not. I know which direction we have to travel towards.
+**Izumi:** *looks around frantically*
 
-**Hitsumi:** How?
+**Hitsumi:** What are you doing?
 
-**Izumi:** I share a… complex connection with Dangai. So, I always know where I am.
+**Izumi:** *ignores her* Anyone there? I’m about to make an illegal entryyy.
 
-**Hitsumi:** How?
+<p class="centered">He is responded to with silence</p>
 
-<p class="centered">Izumi smiles and rubs her head</p>
+**Hitsumi:** Look, I see someone.
 
-**Izumi:** I'll tell you later. For now let's go.
+**Izumi:** *sigh of relief* Hey, we need a special permit for entry.
 
-<p class="centered">He looks towards her and she looks confused. He grabs her lifts her up on his back</p>
+<p class="centered">As he speaks, the guard doesn’t respond and walks toward them silently</p>
 
-**Izumi:** This will be faster.
+**Izumi:** We arrived in the nameless, don’t ask how? It's a long story.
 
-**Hitsumi:** *sighs* Fine.
+<p class="centered">The guard continues to walk toward them in silence</p>
 
-<p class="centered">-----------------------After 3 hours-----------------------</p>
+**Izumi:** If you can get me in contact with the king, I’m sure I can convince you.
 
-**Hitsumi:** *exhales*, how much, *exhales*, longer *with her tongue hanging out in thirst*
+<p class="centered">He comes in front of them and stops</p>
 
-**Izumi:** Soon.
+**Izumi:** Hello-
 
-**Hitsumi:** I thought you were fast.
+<p class="centered">Before he can finish, the guard attempts to cut his head off with his sword.</p>
 
-**Izumi:** And I thought you were light.
+**Izumi:** *backsteps* HEY, what was that for? We were talking.
 
-**Hitsumi:** EXCUSE ME, WHAT IS THAT SUPPOSED TO MEAN?
+<p class="centered">The guard looks up at him and Izumi realizes what he’s talking about isn’t human. He looks into the guard's eyes and realizes that he’s talking to a husk of what is human. He looked like he had his soul sucked out of him. He had no eyes, and his skin was shriveled to his flesh.</p>
 
-**Izumi:** *laughs* I'm joking, I'm joking.
+**Hitsumi:** WHAT THE FUCK IS THAT!
 
-**Hitsumi:** Well, it's not funny.
+**Izumi:** I don’t know, but I can guess.
 
-**Izumi:** Why are you even tired? I'm the one carrying you.
+<p class="centered">He looks behind him, and hundreds of soldiers start walking toward them</p>
 
-**Hitsumi:** WHY? BECAUSE IT'S HOT.
+**Izumi:** I can also guess what is behind this.
 
-**Izumi:** I mean, it's not that hot.
+<p class="centered">He looks up and sees something flying in the air.</p>
 
-**Hitsumi:** IT'S PROBABLY 45 DEGREES.
+**Hitsumi:** Izumi, is that?
 
-**Izumi:** I guess compared to Earth, it's pretty hot.
+**Izumi:** Yeah, it’s a demon.
 
-**Hitsumi:** You mean you find this normal?
+<p class="centered">The demon smiles at Izumi as he glares at it.</p>
 
-**Izumi:** I mean, not exactly. Dangai's weather is pretty erratic. But I'm just used to hotter.
+<p class="centered">Izumi’s face becomes serious</p>
 
-**Hitsumi:** It gets hotter than this?!
+<p class="centered">He launches himself toward the demon to attack it, but as he is going to land his kick, a husk jumps and blocks him. He turns around to punch it, and as his fist nears its stomach, it whispers something in his ear. Distraught, he backpedals and comes to the ground.</p>
 
-**Izumi:** Not usually, but I'm used to these temperatures because of my time in hell.
+**Izumi:** *exhales sharply*.
 
-**Hitsumi:** Oh…WHAT?
+**Hitsumi:** What happened? Just kill those things. They’re not even human.
 
-**Izumi:** ?
+**Izumi:** *grits his teeth* (as he fights voices in his head)
 
-**Hitsumi:** YOU'VE BEEN TO HELL?
+<p class="centered">He jumps towards the demon floating in the air again to try to land a hit. Once again, a husk blocks his way, but instead of trying to move out of its way, he hides behind it, effectively removing himself from the demon's line of sight. The demon makes the husk fall to the ground, but is shocked to see that Izumi is not there anymore. He looks around and can’t find him. Before he can realize it, Izumi appears behind. He goes in to kick the demon's head off, but before his leg reaches, another husk comes in front of him, and blocks him. He stops, kicks himself back against the air, and lands on his feet.</p>
 
-**Izumi:** Well, yeah, a few times.
+<p class="centered">The demon starts laughing.</p>
 
-**Hitsumi:** Well, I'm not even surprised anymore. To be honest, you deserve to be there.
+**Demon:** It's useless, even if I am blind, all of their senses are connected. As long as one of them sees you, all of them see you. This also, of course, means, even if you hurt one of them, all of them will feel the pain.
 
-**Izumi:** *looks at her uninterested*
+<p class="centered">The demon laughs, and Izumi remains silent.</p>
 
-**Hitsumi:** What, that was funny.
+**Hitsumi:** What's going on?
 
-**Izumi:** Yeah, sure. *smiles*
+**Izumi:** We need to run.
 
-**Hitsumi:** Mmph. *smiles*. So how long will it take for us to reach there?
+**Hitsumi:** Why can't you kill him?
 
-**Izumi:** In about an hour.
+**Izumi:** No.
 
-**Hitsumi:** WHAT?!
+**Hitsumi:** Wait, what-
 
-**Izumi:** Chill, you won't even notice the time fly by.
+<p class="centered">He quickly grabs her and starts running in a direction towards the outskirts.</p>
 
-**Hitsumi:** I already am…
+**Hitsumi:** Hey, you’re going too fast.
 
-**Izumi:** Hey, I could go faster ok, but your body won't be able to handle it.
+**Izumi:** *remains silent*
 
-**Hitsumi:** *breathes heavily*
+**Hitsumi:** Those things are chasing us.
 
-<p class="centered">Suddenly his face goes serious as he feels someone about to attack them</p>
+**Izumi:** *remains silent*
 
-<p class="centered">Out of nowhere, a spear is thrown at them</p>
+**Hitsumi:** How much longer before we reach the outskirts?
 
-<p class="centered">Izumi dodges it right on time and comes to a stop</p>
+**Izumi:** *remains silent*
 
-**Hitsumi:** WHAT WAS THAT! I THOUGHT YOU SAID NO ONE EXISTS HERE.
+**Hitsumi:** HEY, ANSWER ME.
 
-**Izumi:** There isn't supposed to be. Why would anyone wander out of Dangai this far?
+<p class="centered">Everything starts to blur out for Izumi, and the sounds start to become feeble. Suddenly, he is inside his consciousness. It's completely dark, yet it feels as if you can see everything. Behind him, a figure similar to him appears. Then he hears a voice.</p>
 
-**Hitsumi:** Whatever the reason, he's trying to kill us, take him down.
+**???:** Answer her, Izumi.
 
-**Izumi:** Wow, you're an aggressive little one aren't you?
+**Izumi:** ….
 
-**Hitsumi:** I'm a fan of staying alive.
+**???:** What, you’re ignoring me too.
 
-<p class="centered">Izumi smiles and changes his focus towards where the spear came from.</p>
+**Izumi:** Shut up. I don't need your help.
 
-**Hitsumi:** WHAT ARE THOSE?
+**???:** Are you sure? Do you really have it in you to kill them?
 
-<p class="centered">He looks up in the sky and sees a group of soldiers on griffins.</p>
+**Izumi:** If it gets to it, yes.
 
-**Izumi:** *smirks* our ride home.
+**???:** HA, don’t make me laugh. If you could, all those things would be dead right now, even more than they already are.
+
+**Izumi:** ….
+
+**???:** SAY SOMETHING.
+
+**Izumi:** …
+
+**???:** You won't, cause I’m right, and whether you like it or not, you know it.
+
+**Izumi:** …
+
+**???:** Face it, Izumi, you need me.
+
+**Izumi:** I won’t let you have your way again.
+
+**???:** And what, let her die? That would be kinda funny, She’s the one responsible for making you like this. Without her, you would’ve still thought logically. So in a way, she killed herself.
+
+<p class="centered">The figure laughs hysterically</p>
+
+**Izumi:** SHUT UP, NO ONE IS GONNA DIE.
+
+**???:** Are you sure?
+
+<p class="centered">Izumi’s eyes widen as he starts to realize his predicament</p>
+
+**???:** Face it, Izumi, if you don’t accept my hand right now, the only thing you love will die, right in front of your eyes and you won't be able to do anything about it…..
+
+<p class="centered">He whispers in his ear</p>
+
+**???:** Just like before.
+
+<p class="centered">Izumi starts having flashbacks.</p>
+
+<p class="centered"><em>[Blurred Fragments]</em></p>
+
+<p class="centered">He has multiple fragments of memories, ending with an image of a girl whose eyes are completely blurred out, with a smile on her face, she says “I love you, Izumi” as she dies.</p>
+
+<p class="centered">His eyes widen in shock at the realization. Izumi stops running</p>
+
+**Hitsumi:** What's wrong?
+
+<p class="centered">The figure walks before him</p>
+
+**???:** Come on, Izumi. It will be like the good old times. Just you and me.
+
+<p class="centered">He reaches out to shake his hand.</p>
+
+<p class="centered">Hitsumi keeps her ear next to his chest.</p>
+
+**Hitsumi:** IZUMI, YOUR HEART’S NOT BEATING.
+
+<p class="centered">Izumi looks at his hand as the figure looks at him with a grin pasted on his face from ear to ear.</p>
+
+**Hitsumi:** IZUMI, WHAT'S HAPPENING?
+
+<p class="centered">His veins start to turn black.</p>
+
+<p class="centered">Finally, Izumi reaches out and shakes his hand in defeat.</p>
+
+<p class="centered">The figure's smile widens</p>
+
+<p class="centered">He drops Hitsumi on the ground.</p>
+
+**Hitsumi:** Ow.
+
+<p class="centered">The blackness of his veins starts to disappear as they move towards his eyes. As he opens his eyes, Hitsumi looks at him with a mix of feelings, shock, terror, amazement…. and fear.</p>
+
+<p class="centered">The legion of husks stops in their tracks as the demon walks past them and faces Izumi.</p>
+
+**Demon:** What happened? Finally accepting your fate.
+
+<p class="centered">Izumi stands there silently</p>
+
+**Demon:** Answer me.
+
+<p class="centered">Izumi stands still, without showing any sign of fear</p>
+
+**Demon:** That’s it.
+
+<p class="centered">The demon takes a foot forward.</p>
+
+<p class="centered">Izumi smiles...</p>
+
+<p class="centered"><em>(Lucifer by Eminem)</em></p>
+
+<p class="centered">As soon as his foot touches the floor, Izumi extends his Sakai, and the demon and all his husks fall to the ground.</p>
+
+<p class="centered">Izumi starts laughing psychotically</p>
+
+**???:** It’s so good to be,
+
+
+<p class="centered">He turns around halfway and looks at the demon over his shoulder. His eyes are jet black, and his iris is shining gold.</p>
+
+**???:** back.
 
 <p class="centered"><em>To be continued...</em></p>

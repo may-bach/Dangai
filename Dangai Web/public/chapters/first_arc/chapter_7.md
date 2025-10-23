@@ -1,996 +1,614 @@
 
-<p class="centered">After an hour</p>
+<p class="centered">The next day</p>
 
-**Hitsumi:** WHY IS THIS PLACE SO BIG?
+<p class="centered">Hitsumi slowly rises from the bed and yawns. She looks around and can’t seem to find Izumi. She walks down to the restaurant. She finds Reina serving customers and walks up to her</p>
 
-<p class="centered">Izumi smiles</p>
+**Hitsumi:** You guys open pretty soon, huh?
 
-**Hitsumi:** AND WHY IS EVERY PLACE FILLED?
+<p class="centered">She turns around, surprised.</p>
 
-**Izumi:** Chill, we’ll find a place.
+**Hitsumi:** Oh, sorry, I didn’t mean to startle you.
 
-**Hitsumi:** *sighs*
+**Reina:** *smiles* No, it's fine, I just got caught off guard. It's not really that early, it's already 9.
 
-<p class="centered">She notices a restaurant at the corner of the road</p>
+**Hitsumi:** That is early.
 
-**Hitsumi:** What about there?
+**Reina:** *laughs* I guess.
+
+**Hitsumi:** Where’s he?
+
+**Reina:** (after a moment) Oh, Izumi, he's in the back.
+
+**Hitsumi:** The back?
+
+**Reina:** The kitchen.
+
+**Hitsumi:** I didn’t know he was humble enough to clean vessels.
+
+**Reina:** Oh, he's not cleaning, he's cooking.
+
+**Hitsumi:** WHAT?
+
+<p class="centered">She runs over to the kitchen. The aroma of sizzling meat and fresh spices filled the air. At the stove, Izumi stood wearing just his white tee with a focused face, wearing a chef’s hat, a pan in one hand, effortlessly flipping ingredients with a skill she wouldn’t’ve imagined him to have</p>
+
+**Hitsumi:** *shocked* You know how to cook?
+
+**Izumi:** *smirks* Of course I do, I'm a genius.
+
+**Hitsumi:** *sighs*. Are you still wearing the bandage under that hat?
+
+**Izumi:** No, it didn’t look good on me.
+
+<p class="centered">She walks over to him. She notices that he is still wearing the cloth she used to cover his hand and smiles. He looks at her and takes a spoonful of the chicken broth. She shows her palm, and he pours a few drops on it. She tastes it, and Izumi waits for her response</p>
+
+**Hitsumi:** *(Oh my, this is actually really good.)*
+
+**Izumi:** You’re not wearing your bandages?
+
+<p class="centered">She looks at her arm</p>
+
+**Hitsumi:** Yeah, the wound seems to have healed up.
+
+**Izumi:** Mmm. So, how is it?
+
+**Hitsumi:** Huh? (confused)
+
+**Izumi:** The broth.
+
+**Hitsumi:** Oh, uh, it's alright, I guess.
+
+**Izumi:** Aw, really. (with a sad expression). I could’ve sworn I did everything right.
+
+**Hitsumi:** *(Great, now I feel bad.)* I mean, if you add a bit more salt, it should be good.
+
+<p class="centered">He looks at his broth in deep thought</p>
 
 **Izumi:** Sure.
 
-<p class="centered">They head inside the place and see the entire place filled except for one table at the end.</p>
+<p class="centered">He adds a bit of salt, mixes it and gives her a taste</p>
 
-**Hitsumi:** Finally, somewhere to sit.
+**Hitsumi:** *(It's still pretty good)* It's good now.
 
-<p class="centered">They take a seat and wait for 5 minutes</p>
+**Izumi:** Damn, how did I miss that.
 
-**Hitsumi:** When is the waiter gonna give us the menu?
+**Hitsumi:** *(Shit, not the response I expected, now I feel worse)* It's fine, you’re only human.
 
-<p class="centered">Izumi looks over and sees all the servers barely managing to keep up with the orders.</p>
+<p class="centered">Reina walks in after some time.</p>
 
-**Izumi:** I think it’s gonna be some time if we wait for them. I’ll go get it.
+**Reina:** Wow, this smells good.
 
-<p class="centered">He walks over behind a waitress taking an order from a table</p>
+<p class="centered">He gives her a taste of the broth</p>
 
-**Waitress:** Sure, got it. I’ll bring it out as soon as possible.
+**Reina:** Mmmm, it's delicious. Just a tad bit extra salt, I think.
 
-<p class="centered">She turns around hurriedly and bumps into Izumi</p>
+<p class="centered">Izumi instantly turns towards Hitsumi. She smiles, trying to escape her predicament. Reina looks confused</p>
 
-**Izumi:** Whoa there, take a breather.
+**Reina:** Did I say something wrong?
 
-**Waitress:** Oh, I'm so sorry. I didn’t see you.
-
-**Izumi:** No problem. Hey, can I get a menu perchance? We’ve been waiting for 5 minutes, and no one has given us one yet.
-
-**Waitress:** I apologize, we’re just very busy today. Since the squad just came back everyone is celebrating. And as you can see, we are severely understaffed.
-
-**Izumi:** Sure, no problem. We’re at that table in the corner.
-
-**Waitress:** Yes, sir, I’ll bring you a menu right away.
-
-**Izumi:** *smiles*
-
-<p class="centered">He heads back and takes a seat</p>
-
-**Hitsumi:** So, what did she say?
-
-**Izumi:** The waitress? She said they’re understaffed and will bring a menu soon.
-
-**Hitsumi:** Mmm.
-
-<p class="centered">A few minutes pass</p>
-
-**Waitress:** I'm sorry for the wait, here’s your menu.
-
-**Izumi:** It’s fine. We understand.
-
-**Waitress:** Thank you. Let me know when you’re ready to order.
-
-<p class="centered">The waitress leaves</p>
-
-**Izumi:** Here, you look at it first.
-
-**Hitsumi:** Why? I'm probably not gonna know what half the things are.
-
-<p class="centered">She looks at the menu</p>
-
-**Hitsumi:** Oh, you guys have normal food.
-
-**Izumi:** Well, yeah. We are also essentially humans, so we evolved the same, more or less.
-
-**Hitsumi:** Okay, let’s see what we have here.
-
-<p class="centered">She takes a look at the menu</p>
-
-**Hitsumi:** Ahhh, why are there so many items?
-
-**Izumi:** Cooking is pretty easy here, if you know how to use your angelic powers that is.
-
-**Hitsumi:** Angelic powers?
-
-**Izumi:** Yes, they are quite useful. You can use them to do a lot of stuff.
-
-**Hitsumi:** What is your level of purity?
-
-**Izumi:** Oh, uhhh.
-
-**Hitsumi:** Yes.
-
-**Izumi:** Well, it is-
-
-**Waitress:** Are you ready to order? (as she sneaks up behind him)
-
-**Izumi:** *startled* Oh my. You scared the shit out of me.
-
-**Waitress:** Oh, I'm sorry.
-
-**Izumi:** It's fine. Yeah, we are ready to order, right? (looks at Hitsumi).
-
-**Hitsumi:** Oh, yeah. I’ll have a regular burger meal.
-
-**Izumi:** I’ll have the same.
-
-**Waitress:** Good choice, sir. I’ll bring it right away. *smiles*
-
-**Izumi:** *smiles back*
-
-<p class="centered">She walks away</p>
-
-**Hitsumi:** *staring at him* What was that?
-
-**Izumi:** What do you mean?
-
-**Hitsumi:** Why did she say “good choice” only to you? It wasn’t even your choice, you just copied me.
-
-**Izumi:** *laughs* Chill, it’s not that deep.
-
-**Hitsumi:** *glares* *sighs* fine, I’ll let you off this time.
-
-<p class="centered">After 20 minutes</p>
-
-**Hitsumi:** WHY IS IT TAKING SOOO LONG?
-
-**Izumi:** I don’t know, they seem pretty busy.
-
-**Hitsumi:** I understand, but I'm also hungry.
-
-<p class="centered">She calls out for the waitress.</p>
-
-**Waitress:** Yes, ma'am.
-
-**Hitsumi:** How much longer will it take? No pressure.
-
-**Waitress:** Please forgive us, we are severely understaffed right now, so we are kind of struggling.
-
-**Hitsumi:** Oh. Why?
-
-**Waitress:** Our owner, my brother just died. So, we had to spend a lot of money on his funeral. So, we couldn’t pay our staff and had to let most of them go.
-
-**Hitsumi:** Damn, I'm sorry.
-
-**Waitress:** No, I'm sorry. You’re a customer, this is not your problem. I’ll bring your food.
-
-<p class="centered">She comes back soon after</p>
-
-**Waitress:** Here’s your order, ma'am.
-
-<p class="centered">She turns around swiftly and tries to walk away</p>
-
-**Izumi:** Five.
-
-<p class="centered">Hitsumi looks at him confused.</p>
-
-**Waitress:** Sir?
-
-**Izumi:** That’s how many times you apologized to us in the few minutes we talked
-
-**Waitress:** Oh.
-
-<p class="centered">She looks down, embarrassed.</p>
-
-<p class="centered">He hands her the thief’s purse.</p>
-
-**Waitress:** Sir, this is much more than your bill.
-
-**Izumi:** Think of it as a tip.
-
-<p class="centered">She reaches out to grab it, but holds herself back</p>
-
-**Waitress:** No, I can't accept this.
-
-<p class="centered">He takes her hand and places it in his</p>
-
-**Izumi:** Don’t give me that. Just take it.
-
-**Waitress:** Oh *tears up* Thank you, sir.
-
-**Izumi:** Kurosaki, Kurosaki Izumi.
-
-**Reina:** *wipes her eyes and smiles* Asuka, Asuka Reina.
-
-**Izumi:** *smiles*
-
-<p class="centered">Reina walks away with a smile on her face. Izumi turns back and looks at Hitsumi, and the smile on his face vanishes</p>
-
-**Izumi:** Ok, wait, I know how this looks-
-
-<p class="centered">Some time passes as they eat in silence</p>
-
-**Hitsumi:** The food is really good, no.
-
-**Izumi:** Yeah, it’s pretty good. (He says as he rubs the bump on his head)
-
-**Hitsumi:** Come on, I’m sure it doesn’t hurt that much after having your hand stabbed by a spear.
-
-**Izumi:** Physically maybe not, but it’s the mental damage, ok.
-
-**Hitsumi:** *laughs*
-
-**Izumi:** *sighs*
-
-<p class="centered">As they are enjoying their meal, a police officer breaks down the front door. As he storms towards the counter in anger.</p>
-
-**Officer 1:** Where’s Reina?
-
-**Reina:** I’m here, I’m here.
-
-<p class="centered">She yells from behind the counter</p>
-
-**Officer 1:** How long do we have to wait for the money?
-
-**Hitsumi:** Who is that guy?
-
-**Izumi:** He is a Keitaigumi officer, like police, I guess
-
-**Hitsumi:** Why are the names so confusing?
-
-**Izumi:** I didn’t come up with them, ok?
-
-<p class="centered">She looks back at them.</p>
-
-**Reina:** The money is coming; we have just been really tight for cash recently.
-
-<p class="centered">Another officer comes from behind him and slams the desk</p>
-
-**Officer 2:** This is the fourth week in a row, Reina.
-
-**Reina:** I genuinely apologize, Mr. Michiro.
-
-<p class="centered">Hitsumi looks at Izumi</p>
-
-**Hitsumi:** Aren’t you gonna do anything?
-
-**Izumi:** I just ate, man. Let me rest.
-
-**Hitsumi:** Seriously, you were flirting with her not too long ago.
-
-<p class="centered">Michiro picks up a beer bottle from the countertop</p>
-
-**Izumi:** *sighs*
-
-<p class="centered">Out of nowhere, a bottle gets thrown at his head</p>
-
-**Hitsumi:** OH MY, ARE YOU OKAY?
-
-**Reina:** IZUMI.
-
-**Michiro:** LOOK AT ME WHEN I'M TALKING TO YOU.
-
-<p class="centered">She turns back towards him, scared.</p>
-
-**Izumi:** Owwww (sarcastically).
-
-**Hitsumi:** Now, do you have a reason to fight?
-
-**Izumi:** Maybe.
-
-<p class="centered">Michiro looks at her and grabs her by her collar</p>
-
-**Michiro:** Listen here you bitch, you’re gonna pay us today.
-
-<p class="centered">He looks at her with lustful eyes</p>
-
-**Michiro:** One way or the other *smirks*.
-
-**Reina:** LET ME GO!
-
-**Officer 1:** Shut up *smiles*.
-
-<p class="centered">Hitsumi looks at Izumi</p>
-
-**Izumi:** *sighs*
-
-<p class="centered">As he is about to get up, another guy wearing a hood with hair covering his face walks into the store and puts his hands on the officer's shoulder</p>
-
-**Officer 1:** Huh, who are you?
-
-<p class="centered">He turns around and looks at his face</p>
-
-**???:** Come on now, no need to get rowdy.
-
-<p class="centered">His eyes widen as he recognizes who he is from his eyes and a little bit of his face</p>
-
-**Officer 1:** You... (angrily)
-
-**Michiro:** No need to get angry, officer. This man is no threat. What do you want?
-
-<p class="centered">He asks as he turns towards him</p>
-
-**???:** Put the girl down, and we can all go our merry way.
-
-**Michiro:** Oh? And what if I don’t?
-
-**???:** *smiles* Then I’ll have to make you.
-
-**Michiro:** BOYS.
-
-<p class="centered">5 more police officers storm into the building</p>
-
-**Michiro:** Don’t get cocky just because you’re some B-rate raider.
-
-**???:** B-rate? That’s just rude.
-
-<p class="centered">The officers surround him.</p>
-
-**Michiro:** There are 7 of us. There’s nothing you can do. Without harming civilians, that is.
-
-**???:** *frowns*
-
-<p class="centered">He looks around and sees everyone looking at him with fear in their eyes, not knowing if they’re gonna get hurt, and mothers covering their children</p>
-
-**Michiro:** *smiles*
-
-<p class="centered">His smile begins to fade as the man starts smiling</p>
-
-**???:** Wanna bet?
-
-<p class="centered">Michiro scoffs</p>
-
-**Michiro:** KEITAIGUMI, ATTACK!
-
-**Izumi:** Ooo, this is gonna be interesting.
-
-<p class="centered">4 of them rush and jump at him with their swords</p>
-
-**???:** *smirks*
-
-<p class="centered">As they all thrust towards him, they notice he is missing. They look around and don’t see him. He appears above them and lands down kicking one of them on the head, sending him face-first into the ground. Another officer comes from behind him. He moves to the left and dodges the sword, then he turns left and grabs the officer's hand with his right hand, lifts him, and throws him to the ground.</p>
-
-**???:** Don’t pick up what you can't use.
-
-<p class="centered">The other three officers rush towards him</p>
-
-**???:** *sighs*
-
-<p class="centered">He keeps his hand on his katana and prepares to unsheathe it</p>
-
-<p class="centered">Izumi looks at his katana in shock</p>
-
-**Izumi:** *(I wasn’t wrong. That katana, I could swear …)*
-
-<p class="centered">As all the officers raise their katanas to strike at the same time, He unsheathes his blade and in one cut, he parries all of them. In parrying them, he also ended up cutting all their swords in two by mistake.</p>
-
-**Izumi:** *(That blade)*
-
-<p class="centered">Hitsumi notices the serious look on Izumi’s face</p>
-
-**???:** My bad, didn’t know you guys were so weak.
-
-<p class="centered">Michiro starts to back up. Officer 1 starts panicking, then he has an idea and smiles. As the man approaches Michiro, he hears the officer shout from behind</p>
-
-**Officer 1:** Oi piece of shit.
-
-<p class="centered">He turns around in disappointment</p>
-
-**???:** Name-calling? That's low even for you.
-
-<p class="centered">The officer holds up a gun toward him</p>
-
-**Hitsumi:** You guys have guns? (surprised)
-
-**Izumi:** (takes a sip of his drink) Sure, we do.
-
-**Hitsumi:** You’re enjoying this way too much.
-
-**Izumi:** *smiles*
-
-**???:** Whoa whoa whoa. What are you planning on doing with that? Could you hurt someone? (sarcastically)
-
-**Officer 1:** *smiles* I’m not foolish enough to try to shoot you.
-
-<p class="centered">His smile widens as he shifts his aim to an older woman guarding a child</p>
-
-**???:** NOO.
-
-<p class="centered">He steps towards him, but before he can get to him, the officer shoots. He instantly changes direction and gets in between the bullet and the grandma. Just before the bullet strikes, he barely manages to deflect it, causing it to ricochet into a wall. He then looks at the officer with rage in his eyes and unleashes his Sakai</p>
-
-**Izumi:** *whistles* (impressed by his Sakai)
-
-<p class="centered">The officer starts walking back towards the exit. He strengthens his Sakai as he slowly walks towards him. He trips and falls on the floor in fear, and quickly manages to crawl out of the restaurant and make a run for his life. He turns his attention towards Michiro, who is paralyzed on the ground in fear. He walks towards him and grabs him by his shirt</p>
-
-**Michiro:** *gulps*
-
-<p class="centered">Michiro looks at him in terror, not able to make words</p>
-
-**???:** This is your last chance. Run. And don’t let me find you again.
-
-<p class="centered">He lets him down, and Michiro runs like he has never run before as he struggles to make his way out of the restaurant</p>
-
-**Michiro:** YOU’LL REGRET THIS (with a voice crack and stutter).
-
-<p class="centered">Reina walks towards him.</p>
-
-**Reina:** Um, excuse me. Is your hand okay?
-
-<p class="centered">He loosens his face and turns around. He looks at his hand and notices he's bleeding</p>
-
-**???:** Oh, this had to have been when…
-
-<p class="centered">He thinks back to the bullet and realizes that he was too slow to block with the blade. He ended up having to block with the handle of his sword, and the bullet ended up hitting his hand a bit</p>
-
-**???:** Don’t worry about it, I'm fine. What about you?
-
-**Reina:** *nods her head* Mmm, I'm fi- wait, aren’t you…
-
-<p class="centered">She thinks for some time and opens her mouth in shock</p>
-
-<p class="centered">Hitsumi looks around and notices his face</p>
-
-**Hitsumi:** AKIHIKO!
-
-<p class="centered">Sora gets pissed</p>
-
-**Sora:** IT’S AKIHITO
-
-**Reina:** You’re Akihito Sora.
-
-<p class="centered">All the people start mumbling</p>
-
-**Person 1:** Wait, is that Akihito?
-
-**Person 2:** It totally is, isn’t it?
-
-**Person 3:** THANK YOU, AKIHITO.
-
-**Person 4:** YOU’RE THE BEST.
-
-<p class="centered">All the people started to form a huge crowd around him</p>
-
-**Sora:** Oh, this is gonna be a problem.
-
-<p class="centered">Out of nowhere, he disappears into thin air. All the people start exclaiming.</p>
-
-**Person 1:** What was that?
-
-**Person 2:** He just disappeared.
-
-**Person 3:** No, I wanted an autograph.
-
-**Person 4:** That was soo cool!
-
-<p class="centered">Hitsumi Looks towards Izumi</p>
-
-**Hitsumi:** How did he do that?
-
-**Izumi:** It’s called a silent flash. Similar to how I stand in the air by interacting with the environment on a molecular level, you can also make it so that you don’t interact with any molecules, essentially making you silent.
-
-**Hitsumi:** So, he moved without disturbing anything.
-
-**Izumi:** Yes.
-
-**Hitsumi:** That’s kinda cool, can u do that?
-
-**Izumi:** It’s hard and requires a lot of practice compared to standing in the air,
-
-**Hitsumi:** So, you can’t?
-
-**Izumi:** Nope, I can, it’s pretty easy for me.
-
-**Hitsumi:** *sighs*
-
-**Izumi:** *laughs*
-
-<p class="centered">Reina walks up to Izumi.</p>
-
-**Reina:** How is your head?
-
-<p class="centered">Izumi turns toward her.</p>
-
-**Izumi:** Oh, I'm fine, don’t worry.
-
-<p class="centered">As he says that, blood starts pouring from his head.</p>
-
-**Reina:** Oh my God.
-
-<p class="centered">She inspects his head and ties a bandage around it.</p>
-
-**Reina:** There, that should help you a bit.
-
-**Izumi:** *smiles* Thank you.
-
-<p class="centered">As they look at each other, Hitsumi clears her throat</p>
-
-**Hitsumi:** Actually, we were just leaving.
-
-<p class="centered">Reina snaps back to reality.</p>
-
-**Reina:** Oh yes, of course.
-
-<p class="centered">Izumi looks towards Hitsumi, annoyed. She grabs him by his ear and drags him out</p>
-
-**Izumi:** Ow ow ow.
-
-**Hitsumi:** Shut up.
-
-<p class="centered">Reina looks down, disappointed. Izumi looks towards Reina as he gets dragged out.</p>
-
-**Izumi:** Byeee.
-
-**Reina:** Bye.
-
-<p class="centered">Reina: *(Come on, Reina, pull yourself together)*</p>
-
-<p class="centered">Both of them exit the building</p>
-
-**Izumi:** What was all that about?
-
-**Hitsumi:** Hmph.
-
-**Izumi:** *laughs*
-
-**Hitsumi:** So what now?
-
-**Izumi:** I don’t know, we need to find a place to stay.
-
-<p class="centered">As they are talking, a man appears behind Izumi</p>
-
-**???:** Are you alright?
-
-<p class="centered">Izumi jumps and hides behind Hitsumi.</p>
-
-**Izumi:** WTF. Who are you?
-
-**Hitsumi:** Hey, let go of me.
-
-<p class="centered">The man laughs</p>
-
-**Izumi:** Hold on, you are…
-
-<p class="centered">Hitsumi looks at him and recognizes him</p>
-
-**Hitsumi:** AKIHIKO!
-
-**Sora:** ITS AKIHITO.
-
-<p class="centered">He glares at Hitsumi.</p>
-
-**Izumi:** *laughs*.
-
-**Sora:** So, how's your head?
-
-**Izumi:** It’s fine.
-
-<p class="centered">He looks at his bandaged-up head.</p>
-
-**Izumi:** Oh, trust me, it's completely alright.
-
-**Sora:** *smiles* That’s good.
-
-<p class="centered">Walks up in front of him</p>
-
-**Sora:** *grins* After all, it would be a shame if you got hurt after that stunt you pulled.
-
-<p class="centered">Izumi looks at him with a mixture of surprise and confusion.</p>
-
-**Izumi:** *smiles* Whatever do you mean?
-
-**Sora:** Come on, there’s no acting audition going on.
-
-**Izumi:** *smirks*.
-
-**Sora:** You got hit by the bottle on purpose, didn’t you?
-
-**Izumi:** Why would I ever do that?
-
-**Sora:** Why? To protect her, of course.
-
-**Izumi:** *grins*
-
-<p class="centered">Hitsumi looks at them confused.</p>
-
-**Sora:** Don’t look so lost. It’s simple. Had he dodged, you would’ve gotten hit.
-
-<p class="centered">She thinks and realizes that he is right</p>
-
-**Hitsumi:** *(Yeah, had he moved over there, the bottle would’ve hit me)*
-
-<p class="centered">They stand face to face, smiling arrogantly at each other; their egos clash.</p>
-
-**Izumi:** You’re pretty good.
-
-**Sora:** You’re not that bad yourself.
-
-<p class="centered">They stare each other down, Sora with his hands folded and Izumi with his hands in his pockets. As they were facing each other, two girls appeared above the building, and one of them called out to Sora</p>
-
-**??? 1:** Oi Sora, What's taking you so long?
-
-<p class="centered">Both of them jump down.</p>
-
-**Sora:** Shion, I told you to go back.
-
-**Shion:** I could have, but I knew you were gonna come here to meet him.
-
-<p class="centered">She smiles, and she turns towards Izumi. She starts going in circles around Izumi and inspecting him</p>
-
-**Shion:** And I wanted to see him for myself.
-
-<p class="centered">Izumi gets mildly uncomfortable with her staring at him</p>
-
-**Shion:** So you are the one who piqued Soras' interest.
-
-**Izumi:** I guess. (he says without emotion)
-
-<p class="centered">She pops in front of his face</p>
-
-**Shion:** You’re kinda cute.*smiles*
-
-**Izumi:** *silent*
-
-**Shion:** Not a talkative type huh.
-
-**Izumi:** Not really, I just don’t like girls who are too…. Forward.
-
-**Shion:** *smiles* Interesting.
-
-<p class="centered">She reaches out her hand for a handshake</p>
-
-**Shion:** The name’s Shion, Kagerou Shion.
-
-**Izumi:** (uninterested) uh huh.
-
-<p class="centered">As he ignores her attempt at a handshake, she takes her hand back, disappointed</p>
-
-**Shion:** Not gonna say your name?
-
-**Izumi:** Izumi.
-
-**Shion:** Last name?
-
-**Izumi:** Kurosaki.
-
-**Shion:** *puffs her cheeks* You’re no fun.
-
-<p class="centered">She looks over at Hitsumi.</p>
-
-**Shion:** And who are you?
-
-<p class="centered">She goes up to her face.</p>
-
-**Shion:** What's your name?
-
-**Hitsumi:** Miyamoto Hitsumi.
-
-**Shion:** *smiles widely* You’re even cuter than him.
-
-<p class="centered">She leaps towards her, and Hitsumi moves away, sending Shion flying</p>
-
-**Hitsumi:** Sorry, I'm not gay.
-
-**Shion:** Aww.
-
-<p class="centered">Sora face palms and sighs.</p>
-
-**Sora:** Shion, stop disturbing them.
-
-**Shion:** Whattt?
-
-**??? 2:** How is your finger coming along, Captain?
-
-<p class="centered">The other girl says as she inspects his bandaged finger.</p>
-
-**Sora:** It's fine. Thank you, Shizuka.
-
-<p class="centered">She smiles overjoyed</p>
-
-**Shizuka:** *blushes* I'm glad I could help.
-
-<p class="centered">She looks at Izumi. She walks over to him and leans forward.</p>
-
-**Shizuka:** Allow me to thank you, it's been a long time since I have seen Captain so happy.
-
-**Sora:** SHIZUKA! (he says, embarrassed.)
-
-**Izumi:** *laughs*
-
-**Shizuka:** What? You smiled when you talked about him.
-
-**Sora:** ….
-
-<p class="centered">She turns back to Izumi.</p>
-
-**Shizuka:** You're Kurosaki, right?
-
-**Izumi:** Yeah.
-
-<p class="centered">She extends her hand.</p>
-
-**Shizuka:** My name’s Kazehana Shizuka.
-
-<p class="centered">Izumi shakes her hand and smiles.</p>
-
-**Izumi:** Kurosaki Izumi.
-
-<p class="centered">Shion gets pissed</p>
-
-**Shion:** Why did you shake her hand and not mine?
-
-<p class="centered">Izumi ignores her</p>
-
-**Shion:** DON’T IGNORE ME.
-
-<p class="centered">Shizuka walks over to Hitsumi. Shizuka extends her arm. Hitsumi smiles and shakes her hand</p>
-
-**Hitsumi:** *(Wow, she smells so good.)*
-
-<p class="centered">Sora turns around</p>
-
-**Sora:** Shizuka, Shion, we’re leaving
-
-**Shizuka:** Okay.
-
-**Shion:** Why are we leaving so soonnnnn?
-
-**Sora:** Shion. (he says sternly)
-
-**Shion:** okayyy okayyy, Captain.
-
-<p class="centered">She walks towards them and turns around.</p>
-
-**Shion:** Byeeeee, Izumiii and Hitsumiii *smiles*.
-
-**Izumi:** *ignores her*
-
-**Shizuka:** See you around. *smiles*
-
-**Izumi:** Byeee.
-
-**Hitsumi:** Byeee.
-
-<p class="centered">Shion gets annoyed and starts yelling. Sora grabs her and drags her back. Sora turns and looks at Izumi, and they smile at each other. He turns around again, and they walk away</p>
-
-**Izumi:** They were kinda nice, no?
-
-**Hitsumi:** Yeah.
-
-**Izumi:** Except Shion.
-
-**Hitsumi:** Yeah.
-
-<p class="centered">They both laugh. As they were about to walk away to search for a place to stay, Reina walked out.</p>
-
-Reina: Um, Izumi.
-
-Izumi: Oh, Reina. What's up?
-
-Reina: I overheard that you guys are looking for a place to stay.
-
-Izumi: Yeah.
-
-Reina: I have an empty room upstairs since my brother just died.
-
-Izumi: Well, we don’t have money, though.
-
-<p class="centered">She immediately responds hastily.</p>
-
-Reina: That’s not a problem, after all, you’ve already given me so much money.
-
-Izumi: But it's a personal room, right?
-
-Reina: (looks down and thinks about it as she holds her hand) It is, but I need to move on. What's happened has happened.
-
-Izumi: smiles and comforts her Thank you.
-
-<p class="centered">She looks up at him</p>
-
-<p class="centered">Hitsumi grabs him by his shirt and pulls him inside.</p>
-
-Hitsumi: Okayyy, let's go inside.
-
-Izumi: Oi, let me go.
-
-<p class="centered">She continues to pull him inside.</p>
-
-Reina: laughs
-
-<p class="centered">She leads them to the room.</p>
-
-Reina: Here it is.
-
-<p class="centered">He looks around.</p>
-
-Izumi: Yoo, this place looks sick.
-
-<p class="centered">He sees a lot of pictures and models of cars</p>
-
-Izumi: Was he a big car enthusiast?
-
-Hitsumi: These cars are pretty similar to the ones on Earth.
-
-Izumi: It is cause they are.
-
-Hitsumi: How?
-
-Izumi: We have a small view into what's going on on Earth.
-
-Hitsumi: Ohh.
-
-<p class="centered">Reina gets confused</p>
-
-Reina: Have you never seen Earth?
-
-<p class="centered">Hitsumi gulps, realizing her cover might get blown</p>
-
-Izumi: Umm, she actually has short-term memory loss, so she often forgets small things, right?
-
-<p class="centered">He turns towards Hitsumi.</p>
-
-Hitsumi: slightly annoyed Yeah, you know me. Sometimes I can be a little dumb. (faking a smile as she says it)
-
-Reina: Oh, okay.
-
-<p class="centered">Izumi sighs in relief.</p>
-
-<p class="centered">He walks over towards one of the car models, which is kept separate from the others.</p>
-
-Reina: That one was his favorite.
-
-Izumi: He has good taste. An RX-7 FD3S, huh.
-
-Reina: That’s the car his favorite racer used to drive.
-
-Izumi: Interesting.
-
-Reina: He used to say that cars were the only good thing ever made by Earthlings.
-
-Izumi: laughs right.
-
-<p class="centered">He looks over at Hitsumi, glaring at her, and quiets down as she also fakes a little laugh.</p>
-
-Reina: You seem to know a lot about cars.
-
-Izumi: I know a little bit.
-
-Reina: smiles You and my brother would’ve got along well.
-
-<p class="centered">Izumi smiles</p>
-
-Reina: He always played with them. He even wanted to race, but we were never rich enough to get him his own actual car.
-
-<p class="centered">Izumi lifts a stand, holding a solid silver metal bracelet</p>
-
-Reina: He always used to wear that.
-
-Izumi: It looks really good.
-
-Reina: You can keep it if you want.
-
-Izumi: I couldn’t (surprised).
-
-Reina: No, really, it's fine. He told us to sell it anyway, but I’d rather give it to you. You could consider it a thank you for the money.
-
-Izumi: smiles Thank you.
-
-<p class="centered">He wears it on his wrist.</p>
-
-Izumi: It looks good, no.
-
-Reina: Yes.
+**Izumi:** Noo, absolutely not. In fact, you couldn’t’ve been righter. It seems I was the one who was mistaken.
 
 <p class="centered">He looks at Hitsumi</p>
 
-Izumi: What do you think?
+**Hitsumi:** Alright, listen okay, maybe it was better the first time. But I only told you to add more salt in good faith.
 
-Hitsumi: glares
+**Izumi:** Really, and how is that?
 
-Izumi: removes it and keeps it back on the stand You know what, on second thought, I don’t want it.
+<p class="centered">She scrambles to find words.</p>
 
-Reina: Oh, ok.
+**Hitsumi:** Uhhh, well, I thought you’d be happy if I said it was good.
 
-<p class="centered">Hitsumi removes her shoes and falls onto the bed</p>
+**Izumi:** Uh-huh.
 
-Hitsumi: Finally, I needed this so badly.
+<p class="centered">He looks at her, waiting for her to say something</p>
 
-Izumi: Hey, wait, where will I sleep?
+**Hitsumi:** Fine, fine, I'm sorry. You’re a good chef.
 
-Reina: I'm sorry, there's only one bed.
+**Izumi:** SEE, I told you I'm good. *smiles*
 
-Hitsumi: laughs unlucky.
+**Hitsumi:** *smiles* Yeah, you are.
 
-Reina: I have a spare mattress in my room, but there's no place in this room. So you’ll have to sleep in my room.
+<p class="centered">She turns around and walks towards the kitchen door</p>
 
-<p class="centered">Hitsumi opens her eyes</p>
+**Hitsumi:** I'm gonna take a bath, quickly finish cooking, I'm bored.
 
-Izumi: Sur-
+**Izumi:** Gotchu.
 
-Hitsumi: He likes sleeping on the floor.
+**Reina:** I’ve left some of my clothes for you on your bed. And Izumi, I washed your jacket and kept it in the cupboard.
 
-Izumi: What? (confused)
+**Hitsumi:** Oh yeah, I remember seeing them, thank you.
 
-Hitsumi: You like sleeping on the floor, right?
+**Izumi:** Thank you Reinaaa.
 
-<p class="centered">She says, and she looks at Izumi with a smile</p>
+**Reina:** Also, Hitsumi.
 
-Izumi: scared YES, I LIKE SLEEPING ON THE FLOOR.
+<p class="centered">She turns around as she is walking off</p>
 
-Reina: Oh, okay.
+**Reina:** My clothes might be a little big for you. I hope you can manage.
 
-Izumi: smiles in fear
+**Izumi:** *chuckles under his breath*
 
-Reina: Alright, good night.
+<p class="centered">She looks at Izumi pissed off</p>
 
-Izumi: Good night.
+**Hitsumi:** SHUT UP.
 
-Hitsumi: Good night.
+<p class="centered">Looks back at Reina</p>
 
-<p class="centered">Reina closes the door and goes to sleep</p>
+**Hitsumi:** Thank you, Reina.
 
-Izumi: sighs.
+**Reina:** No problem *smiles*
 
-<p class="centered">He takes off his shirt and falls to the floor with his arms wide open.</p>
+<p class="centered">She storms out and closes the door with force</p>
 
-Hitsumi: thinks Fine, I feel bad for you. You can sleep on the bed.
+**Reina:** Did I say something wrong again?
 
-Izumi: Really.
+**Izumi:** *smiles* No, she will be fine.
 
-<p class="centered">He sits up happily</p>
+**Reina:** I’ll go anyways.
 
-Hitsumi: sighs I guess. Go to sleep before I regret it.
+**Izumi:** *smiles as he tosses his pan* Suit yourself.
 
-Izumi: Thank you.
+<p class="centered">She follows her out and catches up with Hitsumi</p>
 
-<p class="centered">Hitsumi moves over to the side, and he gets on the bed.</p>
+**Reina:** Hey, I apologize if I offended you.
 
-<p class="centered">He tried to go to sleep but couldn’t</p>
+**Hitsumi:** *turns around, shocked* Oh, it's no big deal. *smiles* I was just exaggerating anyway.
 
-<p class="centered">-After 10 minutes-</p>
+**Reina:** *(I guess he was right)*
 
-Izumi: You asleep?
+<p class="centered">After a moment of silence, Hitsumi asks a question</p>
 
-Hitsumi: No.
+**Hitsumi:** Reina, that police officer the other day. Are all of them like that?
 
-Izumi: sighs It’s been so long since I’ve gone to sleep in Dangai.
+**Reina:** *surprised*.
 
-Hitsumi: How long?
+<p class="centered">She looks down with a frown.</p>
 
-Izumi: 5 years.
+**Reina:** Yes, mostly.
 
-Hitsumi: Considering how long you’ve lived, it isn't that long.
+**Hitsumi:** How come you can’t report them?
 
-Izumi: I guess.
+**Reina:** To whom? All of the officials are corrupt. We can’t even reach the royal capital.
 
-Hitsumi: Mmm.
+**Hitsumi:** Thought so. By royal capital, you mean O-Ten?
 
-Izumi: Mmm.
+**Reina:** Yes.
 
-<p class="centered">After a few seconds of silence</p>
+**Hitsumi:** Why can you not reach it?
 
-Izumi: I'm impressed that you were able to figure out that you should probably not make it obvious you’re from Earth.
+**Reina:** How come you don’t know? *confused*
 
-Hitsumi: It just seemed right. But why should I not?
+**Hitsumi:** *nervously* Oh, ummm. Because I have bad memory, remember, haha.
 
-Izumi: The people of Dangai tend to look down upon Earthlings, as they like to call them.
+**Hitsumi:** *(FUCKING IZUMI)*
 
-Hitsumi: Why?
+**Reina:** We are way too far away. We have to cross so many regions before we can get to O-Ten. It's just impossible.
 
-Izumi: Because of your lack of divinity.
+**Hitsumi:** Oh.
 
-Hitsumi: That’s bullshit.
+**Hitsumi:** *(WHAT!)*
 
-Izumi: It is what it is.
+**Hitsumi:** Why did they want your money?
 
-Hitsumi: Mmm.
+**Reina:** It's tax, we have to pay them 50% of everything we make. But I have to pay the few workers I have. To me, that is more important.
 
-Izumi: Hey, why don't you want me to talk to Reina?
+**Hitsumi:** That’s messed up. That guy, what was his name, Mizuki?
 
-Hitsumi: It's not that I don’t want you to. I just don’t want you to sleep with a girl you barely know. Get to know her, then you can try to get with her.
+**Reina:** Michiro.
 
-Izumi: sighs Fair enough.
+**Hitsumi:** Yeah, is he important?
 
-Izumi: smiles and pats her head Thank you for caring.
+**Reina:** He is the lieutenant of Gokurengumi Sector-G.
 
-Hitsumi: smiles Alright, now to go to sleep.
+**Hitsumi:** Sector–G?
 
-Izumi: grins I saw the way you looked at Sora.
+**Reina:** Yeah, the outskirts are divided into sectors from A to Z.
 
-Hitsumi: EXCUSE ME.
+**Hitsumi:** *thinks*.
 
-Izumi: laughs I'm joking, I'm joking.
+**Reina:** (raises her head again) I'm sorry, I'm taking too much of your time. Please continue with your bath.
 
-Hitsumi: puffs her face.
+**Hitsumi:** No problem. Thanks for sharing.
 
-Izumi: Alright, go to sleep.
+<p class="centered">On the way to her room, she sees a sign</p>
 
-Hitsumi: Good night.
+**Hitsumi:** “We are hiring, “Waiters/Waitresses”, Interesting.
 
-Izumi: Good night.
+<p class="centered">Some time passes, and she finishes taking a bath and comes out, drying her hair with a towel. She looks out the window and thinks about her situation for some time.</p>
+
+**Hitsumi:** *(Crazy life, huh, hard to believe I was a normal university girl a day ago, or however time flies here)*
+
+<p class="centered">She hears shouting from downstairs.</p>
+
+**Cook:** HEY, YOU’RE GONNA BURN IT.
+
+**Izumi:** I DON’T KNOW HOW TO COOK VEGETARIAN, OKAY, WHO EVEN ORDERED IT?
+
+**Cook:** JUST BECAUSE YOU DON’T LIKE VEGETARIAN DOESN’T MEAN YOU BURN THE KITCHEN DOWN.
+
+<p class="centered">She smiles and chuckles to herself as she looks at the door</p>
+
+**Hitsumi:** *(But I don’t mind it)*
+
+<p class="centered">Suddenly, they hear an explosion from outside, and she instantly looks out the window. She sees smoke coming from a nearby building, down a few blocks. She quickly puts on Reina’s clothes and takes Izumi's black jacket, and runs down. She meets up with Izumi, who also abandoned his role of chef along with his hat and runs out of the kitchen.</p>
+
+**Hitsumi:** What was that?
+
+**Izumi:** Only one way to find out.
+
+**Hitsumi:** Here.
+
+<p class="centered">Hitsumi throws him his jacket, and he puts it on</p>
+
+**Izumi:** *smiles*
+
+<p class="centered">As they are about to run out, Reina calls out to Izumi.</p>
+
+**Reina:** Izumi, I got what you asked me for earlier today. You might need it.
+
+<p class="centered">She pulls out a wooden katana from under the counter and throws it at him. He raises his hand and catches it. He spends some time inspecting the blade and feeling the weight</p>
+
+**Izumi:** *grins* Nice.
+
+<p class="centered">He looks at Reina</p>
+
+**Izumi:** *smiles* Thanks a lot, Reina.
+
+**Reina:** *blushes and smiles* Mmm.
+
+<p class="centered">Both of them take off in search of the source of the smoke. As they run out the doors close from the force of them opening.</p>
+
+**Reina:** *exhales* *(I hope they come back safely)*
+
+<p class="centered">Outside</p>
+
+**Hitsumi:** I see the smoke, this way.
+
+**Izumi:** Hey, hold up.
+
+<p class="centered">He slowly catches up to her.</p>
+
+**Izumi:** Why are you going so fast all of a sudden?
+
+**Hitsumi:** You’re just going slow *grins excitedly*.
+
+**Izumi:** I don’t like to travel at light speed all the time, nice to catch a breath of air sometimes.
+
+**Hitsumi:** Uh-huh.
+
+**Izumi:** *smiles* Why are you so excited?
+
+**Hitsumi:** I don’t know. I usually spend all my time studying, so this is the most fun I’ve had in a long time.
+
+**Izumi:** *smirks* We’re only just getting started.
+
+**Hitsumi:** *smiles*
+
+<p class="centered">They reach the place of the smoke</p>
+
+**Hitsumi:** It's that building. It's pretty big.
+
+**Izumi:** *thinks* *(There's not too much fire, if anyone is inside, they shouldn’t be in too much trouble)*
+
+<p class="centered">A piece of the building breaks and falls off.</p>
+
+**Izumi:** *(Never mind. If the cause of the explosion was natural, then we should be good, but if it was induced…)* Stay here.
+
+**Hitsumi:** What?
+
+**Izumi:** I'm going in.
+
+**Hitsumi:** Is it safe?
+
+**Izumi:** Safer for me than a person already inside there.
+
+**Hitsumi:** *smiles* Alright, don’t die.
+
+**Izumi:** *smiles*
+
+<p class="centered">He runs inside, without showing any trace like Sora.</p>
+
+**Hitsumi:** *(That was the same technique Akihito used earlier. A silent flash, was it? I wish I could do it too.)*
+
+<p class="centered">Inside the building</p>
+
+<p class="centered">Izumi instantly covers the entire building</p>
+
+**Izumi:** *(There's no one here; in fact, this building seems abandoned. There wasn’t any sign of construction, so it couldn’t have been a planned demolition. So, what could’ve been the reason for the explosion, or the source?)*
+
+<p class="centered">He looks at a point on the wall parallel to the point of explosion and sees a point of impact.</p>
+
+**Izumi:** Interesting.
+
+<p class="centered">He looks around the fire and notices that he's been surrounded.</p>
+
+**Izumi:** *smirks*
+
+**Thug 1:** Would you look at that, we got a solo hero.
+
+**Izumi:** *smirks* An ambush? What do you stand to achieve from this?
+
+<p class="centered">He turns around and sees 6 people standing with weapons and fire protection artefacts.</p>
+
+**Izumi:** *whistles* Fire protection, that’s quite advanced. For a bunch of thugs that is.
+
+<p class="centered">They smile and walk towards him</p>
+
+**Thug 2:** A fearless solo warrior, he is probably Inazuchi.
+
+**Thug 3:** Not who we were paid for, but it works.
+
+<p class="centered">Izumi looks confused and raises his hands innocently</p>
+
+**Izumi:** Guys, I think you got the wrong guy. I’m not Ina-whatever.
+
+**Thug 4:** You really think we’re gonna fall for that?
+
+**Thug 5:** Hey bro, wait, Inazuchi doesn’t lie though.
+
+**Thug 2:** Shut up, man, whoever it is, he has to be a member of the Gokurengumi, get him
+
+<p class="centered">Izumi was now even more confused</p>
+
+**Izumi:** Guys, wait, I'm not part of the Gokuren-
+
+<p class="centered">Before he could finish, they all jumped toward him</p>
+
+**Izumi:** *sighs*
+
+<p class="centered">Outside</p>
+
+<p class="centered">A crowd starts to form outside</p>
+
+**Person 1:** Hey, what caused that huge fire?
+
+**Person 2:** I don’t know, I heard an explosion.
+
+**Person 3:** You know, a guy just ran in not too long ago.
+
+**Person 4:** *shocked* WHAT? NO WAY.
+
+**Person 5:** Probably a Gokurengumi squad member.
+
+**Person 4:** IT HAS TO BE AKIHITO.
+
+**Person 5:** No, it's probably Inazuchi.
+
+**Person 6:** It could be Tsukihara as well.
+
+**Person 3:** I don’t know, he didn’t seem like anyone I had seen before.
+
+**Person 6:** Probably a recruit then.
+
+**Person 5:** But why would they send a newbie alone?
+
+**Person 6:** He probably went in against orders out of excitement.* smirks*. Typical mistake.
+
+**Person 4:** Hey, don’t insult the Gokurengumi.
+
+**Person 6:** Huh, what, you wanna fight?
+
+**Person 4:** Maybe I wanna.
+
+<p class="centered">Hitsumi stays back, witnessing everything happening around her, and sighs in disappointment.</p>
+
+**Hitsumi:** Where is he? Why is it taking so long?
+
+<p class="centered">A man points towards the building and shouts</p>
+
+**Person 7:** HEY, LOOK, I SEE PEOPLE FIGHTING IN THERE.
+
+**Hitsumi:** What?
+
+<p class="centered">All six thugs are sent flying out of the building, through a closed window, breaking the glass. They land with a huge thud, and Izumi slowly drops down. A huge crowd forms around them and starts commenting</p>
+
+**Person 3:** It is a recruit.
+
+**Person 4:** YOU GOT THIS, MAN!
+
+**Person 5:** How delusional could one be, to think they could beat a Gokurengumi member, so stupid,
+
+<p class="centered">The six thugs stand up and try to fight him again</p>
+
+**Izumi:** *sighs* You guys don’t learn your lesson, huh?
+
+<p class="centered">Izumi goes to draw his sword, but then stops himself</p>
+
+**Izumi:** Honestly, you guys aren’t worth it.
+
+<p class="centered">He lifts his arms and enters a fighting stance. They all rush him one at a time, stupidly. The first one throws a left hook, and he dodges to the right; trips him with his leg and punches the second guy behind him in his stomach with his left hand. The third guy swings his axe down. Izumi stops it by holding the handle. He pulls it a bit to get him to hold on to it tighter, then uses the axe to pull himself towards him and punches him in his side. He looks up and sees the other three conjuring up a spell</p>
+
+**Izumi:** Oh, so that’s how you guys did the explosion.
+
+**Thug 2:** You’re done for shithead.
+
+<p class="centered">Izumi smiles and vanishes. The thugs get startled. He appears behind them and puts his hand on one of their shoulders</p>
+
+**Izumi:** But I have to say, three people for one spell is pretty pathetic.
+
+<p class="centered">He inspects the circle from behind them</p>
+
+**Izumi:** *(*smiles* as I expected)*
+
+<p class="centered">He goes in front of them again</p>
+
+**Izumi:** Let’s give the people a show, shall we?
+
+<p class="centered">The thugs get pissed and shoot the explosive projectile towards him</p>
+
+**Thug 1:** DIEEE!
+
+<p class="centered">The projectile travels towards him, breaking the sound barrier, and only getting faster.</p>
+
+**Izumi:** *smirks*
+
+<p class="centered">He grabs the projectile, and before it explodes, he spins around to conserve its speed and throws it towards the air, and it explodes in the air. Everyone goes speechless, and the thugs go down on their knees in defeat. The crowd erupts into cheering</p>
+
+**Izumi:** The impact on that wall was from when you guys blew up the building, right?
+
+<p class="centered">They look at him, flabbergasted.</p>
+
+**Izumi:** *sighs* Fine. I'll explain it. You guys made a mistake in the circle. That is why it takes some time after impact before exploding, and the force of the projectile also made an impact on the wall on the other side.
+
+<p class="centered">He walks towards them.</p>
+
+**Izumi:** Usually, advanced mages do that for various reasons. I’m guessing you copied it from a book. That’s why you should understand what you learn first. But since your angelic power is lesser.
+
+<p class="centered">He stops in front of them as they fall on their back</p>
+
+**Izumi:** You’re just too slow.*grins* To be honest, I was lucky to arrive this soon. Any later, and even that part would’ve broken off, and I wouldn’t have been able to figure it out.
+
+**Thug 3:** You’re not a Gokurengumi, are you?
+
+**Izumi:** That’s what I've been trying to say since the beginning.
+
+**Thug 2:** Then just who are you?
+
+<p class="centered">He looks back down at the Thug</p>
+
+**Izumi:** *grins*I am-
+
+<p class="centered">As he was about to finish, he was interrupted by someone</p>
+
+**???:** Well, well, what’s going on here?
+
+<p class="centered">A man walks up from behind as he punches his fist against his palm</p>
+
+**???:** We thought something serious might be happening since this is pretty close to the border, but I guess it was just thugs.
+
+<p class="centered">He sighs in disappointment</p>
+
+**???:** We probably should’ve just sent a few recruits.
+
+<p class="centered">The thugs look at him, and their eyes widen</p>
+
+**Thug 3:** That’s him for sure.
+
+**Thug 2:** Yeah, that’s Inazuchi. (Inazuchi Raiga)
+
+**Raiga:** *grins* Did one of you say my name?
+
+<p class="centered">Izumi turns towards him and smiles.</p>
+
+**Izumi:** So you’re Inazuchi. I’m Kurosa-
+
+<p class="centered">Before he could finish, Raiga jumped towards him and tried to punch him. Izumi manages to dodge and backpedal.</p>
+
+**Izumi:** CAN I NOT FINISH MY SENTENCE ONCE TODAY?
+
+**Raiga:** A thug like you doesn’t deserve to be known by me. (as he glares at him)
+
+**Izumi:** Again, I'm telling you, this is another misunderstanding.
+
+<p class="centered">He appears behind him and throws a right hook. Before it lands, Izumi turns around to his right and holds his hand with his left hand. Raiga gets mad and throws a left hook. Izumi lets go of his hand and jumps back to dodge it.</p>
+
+**Raiga:** Stop running away like a coward.
+
+**Izumi:** I am telling you, man, I'm not a thug, I don’t wanna fight.
+
+**Raiga:** You think I will believe a lying scumbag like you.
+
+**Izumi:** BROTHER, YOU’RE FIGHTING GHOSTS.
+
+**Person 1:** Do you think we should tell him that he's not a thug?
+
+**Person 2:** Nah, let them fight.
+
+**Person 3:** Yeah, this could be interesting.
+
+<p class="centered">The thugs look at each other and smile</p>
+
+**Thug 2:** Boss, I think we should make a run for it.
+
+**Thug 1:** Yeah, we can't fight him, he’s too strong.
+
+<p class="centered">Izumi turns and looks at them furiously</p>
+
+**Izumi:** Shut up. I'm not your boss.
+
+<p class="centered">They hug each other in fear.</p>
+
+**Raiga:** I knew it, you’re their boss.
+
+<p class="centered">He turns back towards Raiga.</p>
+
+**Izumi:** I swear man, this is just a huge misunderstanding.
+
+**Raiga:** Shut up and fight me.
+
+<p class="centered">Izumi looks down and sighs, then he looks back up at him</p>
+
+**Izumi:** You want a fight. *smiles* Fine, you got one.
+
+<p class="centered">Raiga smiles, then he rushes him. He throws a right punch, which Izumi deflects off, then he quickly throws a left punch, which he also deflects. Now that both his hands are away from his body, he kicks him in his abdomen. Right before the kick lands, Raiga barely manages to bring his arms back, forming a cross shape to lessen the impact. The impact gets sent back, but he manages to stay on his feet. Raiga looks at him angrily and quickly appears in front of him</p>
+
+**Izumi:** *(fast)* *smiles*.
+
+<p class="centered">He raises his hand to block a punch. Raiga throws a strong punch, which Izumi blocks at first. Then the impact lands, and Izumi gets caught off guard and gets sent back in a similar way</p>
+
+**Raiga:** *smiles*
+
+**Izumi:** *(Damn, he's pretty strong)*
+
+<p class="centered">He looks at Hitsumi in the crowd, and she laughs at him insultingly. He gets pissed off and looks back at Raiga and takes a breath. He quickly goes right in front of him and punches him in the side</p>
+
+**Raiga:** *grunts* Not strong enough-
+
+<p class="centered">Before he could finish, he threw another punch, then another. After throwing a flurry of attacks, he does a back kick right in his stomach, sending him flying into the building, leading to it collapsing on him.</p>
+
+**Izumi:** *exhales*.
+
+<p class="centered">He then looks at Hitsumi and smiles arrogantly</p>
+
+**Hitsumi:** Hmph *looks away*
+
+<p class="centered">She looks at the smoke and notices something, and smiles. She turns back toward him and signals him to look at the smoke. Izumi looks, and his eyes widen as the guy walks out of the dust</p>
+
+**Izumi:** *(seriously)*
+
+**Raiga:** *smiles angrily* You’re pretty strong for a thug, I can’t lie,
+
+<p class="centered">He cracks his neck and shoulders</p>
+
+**Raiga:** What did you say your name was?
+
+**Izumi:** Izumi.
+
+**Raiga:** *(Interesting, I feel like I’ve heard that name somewhere before)* Very well, Izumi, you have earned the respect of Inazuchi Raiga.
+
+<p class="centered">He reaches out and summons a weapon.</p>
+
+**Raiga:** And to show my respect, *he pulls out a huge axe*, I shall put you to rest.
+
+**Izumi:** *(seriously)*
+
+<p class="centered">Raiga squats and gets ready to charge at him. Izumi puts up his guard and gets on his toes. Raiga lunges towards him with his axe. Izumi tries to dodge but only barely manages to, and ends up getting Hitsumi's cloth around his palm cut.</p>
+
+**Izumi:** That was a close one.
+
+**Raiga:** The next one won’t be.
+
+**Izumi:** *(I guess I should finally use it)* *smiles* You’re right.
+
+<p class="centered">He finally pulls out his katana from his waist.</p>
+
+**Raiga:** I was wondering when you were gonna pull out your weapon
+
+<p class="centered">He looks at his weapon and loses his smile</p>
+
+**Raiga:** That sword, it's wooden? And it's not sharp.
+
+<p class="centered">He becomes filled with rage, and a red aura surrounds him</p>
+
+**Raiga:** I respect you by acknowledging you and using my weapon, and you pull out that toy. ARE YOU INSULTING ME!
+
+<p class="centered">The sandstone beneath him starts to crack.</p>
+
+**Izumi:** *smiles* We’ll see.
+
+<p class="centered">He takes a Ko Gasumi stance (Google it), and a black aura surrounds him. Raiga shouts and gets ready to charge at him. Right at that time, a voice silences everyone and pauses the entire charade.</p>
+
+**Sora:** STOP!
+
+<p class="centered">Sora jumps in between them and looks at Raiga furiously</p>
 
 <p class="centered"><em>To be continued...</em></p>

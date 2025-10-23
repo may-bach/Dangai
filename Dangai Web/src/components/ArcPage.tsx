@@ -54,7 +54,7 @@ const ArcPage: React.FC<ArcPageProps> = ({ arc, onSelectChapter, onBack }) => {
     }
 
     return (
-        <div className="container mx-auto max-w-4xl px-6 py-8 md:py-12 animate-fadeIn">
+        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 py-8 md:py-12 animate-fadeIn">
              <button onClick={onBack} className="inline-block bg-gradient-to-br from-neutral-500 to-neutral-700 border border-neutral-400 text-white py-1 px-4 text-sm rounded-lg hover:from-neutral-400 hover:to-neutral-600 transition-transform duration-300 hover:-translate-y-0.5 shadow-lg">
                 &larr; Back to Arcs
             </button>
@@ -66,7 +66,7 @@ const ArcPage: React.FC<ArcPageProps> = ({ arc, onSelectChapter, onBack }) => {
 
                 <DecorativeLine variant="arc" />
 
-                <div className="grid grid-cols-1 gap-5 max-w-lg mx-auto">
+                <div className="grid grid-cols-1 gap-5 max-w-lg lg:max-w-2xl mx-auto">
                     {arc.chapters.map(chapter => (
                         <ChapterCard 
                             key={chapter.id} 
@@ -135,9 +135,9 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
     }
 
     return (
-        <div className="container mx-auto max-w-4xl px-6 py-8 md:py-12 animate-fadeIn">
+        <div className="container mx-auto max-w-4xl lg:max-w-5xl xl:max-w-6xl px-6 py-8 md:py-12 animate-fadeIn">
             <button onClick={onBack} className="inline-block bg-gradient-to-br from-neutral-500 to-neutral-700 border border-neutral-400 text-white py-1 px-4 text-sm rounded-lg hover:from-neutral-400 hover:to-neutral-600 transition-transform duration-300 hover:-translate-y-0.5 shadow-lg">
-                &larr; Back to Chapters
+                &larr; {arc.id === 'prologue' ? 'Back to Arcs' : 'Back to Chapters'}
             </button>
 
             <section className="text-center mt-12">
@@ -147,7 +147,7 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
 
                 <DecorativeLine variant="arc" />
 
-                <div className="grid grid-cols-1 gap-5 max-w-lg mx-auto">
+                <div className="grid grid-cols-1 gap-5 max-w-lg lg:max-w-2xl mx-auto">
                     {chapter.parts.map(part => (
                         <PartCard 
                             key={part.id} 

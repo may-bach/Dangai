@@ -2,16 +2,16 @@ import type { Arc } from './types';
 
 export const ARCS: Arc[] = [
     {
-        id: "first_arc",
-        slug: "first-arc",
-        title: "First Arc",
-        description: "The Hollow Soul",
+        id: "prologue",
+        slug: "prologue",
+        title: "Prologue",
+        description: "The Day It All Began",
         locked: false,
         chapters: [
             { 
                 id: 1, 
-                slug: "college-life",
-                title: "College Life", 
+                slug: "the-day-it-all-began",
+                title: "The Day It All Began",
                 locked: false,
                 parts: [
                     { id: 1, slug: "part-1-a-normal-day", title: "Part 1: A Normal Day", locked: false },
@@ -24,17 +24,26 @@ export const ARCS: Arc[] = [
                     { id: 8, slug: "part-8-to-be-continued", title: "Part 8: To Be Continued", locked: false },
                 ]
             },
-            { id: 2, slug: "shura", title: "Shura", locked: false },
-            { id: 3, slug: "the-beginning", title: "The Beginning", locked: false },
-            { id: 4, slug: "where-nothing-exists", title: "Where Nothing Exists", locked: false },
-            { id: 5, slug: "in-exchange-for-a-heart", title: "In Exchange For A Heart", locked: false },
-            { id: 6, slug: "the-one-who-returned", title: "The One Who Returned", locked: false },
-            { id: 7, slug: "frosty-hero", title: "Frosty Hero", locked: false },
-            { id: 8, slug: "just-another-day", "title": "Just Another Day", locked: false },
-            { id: 9, slug: "a-seat-at-the-table", title: "A Seat at the Table", locked: false },
-            { id: 10, slug: "the-unwilling-recruit", title: "The Unwilling Recruit", locked: false },
-            { id: 11, slug: "the-blade-of-choice", title: "The Blade of Choice", locked: false },
-            { id: 12, slug: "coming-soon", title: "Coming Soon", locked: true },
+        ]
+    },
+    {
+        id: "first_arc",
+        slug: "first-arc",
+        title: "First Arc",
+        description: "The Hollow Soul",
+        locked: false,
+        chapters: [
+            { id: 1, slug: "shura", title: "Shura", locked: false },
+            { id: 2, slug: "the-beginning", title: "The Beginning", locked: false },
+            { id: 3, slug: "where-nothing-exists", title: "Where Nothing Exists", locked: false },
+            { id: 4, slug: "in-exchange-for-a-heart", title: "In Exchange For A Heart", locked: false },
+            { id: 5, slug: "the-one-who-returned", title: "The One Who Returned", locked: false },
+            { id: 6, slug: "frosty-hero", title: "Frosty Hero", locked: false },
+            { id: 7, slug: "just-another-day", "title": "Just Another Day", locked: false },
+            { id: 8, slug: "a-seat-at-the-table", title: "A Seat at the Table", locked: false },
+            { id: 9, slug: "the-unwilling-recruit", title: "The Unwilling Recruit", locked: false },
+            { id: 10, slug: "the-blade-of-choice", title: "The Blade of Choice", locked: false },
+            { id: 11, slug: "coming-soon", title: "Coming Soon", locked: true },
         ]
     },
     {

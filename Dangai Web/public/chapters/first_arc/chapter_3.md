@@ -1,433 +1,267 @@
+**Hitsumi:** So, how do we start?
 
-<p class="centered">They exit the portal on the other side. It looks like they’re inside a tree, covered by black branches with blue leaves. And through each of the cracks (just big enough to put your hand through) you can see different places, each very different from the other. They look around as they walk into a huge room made of these branches. There, they see a man standing, looking out into a crack in the shape of a rectangle with the scenery constantly changing from a field to a village, a sea, a forest, a city, a silver and gold path, and a fiery terrain filled with magma as they talk. They walk towards him.</p>
+**Izumi:** Aoi, you ready?
 
-**Aoi:** *claps his hands* Well, well, well. Look who decides to show up after nearly half an eon of inactivity for no reas-*turns around* WHO THE HECK IS THAT!
+**Aoi:** I've been ready for a long time now.
 
-**Izumi:** Calm down, it’s not important.
+<p class="centered">The vines from the trees start growing out and take the form of a portal</p>
 
-<p class="centered">Hitsumi looks at Izumi with a pissed-off face</p>
+**Aoi:** You're going to O-Ten, right?
 
-**Aoi:** That doesn’t mean you can just-
+**Izumi:** Yep.
 
-**Hitsumi:** PUT ME DOWN.
+**Hitsumi:** What's that?
 
-**Aoi:** Hey, don’t interrupt me when I’m talking.
+**Izumi:** It's the capital of Dangai, right at the center.
 
-<p class="centered">She looks at him</p>
+**Hitsumi:** Why are we going there?
 
-**Hitsumi:** SHUT UP!
+**Izumi:** To meet someone.
 
-**Aoi:** What? (confused)
+**Hitsumi:** And who is this someone?
 
-**Izumi:** Scary, right? She has that effect when she’s pissed.
+**Izumi:** My best friend.
 
-<p class="centered">Hitsumi snaps her fingers</p>
+<p class="centered">The portal lights up, and you can see a huge city on the other side</p>
 
-**Hitsumi:** Hey, look at me, I’m not done with you.
+**Aoi:** Alright, you're up.
 
-**Izumi:** What?
+**Izumi:** Come on, let's go.
 
-**Hitsumi:** *glares at him* Not important?
+**Hitsumi:** Wait, is this safe, for a human, I mean?
 
-**Aoi:** Don’t take it personally, he's not the most affectionate person I know
+**Izumi:** You'll be fine, I think.
 
-**Hitsumi:** NO ONE ASKED YOU.
+**Hitsumi:** You think—woahhh
 
-<p class="centered">She says in his face. Aoi backpedals</p>
+<p class="centered">She screams as Izumi drags her through</p>
 
-**Aoi:** WHAT'S WRONG WITH YOU, WOMAN!
+**Izumi:** Catch you later, bro.
 
-<p class="centered">He says with a confused look.</p>
+**Aoi:** *smiles* bye
 
-**Hitsumi:** OH SO I’M CRAZY NOW.
+<p class="centered">The portal closes on Aoi's side. They exit on the other side, but Izumi looks confused as they end up in what looks like the middle of the desert with no sun</p>
 
-**Izumi:** Not helping, bro.
+**Hitsumi:** Looks pretty barren for a capital.
 
-**Aoi:** I DIDN’T EVEN SAY THAT.
+**Izumi:** This is not O-Ten.
 
-**Hitsumi:** You know what, you’re right. I am crazy for trusting a random *friend* to travel across universes.
+**Hitsumi:** Wait, where are we?
 
-**Izumi:** Dimensions.
+**Izumi:** I don't know.
 
-**Hitsumi:** WHATEVER.
+**Hitsumi:** Oh *her smile slowly turns into anger* YOU DON'T WHAT!!!!! I FOLLOW YOU TO THIS PLACE WHERE I DON'T KNOW, TRUSTING IN YOU AND-
 
-<p class="centered">She storms off into a room</p>
+**Izumi:** Wait a minute-
 
-**Izumi:** DO YOU EVEN KNOW WHERE YOU’RE GOING!
+**Hitsumi:** YOU DON'T EVEN KNOW WHERE WE ARE.
 
-<p class="centered">He shouts across the chamber</p>
+**Izumi:** Hey, chill out
 
-**Hitsumi:** I DIDN’T WHEN I CAME HERE EITHER.
+**Hitsumi:** HONESTLY, I DON'T EVEN KNOW WHAT I WAS THINKING-
 
-**Izumi:** Damn, that’s a good point.
+**Izumi:** SHUT UP.
 
-<p class="centered">He looks at Aoi.</p>
+<p class="centered">Everything goes silent</p>
 
-**Izumi:** Oh, I just realized, I didn’t even say hi yet.
+**Izumi:** Let me finish. *takes a breath* I know where we are.
 
-<p class="centered">He goes in for a hug. Before he can get close, Aoi grabs him by the collar.</p>
+**Hitsumi:** Oh, you should've said that.
 
-**Aoi:** LET ME GET THIS STRAIGHT. YOU FUCK UP EVERYTHING. GO M.I.A FOR NEARLY AN EON. NO CONTACT WHATSOEVER. AND THEN JUST DECIDE TO SHOW UP OUT OF NOWHERE. WITH A HUMAN NO LESS.
+**Izumi:** Well, technically.
 
-**Izumi:** Chill out.
+**Hitsumi:** Technically? There's nothing technical about it. You either do or you don't.
 
-<p class="centered">He goes silent for a second</p>
+**Izumi:** I know the place we're in, but not exactly our location.
 
-**Aoi:** Did you just tell me to chill out?
+**Hitsumi:** Explain.
 
-**Izumi:** Ehhh
+**Izumi:** We're in what we call the nameless.
 
-**Aoi:** DON’T TELL ME TO “CHILL OUT”? ARE U AWARE OF THE CONSEQUENCES OF YOU’RE ACTIONS? THERE WERE MILLIONS OF PEOPLE PLACING THEIR HOPES ON YOU, AND YOU JUST BAILED ON ALL OF US.
+**Hitsumi:** What kind of name is that?
 
-**Izumi:** OK, OK, I get that you’re a little mad, but let me explain-.
+**Izumi:** A brilliant one, as it perfectly sums up what this place is.
 
-**Aoi:** A LITTLE MAD? MAD DOESN’T EVEN BEGIN TO DESCRIBE HOW PISSED OFF I AM AT YOU. AND WIPE THAT SMILE OFF YOUR FACE.
+**Hitsumi:** Which is?
 
-<p class="centered">Izumi’s smile vanishes, and his tone becomes deeper. He keeps his hand on Aoi’s arm. And he lets go of his collar.</p>
+**Izumi:** It's a place where nothing exists.
 
-**Izumi:** I’m sorry.
+**Hitsumi:** What do you mean?
 
-<p class="centered">Aoi’s face becomes loose.</p>
+**Izumi:** Dangai is a complicated plane. The capital city O-Ten is a huge city located at the center with walls all around, secluding it from the outside world.
 
-**Izumi:** I know what I did was wrong, but I had my reasons for it.
+**Hitsumi:** So, why is this place "nameless"?
 
-<p class="centered">Aoi notices the look on his face</p>
+**Izumi:** *smiles and clears throat* Dangai can be split into 5 parts. The first in the center is O-Ten, surrounding which there is a huge ocean, kind of like a moat. Then there is a forest, which serves as a kind of barrier between O-Ten and the next part, the outskirts. It is the border of Dangai. It is made up of a lot of these small villages. It is the most populated place in Dangai.
 
-**Aoi:** It has to do with her, doesn’t it? We haven’t heard anything from her either.
+**Hitsumi:** Why aren't any of these places connected to Dangai?
 
-<p class="centered">He looks down in defeat and clenches his fists</p>
+<p class="centered">Izumi's eyes go dark</p>
 
-**Aoi:** Is she?
+**Izumi:** Racism.
 
-<p class="centered">Izumi nods in silence</p>
+**Hitsumi:** Racism?
 
-**Aoi:** Well, whatever it was, I'm sure it wasn’t your fault.
+**Izumi:** Yes, well not exactly racism. It's people who are not pure.
 
-**Izumi:** YOU DON’T KNOW THAT. YOU WEREN’T THERE.
+**Hitsumi:** Pure?
 
-**Aoi:** I KNOW THAT YOU WOULD’VE DONE EVERYTHING TO SAVE HER.
+**Izumi:** Pure blooded. Humans in Dangai have angel blood which makes us stronger. Using which we can also tap into angelic powers and magic etc. They were meant to be a gift, but we managed to make even that into a way of discrimination based on how much of your blood was angelic. Anyone with less than 25% angelic blood, were considered impure and excommunicated to the outskirts, where they are forced to fend for themselves in the wilderness, while the people in power look down on them and insult them. The only way they could ever make it to the capital was if they were either sold as slaves or recruited as soldiers, just to be put on the frontline and die meaningless deaths.
 
-**Izumi:** WELL, CLEARLY I DIDN’T DO ENOUGH.
+<p class="centered">Hitsumi's eyes widen as Izumi forms a fist.</p>
 
-<p class="centered">The room goes silent.</p>
+**Izumi:** Even the police sent to maintain justice just extort them and take advantage of the fact that no one would ask. They were forced to live as lifeless beings; objects in their eyes.
 
-<p class="centered">He walks up to Izumi and puts an arm on his shoulder.</p>
+<p class="centered">She looks at him concerned. Izumi sighs, and his hand loosens.</p>
 
-**Aoi:** Izumi, I know that you loved her more than anyone, and I know you're stronger than anyone. If you couldn't save her, no one could have.
+**Izumi:** Well, at least that's no longer the case, thanks to her.
 
-<p class="centered">A familiar voice whispers in his head.</p>
+**Hitsumi:** You mean…
 
-**???:** *We… could’ve saved her.*
+**Izumi:** Yeah, her. She worked her ass off, and it paid off. She changed how everyone viewed each other. *smiles* We were even able to build a portal from all the main points of the outskirts to O-Ten.
 
-**Izumi:** *(SHUT UP!)*
+**Hitsumi:** *smiles* I see.
 
-**Izumi:** *sighs* I'm sorry, that was my bad. I didn’t mean to get so into it.
+<p class="centered">Slowly, her smile turns into a frown, and she shouts at him</p>
 
-**Aoi:** It's fine, I know it's not easy for you.
+**Hitsumi:** YOU STILL HAVEN'T TOLD ME WHY THIS PLACE IS NAMELESS.
 
-<p class="centered">There’s a moment of silence, then Aoi sniffs. He hugs Izumi and starts crying.</p>
+**Izumi:** Oh yeah, my bad. *he says as he sticks his tongue out and rubs his hair*. That brings me to the fifth part, the nameless. It lies outside the borders of the outskirts.
 
-**Aoi:** YOU KNOW HOW MUCH ALL OF US MISSED YOU.
+**Hitsumi:** Why is there a huge border around the outskirts? Can't you just let the people expand?
 
-**Izumi:** Hey.
+**Izumi:** *he looks at her, confused* Oh yeah, there's still something about Dangai that you don't know.
 
-**Aoi:** WE WERE LOST, WE HAD NO IDEA WHAT TO DO.
+**Hitsumi:** Which is? *Folds her hands*
 
-<p class="centered">Izumi sighs and smiles, and puts his arm around him</p>
+**Izumi:** Demons can invade Dangai in two ways, one is dungeons, which are present all around Dangai, except in O-Ten. That was considered too much of a risk. Raiding these dungeons is one of the best ways to get real experience fighting demons.
 
-**Izumi:** It’s fine, I’m back.
+**Hitsumi:** Mmm.
 
-<p class="centered">Aoi pauses</p>
+**Izumi:** But dungeons are heavily guarded with complex mechanisms. So, it's really hard for demons to invade through them. But they can't open gates the border either as it is guarded by divine protection.
 
-**Aoi:** Wait, why did you come back?
+**Hitsumi:** So, they use the other way?
 
-**Izumi:** It’s a long story, but I have some things to do.
+**Izumi:** Yes, Invading from the nameless.
 
-**Aoi:** So, it’s gonna be like the old times.
+**Hitsumi:** Mmhmm. That makes sense.
 
-**Izumi:** Yes, like the old times.
+**Izumi:** And also, Dangai is infinite.
 
-**Aoi:** *grins* But wait, I just remembered.
+**Hitsumi:** Oh. WHAT?!
 
-<p class="centered">He pulls a letter out of his pocket and hands it over to Izumi</p>
+**Izumi:** Yeah, the nameless extends forever.
 
-**Izumi:** What is this?
-
-**Aoi:** I guess you won’t be familiar with it.
-
-**Izumi:** Oh, you can’t be serious.
-
-**Aoi:** Yeah. Gabriel told me to give it to you the next time I saw you. He needs to see you and has told you to come to Silver City as soon as you get here.
-
-**Izumi:** Of course, he did.
-
-<p class="centered">He takes the letter and tears it.</p>
-
-**Aoi:** *sighs* How many of those have you torn again?
-
-**Izumi:** *smiles* I don’t know, I lost count.
-
-**Aoi:** But you know u can’t go past the guardian angels without it.
-
-**Izumi:** Wouldn’t be my first time doing so.
-
-**Aoi:** *huffs* Suit yourself.
-
-**Izumi:** Hmmm, I think I’m forgetting something.
-
-**Aoi:** What about your human friend?
-
-**Izumi:** OH, RIGHT. Thank you for reminding me.
-
-**Aoi:** Quick, get her before she wanders off into the wrong gate.
-
-**Izumi:** Don’t worry, I know where she went. I’ve been here so many times after all. You should know it too, this place is a part of you. After all.
-
-**Aoi:** Yeah, it will be a good place for an apology for whatever you did.
-
-**Izumi:** Yeah.
-
-**Aoi:** And Izumi, that girl
-
-<p class="centered">Izumi’s face becomes serious again</p>
-
-**Aoi:** Is she...
-
-**Izumi:** I don’t know.
-
-**Aoi:** I thought she looked familiar. So, that’s why you brought her here.
-
-**Izumi:** *nods*
-
-**Aoi:** I won’t pester you for now, but you'd better tell me eventually.
-
-**Izumi:** I promise.
-
-**Aoi:** Okay, now go.
-
-<p class="centered">Izumi turns around and walks to where Hitsumi ran off. He sees Hitsumi sitting at the edge of a cloud and looking at the scenery of a beautiful place. He goes and sits with her</p>
-
-**Izumi:** It’s sick, right?
-
-**Hitsumi:** ….
-
-**Izumi:** Even though we’re not actually here, it feels just as real.
-
-**Hitsumi:** Mmph.
-
-<p class="centered">She turns her head to the other side</p>
-
-**Izumi:** C’mon, it’s not that deep.
-
-<p class="centered">He puts his hand around her shoulders, but she moves away</p>
-
-**Izumi:** *sighs* I’m sorry.
-
-**Hitsumi:** …..
-
-**Izumi:** SAY SOMETHING.
-
-<p class="centered">He forcefully shakes her shoulders</p>
-
-**Izumi:** I’m sorry, ok
-
-**Hitsumi:** Do you not respect me?
-
-**Izumi:** What? Why?
-
-**Hitsumi:** We’re supposed to be partners.
-
-<p class="centered">His past memories interfere with his thoughts</p>
-
-<p class="centered">A girl grabs him by his arm</p>
-
-**???:** *smiles* After all, we’re partners right.
-
-**Hitsumi:** IZUMI.
-
-**Izumi:** *remains silent*
-
-**Hitsumi:** SAY SOMETHING.
-
-**Izumi:** This is pointless, come.
-
-<p class="centered">He grabs her hand and begins walking towards the main room, but she pulls her hand out of his grasp</p>
-
-**Hitsumi:** I’m not coming until you tell me.
-
-<p class="centered">He sighs and sits down with her</p>
-
-**Izumi:** I have a reason for not calling you that.
-
-**Hitsumi:** And what could that possibly be? I trusted you and followed you to God knows where. So just tell me. Please.
-
-**Izumi:** It’s a long story.
-
-**Hitsumi:** What?
-
-**Izumi:** The previous time I had a partner, it didn’t end well.
-
-**Hitsumi:** Oh.
-
-**Izumi:** It’s complicated, alright, that’s why I didn’t want to tell you.
-
-**Hitsumi:** When was this?
-
-**Izumi:** It was a long time ago.
-
-**Hitsumi:** Like a few years.
-
-**Izumi:** Uhh, try a few million.
-
-**Hitsumi:** Oh… WHAT?
-
-**Izumi:** Oh, right, I guess you never asked my age.
-
-**Hitsumi:** I did.
-
-**Izumi:** You sure?
-
-<p class="centered">She thinks back and realizes.</p>
-
-**Izumi:** You only asked if I'm older than you, to which I said yes. You’re the one who assumed it was by a year or two.
-
-**Hitsumi:** Shut the fuck up.
-
-**Izumi:** Ok. (looks down, sad)
-
-**Hitsumi:** WHAT EVEN ARE YOU! (Now that I think about it, everything that has happened recently doesn’t make any sense)
-
-**Izumi:** Well, technically, I’m a human.
-
-**Hitsumi:** Well, technically, humans don’t live for millions of years. And they don’t fight demons either. Or know people capable of teleportation. Nothing here technically makes sense.
-
-**Izumi:** Well, I get why you’re confused, but it will take way too long to give you a detailed summary, so I’ll give you a quick run-through.
-
-**Hitsumi:** Alright.
-
-**Izumi:** Listen well, first, you’re religious right, so you already believe in God.
-
-**Hitsumi:** Yeah.
-
-**Izumi:** That makes things a whole lot easier for me. God is real, and so are the devil, angels, demons, and all the other things that come along with them.
-
-**Hitsumi:** Uh-huh. You don’t seem surprised.
-
-**Hitsumi:** Cause I’m not, these are things I already know.
-
-**Izumi:** Fine then, let me tell you something you don’t, how long has Earth and this universe essentially existed?
-
-**Hitsumi:** Well, Biblically it’s about 6000 years.
-
-**Izumi:** Yes, how long has heaven existed?
-
-**Hitsumi:** Well, I’d guess as long as time has.
-
-**Izumi:** Smart answer but not the right one, it’s close to hitting its one billionth anniversary.
-
-**Hitsumi:** Really, I thought it would be older.
-
-**Izumi:** And how old do you think God is?
-
-**Hitsumi:** Same as time?
-
-**Izumi:** No, he is older than time as he existed before time.
-
-**Hitsumi:** Whoa, so he created time.
-
-**Izumi:** Yes, how old is he exactly? Even I don’t know. Now the question I have for you is, with all that time between the beginning of time and the creation of Earth, do you really think he was sitting idly?
-
-**Hitsumi:** I guess not.
-
-**Izumi:** Well you guessed right, this universe isn’t the first one he created after heaven and hell.
-
-**Hitsumi:** You mean to say…
-
-**Izumi:** Yes, I’m one of the residents of the other universe he created in a sense. Humans believe there are three dimensions in total and I’m not talking geometrically. The universe you live in, Heaven and Hell. But there is one more of which there is no record in the human realm.
-
-**Hitsumi:** So that’s where you’re from.
+**Hitsumi:** SO, WE ARE LOST IN THE MIDDLE OF NOWHERE.
 
 **Izumi:** Yes.
 
-**Hitsumi:** What’s it called?
+<p class="centered">Hitsumi slowly starts to faint upon the realization</p>
 
-**Izumi:** *Dangai.*
+**Izumi:** But fret not. I know which direction we have to travel towards.
 
-**Hitsumi:** Dangai.
+**Hitsumi:** How?
 
-**Izumi:** Yup, that’s where I was born and raised.
+**Izumi:** I share a… complex connection with Dangai. So, I always know where I am.
 
-**Hitsumi:** Wow, I have so many questions.
+**Hitsumi:** How?
 
-**Izumi:** I’m sure you do, but to answer them all would take another 3-hour episode, and I don’t think the audience would appreciate such a huge lore dump.
+<p class="centered">Izumi smiles and rubs her head</p>
 
-**Hitsumi:** Oh, I guess you’re right, but wait, you still haven’t told me why we can't be partners.
+**Izumi:** I'll tell you later. For now let's go.
 
-<p class="centered">His smile vanishes and looks down.</p>
+<p class="centered">He looks towards her and she looks confused. He grabs her lifts her up on his back</p>
 
-**Izumi:** The last partner I had died.
+**Izumi:** This will be faster.
 
-**Hitsumi:** What happened?
+**Hitsumi:** *sighs* Fine.
 
-**Izumi:** She got pulled into a fight that wasn’t hers.
+<p class="centered">-----------------------After 3 hours-----------------------</p>
 
-**Hitsumi:** Oh, it’s ok you don’t have to tell me what happened next.
+**Hitsumi:** *exhales*, how much, *exhales*, longer *with her tongue hanging out in thirst*
 
-**Izumi:** No, I have to.
+**Izumi:** Soon.
 
-<p class="centered">she looks at him in silence</p>
+**Hitsumi:** I thought you were fast.
 
-**Izumi:** I couldn’t protect her, it was the first promise I couldn’t fulfill… I was supposed to have her back.
+**Izumi:** And I thought you were light.
 
-<p class="centered">He grinds his teeth and tightens his fist</p>
+**Hitsumi:** EXCUSE ME, WHAT IS THAT SUPPOSED TO MEAN?
 
-**Hitsumi:** I’m sure it wasn’t your fault.
+**Izumi:** *laughs* I'm joking, I'm joking.
 
-**Izumi:** HOW DO YOU KNOW? SHE WAS RIGHT THERE, IN FRONT OF MY EYES AND I COULDN’T DO ANYTHING.
+**Hitsumi:** Well, it's not funny.
 
-**Hitsumi:** …
+**Izumi:** Why are you even tired? I'm the one carrying you.
 
-**Izumi:** She died.
+**Hitsumi:** WHY? BECAUSE IT'S HOT.
 
-<p class="centered">Tears start running down his eyes.</p>
+**Izumi:** I mean, it's not that hot.
 
-**Izumi:** She died right in front of me, and I was powerless. It was all because of me.
+**Hitsumi:** IT'S PROBABLY 45 DEGREES.
 
-<p class="centered">Hitsumi hugs him</p>
+**Izumi:** I guess compared to Earth, it's pretty hot.
 
-**Hitsumi:** See, I don’t know much about all these things about demons and angels and whatever you are, but I know for sure you would’ve done everything in your power to protect her.
+**Hitsumi:** You mean you find this normal?
 
-**Izumi:** And it wasn’t enough if only I was able to do it.
+**Izumi:** I mean, not exactly. Dangai's weather is pretty erratic. But I'm just used to hotter.
 
-**Hitsumi:** Do what?
+**Hitsumi:** It gets hotter than this?!
 
-<p class="centered">He stands up silently and starts walking toward the chamber</p>
+**Izumi:** Not usually, but I'm used to these temperatures because of my time in hell.
 
-**Izumi:** It doesn’t matter.
+**Hitsumi:** Oh…WHAT?
 
-<p class="centered">She stands up and catches his hand.</p>
+**Izumi:** ?
 
-**Hitsumi:** Hey, I'm not really sure about, well anything really, but I trust you.
+**Hitsumi:** YOU'VE BEEN TO HELL?
 
-<p class="centered">He hugs her</p>
+**Izumi:** Well, yeah, a few times.
 
-**Izumi:** Thank you.
+**Hitsumi:** Well, I'm not even surprised anymore. To be honest, you deserve to be there.
 
-**Hitsumi:** Thank me later, I’m hungry.
+**Izumi:** *looks at her uninterested*
 
-**Izumi:** *laughs* Alright come on let’s go.
+**Hitsumi:** What, that was funny.
 
-**Hitsumi:** Wait, where are we going?
+**Izumi:** Yeah, sure. *smiles*
 
-**Izumi:** Since when do you care?
+**Hitsumi:** Mmph. *smiles*. So how long will it take for us to reach there?
 
-**Hitsumi:** *glares at him*
+**Izumi:** In about an hour.
 
-**Izumi:** *laughs* ok ok, we are going to my home.
+**Hitsumi:** WHAT?!
 
-**Hitsumi:** You mean.
+**Izumi:** Chill, you won't even notice the time fly by.
 
-**Izumi:** *Dangai*.
+**Hitsumi:** I already am…
+
+**Izumi:** Hey, I could go faster ok, but your body won't be able to handle it.
+
+**Hitsumi:** *breathes heavily*
+
+<p class="centered">Suddenly his face goes serious as he feels someone about to attack them</p>
+
+<p class="centered">Out of nowhere, a spear is thrown at them</p>
+
+<p class="centered">Izumi dodges it right on time and comes to a stop</p>
+
+**Hitsumi:** WHAT WAS THAT! I THOUGHT YOU SAID NO ONE EXISTS HERE.
+
+**Izumi:** There isn't supposed to be. Why would anyone wander out of Dangai this far?
+
+**Hitsumi:** Whatever the reason, he's trying to kill us, take him down.
+
+**Izumi:** Wow, you're an aggressive little one aren't you?
+
+**Hitsumi:** I'm a fan of staying alive.
+
+<p class="centered">Izumi smiles and changes his focus towards where the spear came from.</p>
+
+**Hitsumi:** WHAT ARE THOSE?
+
+<p class="centered">He looks up in the sky and sees a group of soldiers on griffins.</p>
+
+**Izumi:** *smirks* our ride home.
 
 <p class="centered"><em>To be continued...</em></p>
-

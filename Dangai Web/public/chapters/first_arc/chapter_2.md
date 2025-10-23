@@ -1,310 +1,433 @@
 
-<p class="centered">The next day, Izumi meets Hitsumi in class.</p>
+<p class="centered">They exit the portal on the other side. It looks like they’re inside a tree, covered by black branches with blue leaves. And through each of the cracks (just big enough to put your hand through) you can see different places, each very different from the other. They look around as they walk into a huge room made of these branches. There, they see a man standing, looking out into a crack in the shape of a rectangle with the scenery constantly changing from a field to a village, a sea, a forest, a city, a silver and gold path, and a fiery terrain filled with magma as they talk. They walk towards him.</p>
 
-**Izumi:** Hey, how are you?
+**Aoi:** *claps his hands* Well, well, well. Look who decides to show up after nearly half an eon of inactivity for no reas-*turns around* WHO THE HECK IS THAT!
 
-**Hitsumi:** *smiles* I'm good, you?
+**Izumi:** Calm down, it’s not important.
 
-**Izumi:** After yesterday, pretty good.
+<p class="centered">Hitsumi looks at Izumi with a pissed-off face</p>
 
-**Hitsumi:** *sighs*.
+**Aoi:** That doesn’t mean you can just-
 
-**Izumi:** *laughs*. How's your arm?
+**Hitsumi:** PUT ME DOWN.
 
-<p class="centered">She inspects the cut on her arm, bandaged up.</p>
+**Aoi:** Hey, don’t interrupt me when I’m talking.
 
-**Hitsumi:** It's fine.
+<p class="centered">She looks at him</p>
 
-**Izumi:** Good.
+**Hitsumi:** SHUT UP!
 
-**Hitsumi:** Did you learn for the calculus test?
+**Aoi:** What? (confused)
 
-**Izumi:** Yeah, wait, what test?
+**Izumi:** Scary, right? She has that effect when she’s pissed.
 
-**Hitsumi:** You forgot about it, didn't you?
+<p class="centered">Hitsumi snaps her fingers</p>
 
-**Izumi:** Shit.
+**Hitsumi:** Hey, look at me, I’m not done with you.
 
-**Hitsumi:** *laughs*
+**Izumi:** What?
 
-**Izumi:** Well, it's fine, I'll manage.
+**Hitsumi:** *glares at him* Not important?
 
-**Hitsumi:** It won't be your first time.
+**Aoi:** Don’t take it personally, he's not the most affectionate person I know
 
-<p class="centered">The teacher walks in as the bell rings and everyone stands up</p>
+**Hitsumi:** NO ONE ASKED YOU.
 
-**Teacher:** Alright, guys, I hope you're ready.
+<p class="centered">She says in his face. Aoi backpedals</p>
 
-<p class="centered">The teacher distributes the question papers.</p>
+**Aoi:** WHAT'S WRONG WITH YOU, WOMAN!
 
-<p class="centered">He starts going through the paper.</p>
+<p class="centered">He says with a confused look.</p>
 
-**Izumi:** This should be easy.
+**Hitsumi:** OH SO I’M CRAZY NOW.
 
-<p class="centered">As his pen touches the paper, he hears an explosion.</p>
+**Izumi:** Not helping, bro.
 
-<p class="centered">Screams of students flood the hallways</p>
+**Aoi:** I DIDN’T EVEN SAY THAT.
 
-**Izumi:** What the hell was that?
+**Hitsumi:** You know what, you’re right. I am crazy for trusting a random *friend* to travel across universes.
 
-<p class="centered">All the students rush out and see that the center of the school is destroyed. The top of the school was broken as if something had crashed. The entire place was on fire. But most terrifying of all, as he looked down, he saw something he never wanted to see again.</p>
+**Izumi:** Dimensions.
 
-<p class="centered">Among the tons of debris, he saw......</p>
+**Hitsumi:** WHATEVER.
 
-<p class="centered"><strong><em>A DEMON</em></strong>.</p>
+<p class="centered">She storms off into a room</p>
 
-<p class="centered">All the students started screaming as they hid behind the walls and rocks. The demon begins growling. It looks at the students.</p>
+**Izumi:** DO YOU EVEN KNOW WHERE YOU’RE GOING!
 
-<p class="centered">Suddenly, he was holding one of them, it seemed instant. The guy started screaming, but it didn't last long. Killing him, he shouted <strong><em>"SHURAAA."</em></strong> It became silent. Izumi clenches his fist but stays back without doing anything.</p>
+<p class="centered">He shouts across the chamber</p>
 
-**Izumi:** Shit, I can't. It's not worth it. God, have mercy on his soul.
+**Hitsumi:** I DIDN’T WHEN I CAME HERE EITHER.
 
-<p class="centered">The guy starts to scream louder. The demon looks at him and whispers again, <strong><em>"Shuraaa."</em></strong> The guy goes silent. The demon bites his head off. All the students start to scream louder. But they are silenced by the roars of the demon.</p>
+**Izumi:** Damn, that’s a good point.
 
-<p class="centered">He picks his next victim. He continues as the screams of the students echo. Izumi's hands start to bleed from the pressure of him clenching. Hitsumi notices it and looks at his face, filled with despair and rage.</p>
+<p class="centered">He looks at Aoi.</p>
 
-<p class="centered">The demon had already killed nearly a hundred students, and it was looking for its next victim.</p>
+**Izumi:** Oh, I just realized, I didn’t even say hi yet.
 
-<p class="centered">As Hitsumi is about to say something the whole world freezes as she gets grabbed by the demon.</p>
+<p class="centered">He goes in for a hug. Before he can get close, Aoi grabs him by the collar.</p>
 
-<p class="centered">Izumi's eyes widened in shock. Hitsumi's face is filled with terror. <strong><em>"Shuraaa"</em></strong>, it whispers.</p>
+**Aoi:** LET ME GET THIS STRAIGHT. YOU FUCK UP EVERYTHING. GO M.I.A FOR NEARLY AN EON. NO CONTACT WHATSOEVER. AND THEN JUST DECIDE TO SHOW UP OUT OF NOWHERE. WITH A HUMAN NO LESS.
 
-<p class="centered">She remained silent; the demon scoffed. But as the demon opened its mouth, she couldn't move.</p>
+**Izumi:** Chill out.
 
-<p class="centered">Izumi still chooses not to do anything, but as he clenches his fist, his hand nearly tears off, as he looks down in defeat.</p>
+<p class="centered">He goes silent for a second</p>
 
-**Hitsumi:** *Izumi.*
+**Aoi:** Did you just tell me to chill out?
 
-<p class="centered">Izumi looks up with tears in his eyes</p>
+**Izumi:** Ehhh
 
-**Hitsumi:** ***IZUMI!!***
+**Aoi:** DON’T TELL ME TO “CHILL OUT”? ARE U AWARE OF THE CONSEQUENCES OF YOU’RE ACTIONS? THERE WERE MILLIONS OF PEOPLE PLACING THEIR HOPES ON YOU, AND YOU JUST BAILED ON ALL OF US.
 
-<p class="centered">His sorrow turns into rage. He knew it was better to lie low, but at that moment he couldn't think logically. The only thing on his mind was ... to kill. A familiar bloodlust and an even more familiar voice whispers in his head.... kill. A black mist surrounds his eyes. He un-clenches his fist and jumps over the railings. As he lands on the ground and walks out of the dust, his sclera slowly becomes black, and his iris is gold.</p>
+**Izumi:** OK, OK, I get that you’re a little mad, but let me explain-.
 
-<p class="centered">His hand completely heals as he stares down the demon.</p>
+**Aoi:** A LITTLE MAD? MAD DOESN’T EVEN BEGIN TO DESCRIBE HOW PISSED OFF I AM AT YOU. AND WIPE THAT SMILE OFF YOUR FACE.
 
-<p class="centered">The demon gets ready to jump at him, but as he begins to leap, he is brought down to his knees, just from Izumi's eyes. He walks over to the demon, but to a human, it seems like he almost teleported.</p>
+<p class="centered">Izumi’s smile vanishes, and his tone becomes deeper. He keeps his hand on Aoi’s arm. And he lets go of his collar.</p>
 
-<p class="centered">He holds the demon's head in his palm</p>
+**Izumi:** I’m sorry.
 
-**???:** What do you fear the most?
+<p class="centered">Aoi’s face becomes loose.</p>
 
-**Demon:** (with his voice trembling) *stutters*
+**Izumi:** I know what I did was wrong, but I had my reasons for it.
 
-**???:** SAY IT!
+<p class="centered">Aoi notices the look on his face</p>
 
-**Demon:** y-y-you....
+**Aoi:** It has to do with her, doesn’t it? We haven’t heard anything from her either.
 
-**???:** (he strengthens his grip) WHAT'S MY NAME!
+<p class="centered">He looks down in defeat and clenches his fists</p>
 
-<p class="centered">Even though the demon had never met him before, he was smart enough to know that this presence could only be one person...... or thing.</p>
+**Aoi:** Is she?
 
-<p class="centered"><em>[Blurred Fragment]</em></p>
+<p class="centered">Izumi nods in silence</p>
 
-**Demon:** Sh-sh-sh-sh-shuuu-raa.
+**Aoi:** Well, whatever it was, I'm sure it wasn’t your fault.
 
-**???:** *smiles*
+**Izumi:** YOU DON’T KNOW THAT. YOU WEREN’T THERE.
 
-<p class="centered">He begins to laugh out loud.</p>
+**Aoi:** I KNOW THAT YOU WOULD’VE DONE EVERYTHING TO SAVE HER.
 
-**Shura:** THAT'S RIGHT. I AM
+**Izumi:** WELL, CLEARLY I DIDN’T DO ENOUGH.
 
-**Demon:** *shudders*
+<p class="centered">The room goes silent.</p>
 
-**Shura:** *SHURAAA*
+<p class="centered">He walks up to Izumi and puts an arm on his shoulder.</p>
 
-<p class="centered">He crushes the demon's head in his hands. Blood splatters everywhere as he continues laughing.</p>
+**Aoi:** Izumi, I know that you loved her more than anyone, and I know you're stronger than anyone. If you couldn't save her, no one could have.
 
-<p class="centered">As he was about to go to check on Hitsumi, about 10 more demons arrived, one of which seemed stronger and more human than the rest.</p>
+<p class="centered">A familiar voice whispers in his head.</p>
 
-???: Shura Shura Shura. After eons of hiding, you finally decided to show yourself to aid a human. laughs I guess he overestimated you. Slams the ground with his giant sword. My name is Zabuza, commander of the 136th division of the Devils Guard.
+**???:** *We… could’ve saved her.*
 
-<p class="centered">Izumi turns towards the demon.</p>
+**Izumi:** *(SHUT UP!)*
 
-Zabuza: To guess that God’s perfect side project would be helping an earthling. How far you’ve fallen, Shura.
+**Izumi:** *sighs* I'm sorry, that was my bad. I didn’t mean to get so into it.
 
-<p class="centered">All the demons start laughing as Hitsumi looks in confusion. Izumi looks down and smiles. He starts to laugh, which makes the demons uneasy.</p>
+**Aoi:** It's fine, I know it's not easy for you.
 
-Zabuza: stops smiling What’s so funny?
+<p class="centered">There’s a moment of silence, then Aoi sniffs. He hugs Izumi and starts crying.</p>
 
-Shura: Nothing, it’s just that. The last time I fought your kind, there was more fighting and less talking. I guess you guys have become soft as well.
+**Aoi:** YOU KNOW HOW MUCH ALL OF US MISSED YOU.
 
-Zabuza: Why you? (angrily)
+**Izumi:** Hey.
 
-<p class="centered">He tries to spread his aura. As his aura envelops the field. The slightest exposure and the students would’ve died. But, before anything serious can happen, Izumi smiles.</p>
+**Aoi:** WE WERE LOST, WE HAD NO IDEA WHAT TO DO.
 
-Shura: I guess even your Sakai has degraded over time.
+<p class="centered">Izumi sighs and smiles, and puts his arm around him</p>
 
-Zabuza: gnashes his teeth
+**Izumi:** It’s fine, I’m back.
 
-Shura: Let me show you a real one.
+<p class="centered">Aoi pauses</p>
 
-<p class="centered">The gold in his eyes shines brightly, and it overpowers the Sakai of Zabuza. Zabuza struggles to even stand. All the other demons implode without being able to handle his Sakai. Izumi starts walking over to Zabuza. He tries to move, he tries to pick up his sword, but it’s in vain, as he realizes that his hands are trembling, and he can’t move.</p>
+**Aoi:** Wait, why did you come back?
 
-Zabuza: What is this power? This feeling. What are you?
+**Izumi:** It’s a long story, but I have some things to do.
 
-Shura: smiles Don’t think you survived my Sakai. It’s just that I didn’t want you dead just yet.
+**Aoi:** So, it’s gonna be like the old times.
 
-Zabuza: Kill me, 'cause you’re not getting anything else outta me.
+**Izumi:** Yes, like the old times.
 
-Shura: Oh really, well, even if I were to kill you, nothing wrong with causing a little pain before. Smiles psychotically
+**Aoi:** *grins* But wait, I just remembered.
 
-Zabuza: DO YOUR WORST!
+<p class="centered">He pulls a letter out of his pocket and hands it over to Izumi</p>
 
-<p class="centered">Izumi takes his hand towards him, but Zabuza maintains a straight face as he looks into his eyes. He lifts him by the neck.</p>
+**Izumi:** What is this?
 
-Shura: Wow, you're pretty respectable. You know what, I think I’ll let you live. Get stronger and challenge me again. If your master lets you live.
+**Aoi:** I guess you won’t be familiar with it.
 
-<p class="centered">Zabuza braces himself. Izumi crushes his neck and throws him to the side. And Zabuza’s eyes were filled with anger. Frustrated at the difference in strength between them, but feeling helpless, he goes back to hell. Izumi’s eyes return to normal. He looks at his hands and realizes what he’s done. It starts to rain. Then, he looks over at Hitsumi. They couldn’t say anything as the blood slowly flowed down from his body with the rain and mixed with the other blood and flowed into a nearby river, painting the river red.</p>
+**Izumi:** Oh, you can’t be serious.
 
-<p class="centered">[Blurred Fragment]</p>
+**Aoi:** Yeah. Gabriel told me to give it to you the next time I saw you. He needs to see you and has told you to come to Silver City as soon as you get here.
 
-<p class="centered">After a moment of silence</p>
+**Izumi:** Of course, he did.
 
-Izumi: I can’t believe this is how it ends. It’s my fault.
+<p class="centered">He takes the letter and tears it.</p>
 
-<p class="centered">Izumi looks down in despair as he reminisces about their memories. He gnashes his teeth and keeps his finger on his ear.</p>
+**Aoi:** *sighs* How many of those have you torn again?
 
-Izumi: Aoi, can u hear me?
+**Izumi:** *smiles* I don’t know, I lost count.
 
-<p class="centered">A voice speaks in his head.</p>
+**Aoi:** But you know u can’t go past the guardian angels without it.
 
-Aoi: Of course. What is it you want?
+**Izumi:** Wouldn’t be my first time doing so.
 
-Izumi: Create a gate to you.
+**Aoi:** *huffs* Suit yourself.
 
-Aoi: Really, after so long you’re just going to connect to me and ask me to bring you here.
+**Izumi:** Hmmm, I think I’m forgetting something.
 
-Izumi: This is serious.
+**Aoi:** What about your human friend?
 
-Aoi: Ahhh, alright. You’ve never been one to take no for an answer. Creating a gate, we have a lot to talk about.
+**Izumi:** OH, RIGHT. Thank you for reminding me.
 
-<p class="centered">A portal gets created and he starts walking towards it.</p>
+**Aoi:** Quick, get her before she wanders off into the wrong gate.
 
-Izumi: ALRIGHT EVERYONE, SORRY FOR ALL THE COMMOTION I’VE CAUSED AND THE CASUALITIES AND INJURIES. I'M TRULY SORRY. THEY’RE PROBABLY IN A BETTER PLACE…. IF THEY DESERVED IT.
+**Izumi:** Don’t worry, I know where she went. I’ve been here so many times after all. You should know it too, this place is a part of you. After all.
 
-<p class="centered">He looks over at Hitsumi</p>
+**Aoi:** Yeah, it will be a good place for an apology for whatever you did.
 
-Izumi: I’m sorry, but this is the end.
+**Izumi:** Yeah.
 
-<p class="centered">He turns around and starts to walk toward the portal, then suddenly she grabs his hand.</p>
+**Aoi:** And Izumi, that girl
 
-Izumi: What? Let me go,
+<p class="centered">Izumi’s face becomes serious again</p>
 
-Hitsumi: No, I won’t let you go.
+**Aoi:** Is she...
 
-Izumi: Why?
+**Izumi:** I don’t know.
 
-Hitsumi: Because I'm not letting you leave me behind.
+**Aoi:** I thought she looked familiar. So, that’s why you brought her here.
 
-Izumi: What?!
+**Izumi:** *nods*
 
-Hitsumi: Yes.
+**Aoi:** I won’t pester you for now, but you'd better tell me eventually.
 
-Izumi: Are you high? Look around you. All of this is because of me. I’m responsible for all of it.
+**Izumi:** I promise.
 
-Hitsumi: Well, maybe so. I don’t know what’s going on right now. I don’t know what those were. And to be honest, I feel like I don’t even know who you are. But I know that you’re my partner.
+**Aoi:** Okay, now go.
 
-Izumi: ARE YOU LISTENING TO YOURSELF? YOU DON’T KNOW ME.
+<p class="centered">Izumi turns around and walks to where Hitsumi ran off. He sees Hitsumi sitting at the edge of a cloud and looking at the scenery of a beautiful place. He goes and sits with her</p>
 
-Hitsumi: I KNOW ENOUGH.
+**Izumi:** It’s sick, right?
 
-<p class="centered">Izumi pulls his hand out.</p>
+**Hitsumi:** ….
 
-Izumi: Just continue your life without me.
+**Izumi:** Even though we’re not actually here, it feels just as real.
 
-<p class="centered">Hitsumi pulls him back. As he turns around, she slaps him.</p>
+**Hitsumi:** Mmph.
 
-Hitsumi: WHAT LIFE?
+<p class="centered">She turns her head to the other side</p>
 
-<p class="centered">He stares at her in silence</p>
+**Izumi:** C’mon, it’s not that deep.
 
-Hitsumi: My parents died, I have no friends.
+<p class="centered">He puts his hand around her shoulders, but she moves away</p>
 
-Izumi: I'm sorry.
+**Izumi:** *sighs* I’m sorry.
 
-Hitsumi: Don’t leave.
+**Hitsumi:** …..
 
-Izumi: Don’t you understand, I want to, but I can’t stay here. Those things will keep attacking until they find me again.
+**Izumi:** SAY SOMETHING.
 
-<p class="centered">She thinks for some time.</p>
+<p class="centered">He forcefully shakes her shoulders</p>
 
-Hitsumi: Where are you going then?
+**Izumi:** I’m sorry, ok
 
-Izumi: To where I came from.
+**Hitsumi:** Do you not respect me?
 
-Hitsumi: loosens grip
+**Izumi:** What? Why?
 
-<p class="centered">Izumi starts to walk towards the portal again.</p>
+**Hitsumi:** We’re supposed to be partners.
 
-Hitsumi: tightens grip wait.
+<p class="centered">His past memories interfere with his thoughts</p>
 
-<p class="centered">Izumi turns around and looks up to him.</p>
+<p class="centered">A girl grabs him by his arm</p>
 
-Hitsumi: Take me with you.
+**???:** *smiles* After all, we’re partners right.
 
-Izumi: EXCUSE ME?!
+**Hitsumi:** IZUMI.
 
-Hitsumi: Why, take me with you.
+**Izumi:** *remains silent*
 
-Izumi: You don’t even know where I’m going, let alone how dangerous it is.
+**Hitsumi:** SAY SOMETHING.
 
-Hitsumi: It’s fine, take me with you.
+**Izumi:** This is pointless, come.
 
-Izumi: No. Out of the question.
+<p class="centered">He grabs her hand and begins walking towards the main room, but she pulls her hand out of his grasp</p>
 
-Hitsumi: WHY?
+**Hitsumi:** I’m not coming until you tell me.
 
-Izumi: YOU WILL DIE!
+<p class="centered">He sighs and sits down with her</p>
 
-Hitsumi: YOU WON’T LET ME!
+**Izumi:** I have a reason for not calling you that.
 
-Izumi: sighs frustratedly
+**Hitsumi:** And what could that possibly be? I trusted you and followed you to God knows where. So just tell me. Please.
 
-Izumi: (confused) But. Why?
+**Izumi:** It’s a long story.
 
-Hitsumi: Because I want to.
+**Hitsumi:** What?
 
-Izumi: My God, why are you so annoying?
+**Izumi:** The previous time I had a partner, it didn’t end well.
 
-Hitsumi: I don’t care.
+**Hitsumi:** Oh.
 
-Aoi: Izumi, make it quick, I’m getting bored.
+**Izumi:** It’s complicated, alright, that’s why I didn’t want to tell you.
 
-Izumi: Just wait for some time.
+**Hitsumi:** When was this?
 
-<p class="centered">Izumi looks at Hitsumi as she looks at him with pleading eyes</p>
+**Izumi:** It was a long time ago.
 
-Izumi: Do you know what you’re getting yourself into?
+**Hitsumi:** Like a few years.
 
-Hitsumi: Yes.
+**Izumi:** Uhh, try a few million.
 
-Izumi: thinks for some time and takes a deep breath Fine, do what you want.
+**Hitsumi:** Oh… WHAT?
 
-Hitsumi: smiles Really. Hugs him
+**Izumi:** Oh, right, I guess you never asked my age.
 
-Izumi: hugs her back But you know what you're sacrificing, right?
+**Hitsumi:** I did.
 
-Hitsumi: Mmm.
+**Izumi:** You sure?
 
-Izumi: You’re crazy, you know that.
+<p class="centered">She thinks back and realizes.</p>
 
-Hitsumi: But you said I’m a genius.
+**Izumi:** You only asked if I'm older than you, to which I said yes. You’re the one who assumed it was by a year or two.
 
-Izumi: You can be both.
+**Hitsumi:** Shut the fuck up.
 
-Hitsumi: laughs
+**Izumi:** Ok. (looks down, sad)
 
-Izumi: smiles
+**Hitsumi:** WHAT EVEN ARE YOU! (Now that I think about it, everything that has happened recently doesn’t make any sense)
 
-<p class="centered">Izumi looks towards the portal and picks her up.</p>
+**Izumi:** Well, technically, I’m a human.
 
-Izumi: (How did I get myself into this? Why did I get myself into this? Maybe because she’s different. Maybe because she’s special. Or, maybe it’s just because.) Looks at her as she smiles
+**Hitsumi:** Well, technically, humans don’t live for millions of years. And they don’t fight demons either. Or know people capable of teleportation. Nothing here technically makes sense.
 
-<p class="centered">[Blurred Fragment]</p>
+**Izumi:** Well, I get why you’re confused, but it will take way too long to give you a detailed summary, so I’ll give you a quick run-through.
 
-Izumi: (Because she is just like her)
+**Hitsumi:** Alright.
 
-<p class="centered">They enter the portal together</p>
+**Izumi:** Listen well, first, you’re religious right, so you already believe in God.
+
+**Hitsumi:** Yeah.
+
+**Izumi:** That makes things a whole lot easier for me. God is real, and so are the devil, angels, demons, and all the other things that come along with them.
+
+**Hitsumi:** Uh-huh. You don’t seem surprised.
+
+**Hitsumi:** Cause I’m not, these are things I already know.
+
+**Izumi:** Fine then, let me tell you something you don’t, how long has Earth and this universe essentially existed?
+
+**Hitsumi:** Well, Biblically it’s about 6000 years.
+
+**Izumi:** Yes, how long has heaven existed?
+
+**Hitsumi:** Well, I’d guess as long as time has.
+
+**Izumi:** Smart answer but not the right one, it’s close to hitting its one billionth anniversary.
+
+**Hitsumi:** Really, I thought it would be older.
+
+**Izumi:** And how old do you think God is?
+
+**Hitsumi:** Same as time?
+
+**Izumi:** No, he is older than time as he existed before time.
+
+**Hitsumi:** Whoa, so he created time.
+
+**Izumi:** Yes, how old is he exactly? Even I don’t know. Now the question I have for you is, with all that time between the beginning of time and the creation of Earth, do you really think he was sitting idly?
+
+**Hitsumi:** I guess not.
+
+**Izumi:** Well you guessed right, this universe isn’t the first one he created after heaven and hell.
+
+**Hitsumi:** You mean to say…
+
+**Izumi:** Yes, I’m one of the residents of the other universe he created in a sense. Humans believe there are three dimensions in total and I’m not talking geometrically. The universe you live in, Heaven and Hell. But there is one more of which there is no record in the human realm.
+
+**Hitsumi:** So that’s where you’re from.
+
+**Izumi:** Yes.
+
+**Hitsumi:** What’s it called?
+
+**Izumi:** *Dangai.*
+
+**Hitsumi:** Dangai.
+
+**Izumi:** Yup, that’s where I was born and raised.
+
+**Hitsumi:** Wow, I have so many questions.
+
+**Izumi:** I’m sure you do, but to answer them all would take another 3-hour episode, and I don’t think the audience would appreciate such a huge lore dump.
+
+**Hitsumi:** Oh, I guess you’re right, but wait, you still haven’t told me why we can't be partners.
+
+<p class="centered">His smile vanishes and looks down.</p>
+
+**Izumi:** The last partner I had died.
+
+**Hitsumi:** What happened?
+
+**Izumi:** She got pulled into a fight that wasn’t hers.
+
+**Hitsumi:** Oh, it’s ok you don’t have to tell me what happened next.
+
+**Izumi:** No, I have to.
+
+<p class="centered">she looks at him in silence</p>
+
+**Izumi:** I couldn’t protect her, it was the first promise I couldn’t fulfill… I was supposed to have her back.
+
+<p class="centered">He grinds his teeth and tightens his fist</p>
+
+**Hitsumi:** I’m sure it wasn’t your fault.
+
+**Izumi:** HOW DO YOU KNOW? SHE WAS RIGHT THERE, IN FRONT OF MY EYES AND I COULDN’T DO ANYTHING.
+
+**Hitsumi:** …
+
+**Izumi:** She died.
+
+<p class="centered">Tears start running down his eyes.</p>
+
+**Izumi:** She died right in front of me, and I was powerless. It was all because of me.
+
+<p class="centered">Hitsumi hugs him</p>
+
+**Hitsumi:** See, I don’t know much about all these things about demons and angels and whatever you are, but I know for sure you would’ve done everything in your power to protect her.
+
+**Izumi:** And it wasn’t enough if only I was able to do it.
+
+**Hitsumi:** Do what?
+
+<p class="centered">He stands up silently and starts walking toward the chamber</p>
+
+**Izumi:** It doesn’t matter.
+
+<p class="centered">She stands up and catches his hand.</p>
+
+**Hitsumi:** Hey, I'm not really sure about, well anything really, but I trust you.
+
+<p class="centered">He hugs her</p>
+
+**Izumi:** Thank you.
+
+**Hitsumi:** Thank me later, I’m hungry.
+
+**Izumi:** *laughs* Alright come on let’s go.
+
+**Hitsumi:** Wait, where are we going?
+
+**Izumi:** Since when do you care?
+
+**Hitsumi:** *glares at him*
+
+**Izumi:** *laughs* ok ok, we are going to my home.
+
+**Hitsumi:** You mean.
+
+**Izumi:** *Dangai*.
 
 <p class="centered"><em>To be continued...</em></p>
+

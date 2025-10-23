@@ -30,7 +30,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
     }, [chapter, part]);
 
     const headerTitle = useMemo(() => {
-        const mainTitle = `Chapter ${chapter.id}: ${chapter.title}`;
+        const mainTitle = arc.id === 'prologue' ? chapter.title : `Chapter ${chapter.id}: ${chapter.title}`;
         const subTitle = part ? part.title : null;
         return (
             <>
@@ -38,7 +38,7 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
                 {subTitle && <span className="block text-xl md:text-2xl mt-2 opacity-70">{subTitle}</span>}
             </>
         )
-    }, [chapter, part]);
+    }, [arc, chapter, part]);
 
     useEffect(() => {
         const fetchContent = async () => {
@@ -53,18 +53,34 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
             }
 
             try {
-                // For chapters with parts, we always fetch the main chapter file.
-                const response = await fetch(`/chapters/${arc.id}/chapter_${chapter.id}.md`);
-                if (!response.ok) {
-                    throw new Error(`Content not found at /chapters/${arc.id}/chapter_${chapter.id}.md`);
-                }
-                const markdownContent = await response.text();
+                let finalContent: string;
 
-                let finalContent = markdownContent;
-                if (part) {
-                    const regex = new RegExp(`<!-- PART ${part.id} -->([\\s\\S]*?)(?:<!-- PART ${part.id + 1} -->|$)`, 'i');
-                    const match = markdownContent.match(regex);
-                    finalContent = match ? match[1].trim() : `<p>Content for Part ${part.id} not found.</p>`;
+                // Prologue content is loaded from individual part files
+                if (arc.id === 'prologue' && part) {
+                    const contentPath = `/chapters/prologue/part_${part.id}.md`;
+                    const response = await fetch(contentPath);
+                    if (!response.ok) {
+                        throw new Error(`Content not found at ${contentPath}`);
+                    }
+                    finalContent = await response.text();
+                } else {
+                    // Other arcs load from a single chapter file
+                    const contentPath = chapter.contentFile || `/chapters/${arc.id}/chapter_${chapter.id}.md`;
+                    const response = await fetch(contentPath);
+                    if (!response.ok) {
+                        throw new Error(`Content not found at ${contentPath}`);
+                    }
+                    const markdownContent = await response.text();
+
+                    // If it's a chapter with parts (but not prologue, which is handled above), extract the relevant part
+                    if (part) {
+                        const regex = new RegExp(`<!-- PART ${part.id} -->([\\s\\S]*?)(?:<!-- PART ${part.id + 1} -->|$)`, 'i');
+                        const match = markdownContent.match(regex);
+                        finalContent = match ? match[1].trim() : `<p>Content for Part ${part.id} not found.</p>`;
+                    } else {
+                        // It's a chapter without parts
+                        finalContent = markdownContent;
+                    }
                 }
                 
                 const parsedHtml = (window as any).marked.parse(finalContent);
@@ -229,19 +245,19 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
 
     return (
         <div className="w-full min-h-screen p-4 sm:p-6 md:p-8 animate-fadeIn">
-            <div className="max-w-screen-2xl mx-auto mb-8 pt-4">
+            <div className="max-w-4xl lg:max-w-5xl xl:max-w-7xl mx-auto mb-8 pt-4">
                 <button onClick={onBack} className={backButtonClasses}>
                     &larr; {chapter.parts ? 'Back to Parts' : 'Back to Chapters'}
                 </button>
             </div>
 
             <header className="text-center mb-12">
-                <h1 className="font-exo font-extralight text-3xl md:text-4xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
+                <h1 className="font-exo font-extralight text-3xl md:text-4xl lg:text-5xl text-white [text-shadow:0_0_25px_rgba(255,255,255,0.3)] tracking-[0.1em]">
                     {headerTitle}
                 </h1>
             </header>
 
-            <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 max-w-screen-2xl mx-auto max-h-[80vh] overflow-y-auto reader-content">
+            <div ref={contentRef} id="chapterContent" className="relative font-exo font-light bg-[rgba(30,30,30,0.95)] text-neutral-200 rounded-xl p-6 md:p-10 lg:p-12 border border-white/10 shadow-2xl shadow-black/50 max-w-4xl lg:max-w-5xl xl:max-w-7xl mx-auto max-h-[80vh] overflow-y-auto reader-content">
                 {showBookmarkPrompt && (
                     <div className="sticky top-0 z-10 bg-black/70 backdrop-blur-sm p-4 mb-4 flex flex-col sm:flex-row sm:justify-between items-center gap-3 animate-fadeIn rounded-lg border border-yellow-500/30 text-center sm:text-left">
                         <p className="text-lg text-yellow-300">Jump to your last reading position?</p>
