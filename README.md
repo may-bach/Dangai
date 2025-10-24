@@ -38,14 +38,9 @@ A sophisticated single-page web application for reading serialized stories onlin
     ```
 4.  **Run the development server:**
     ```bash
-    npm run dev
+    pnpm run dev
     ```
     The application will be available at `http://localhost:3000`.
-
-## Adding Content
-
--   Story content is placed in arc-specific subfolders inside `/public/chapters/`.
--   You can use the included `create.bat` script to automatically generate new chapter files in the correct location with the correct naming convention.
 
 ## Deployment
 
@@ -62,3 +57,5 @@ This project is pre-configured for seamless deployment on **Vercel**. The `verce
 ## Contributing
 
 Feel free to submit issues and pull requests for the code components. Story content contributions are not accepted.
+
+Tbh, this is only so that i can deploy this on vercel from a github repo.
