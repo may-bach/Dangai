@@ -125,7 +125,11 @@ export const ChapterPartsPage: React.FC<ChapterPartsPageProps> = ({ arc, chapter
 
     useEffect(() => {
         if (arc && chapter) {
-            document.title = `Chapter ${chapter.id}: ${chapter.title} - Dangai`;
+            if (arc.id === 'prologue') {
+                document.title = `${arc.title} - Dangai`;
+            } else {
+                document.title = `Chapter ${chapter.id}: ${chapter.title} - Dangai`;
+            }
             setBookmarkedParts(getBookmarkedPartsForChapter(arc.id, chapter.id));
         }
     }, [arc, chapter]);
