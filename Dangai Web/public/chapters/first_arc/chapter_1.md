@@ -89,13 +89,13 @@
 
 **???:** What do you fear the most?
 
-**Demon:** (with his voice trembling) *stutters*
+**Demon:** *with his voice trembling* *stutters*
 
 **???:** SAY IT!
 
 **Demon:** y-y-you....
 
-**???:** (he strengthens his grip) WHAT'S MY NAME!
+**???:** *he strengthens his grip* WHAT'S MY NAME!
 
 <p class="centered">Even though the demon had never met him before, he was smart enough to know that this presence could only be one person...... or thing.</p>
 
@@ -117,193 +117,193 @@
 
 <p class="centered">As he was about to go to check on Hitsumi, about 10 more demons arrived, one of which seemed stronger and more human than the rest.</p>
 
-???: Shura Shura Shura. After eons of hiding, you finally decided to show yourself to aid a human. laughs I guess he overestimated you. Slams the ground with his giant sword. My name is Zabuza, commander of the 136th division of the Devils Guard.
+**???:** Shura Shura Shura. After eons of hiding, you finally decided to show yourself to aid a human. *laughs* I guess he overestimated you. *Slams the ground with his giant sword.* My name is Zabuza, commander of the 136th division of the Devils Guard.
 
 <p class="centered">Izumi turns towards the demon.</p>
 
-Zabuza: To guess that God’s perfect side project would be helping an earthling. How far you’ve fallen, Shura.
+**Zabuza:** To guess that God's perfect side project would be helping an earthling. How far you've fallen, Shura.
 
 <p class="centered">All the demons start laughing as Hitsumi looks in confusion. Izumi looks down and smiles. He starts to laugh, which makes the demons uneasy.</p>
 
-Zabuza: stops smiling What’s so funny?
+**Zabuza:** *stops smiling* What's so funny?
 
-Shura: Nothing, it’s just that. The last time I fought your kind, there was more fighting and less talking. I guess you guys have become soft as well.
+**Shura:** Nothing, it's just that. The last time I fought your kind, there was more fighting and less talking. I guess you guys have become soft as well.
 
-Zabuza: Why you? (angrily)
+**Zabuza:** Why you? *angrily*
 
-<p class="centered">He tries to spread his aura. As his aura envelops the field. The slightest exposure and the students would’ve died. But, before anything serious can happen, Izumi smiles.</p>
+<p class="centered">He tries to spread his aura. As his aura envelops the field. The slightest exposure and the students would've died. But, before anything serious can happen, Izumi smiles.</p>
 
-Shura: I guess even your Sakai has degraded over time.
+**Shura:** I guess even your Sakai has degraded over time.
 
-Zabuza: gnashes his teeth
+**Zabuza:** *gnashes his teeth*
 
-Shura: Let me show you a real one.
+**Shura:** Let me show you a real one.
 
-<p class="centered">The gold in his eyes shines brightly, and it overpowers the Sakai of Zabuza. Zabuza struggles to even stand. All the other demons implode without being able to handle his Sakai. Izumi starts walking over to Zabuza. He tries to move, he tries to pick up his sword, but it’s in vain, as he realizes that his hands are trembling, and he can’t move.</p>
+<p class="centered">The gold in his eyes shines brightly, and it overpowers the Sakai of Zabuza. Zabuza struggles to even stand. All the other demons implode without being able to handle his Sakai. Izumi starts walking over to Zabuza. He tries to move, he tries to pick up his sword, but it's in vain, as he realizes that his hands are trembling, and he can't move.</p>
 
-Zabuza: What is this power? This feeling. What are you?
+**Zabuza:** What is this power? This feeling. What are you?
 
-Shura: smiles Don’t think you survived my Sakai. It’s just that I didn’t want you dead just yet.
+**Shura:** *smiles* Don't think you survived my Sakai. It's just that I didn't want you dead just yet.
 
-Zabuza: Kill me, 'cause you’re not getting anything else outta me.
+**Zabuza:** Kill me, 'cause you're not getting anything else outta me.
 
-Shura: Oh really, well, even if I were to kill you, nothing wrong with causing a little pain before. Smiles psychotically
+**Shura:** Oh really, well, even if I were to kill you, nothing wrong with causing a little pain before. *Smiles psychotically*
 
-Zabuza: DO YOUR WORST!
+**Zabuza:** DO YOUR WORST!
 
 <p class="centered">Izumi takes his hand towards him, but Zabuza maintains a straight face as he looks into his eyes. He lifts him by the neck.</p>
 
-Shura: Wow, you're pretty respectable. You know what, I think I’ll let you live. Get stronger and challenge me again. If your master lets you live.
+**Shura:** Wow, you're pretty respectable. You know what, I think I'll let you live. Get stronger and challenge me again. If your master lets you live.
 
-<p class="centered">Zabuza braces himself. Izumi crushes his neck and throws him to the side. And Zabuza’s eyes were filled with anger. Frustrated at the difference in strength between them, but feeling helpless, he goes back to hell. Izumi’s eyes return to normal. He looks at his hands and realizes what he’s done. It starts to rain. Then, he looks over at Hitsumi. They couldn’t say anything as the blood slowly flowed down from his body with the rain and mixed with the other blood and flowed into a nearby river, painting the river red.</p>
+<p class="centered">Zabuza braces himself. Izumi crushes his neck and throws him to the side. And Zabuza's eyes were filled with anger. Frustrated at the difference in strength between them, but feeling helpless, he goes back to hell. Izumi's eyes return to normal. He looks at his hands and realizes what he's done. It starts to rain. Then, he looks over at Hitsumi. They couldn't say anything as the blood slowly flowed down from his body with the rain and mixed with the other blood and flowed into a nearby river, painting the river red.</p>
 
 <p class="centered">[Blurred Fragment]</p>
 
 <p class="centered">After a moment of silence</p>
 
-Izumi: I can’t believe this is how it ends. It’s my fault.
+**Izumi:** I can't believe this is how it ends. It's my fault.
 
 <p class="centered">Izumi looks down in despair as he reminisces about their memories. He gnashes his teeth and keeps his finger on his ear.</p>
 
-Izumi: Aoi, can u hear me?
+**Izumi:** Aoi, can u hear me?
 
 <p class="centered">A voice speaks in his head.</p>
 
-Aoi: Of course. What is it you want?
+**Aoi:** Of course. What is it you want?
 
-Izumi: Create a gate to you.
+**Izumi:** Create a gate to you.
 
-Aoi: Really, after so long you’re just going to connect to me and ask me to bring you here.
+**Aoi:** Really, after so long you're just going to connect to me and ask me to bring you here.
 
-Izumi: This is serious.
+**Izumi:** This is serious.
 
-Aoi: Ahhh, alright. You’ve never been one to take no for an answer. Creating a gate, we have a lot to talk about.
+**Aoi:** Ahhh, alright. You've never been one to take no for an answer. Creating a gate, we have a lot to talk about.
 
 <p class="centered">A portal gets created and he starts walking towards it.</p>
 
-Izumi: ALRIGHT EVERYONE, SORRY FOR ALL THE COMMOTION I’VE CAUSED AND THE CASUALITIES AND INJURIES. I'M TRULY SORRY. THEY’RE PROBABLY IN A BETTER PLACE…. IF THEY DESERVED IT.
+**Izumi:** ALRIGHT EVERYONE, SORRY FOR ALL THE COMMOTION I'VE CAUSED AND THE CASUALITIES AND INJURIES. I'M TRULY SORRY. THEY'RE PROBABLY IN A BETTER PLACE…. IF THEY DESERVED IT.
 
 <p class="centered">He looks over at Hitsumi</p>
 
-Izumi: I’m sorry, but this is the end.
+**Izumi:** I'm sorry, but this is the end.
 
 <p class="centered">He turns around and starts to walk toward the portal, then suddenly she grabs his hand.</p>
 
-Izumi: What? Let me go,
+**Izumi:** What? Let me go,
 
-Hitsumi: No, I won’t let you go.
+**Hitsumi:** No, I won't let you go.
 
-Izumi: Why?
+**Izumi:** Why?
 
-Hitsumi: Because I'm not letting you leave me behind.
+**Hitsumi:** Because I'm not letting you leave me behind.
 
-Izumi: What?!
+**Izumi:** What?!
 
-Hitsumi: Yes.
+**Hitsumi:** Yes.
 
-Izumi: Are you high? Look around you. All of this is because of me. I’m responsible for all of it.
+**Izumi:** Are you high? Look around you. All of this is because of me. I'm responsible for all of it.
 
-Hitsumi: Well, maybe so. I don’t know what’s going on right now. I don’t know what those were. And to be honest, I feel like I don’t even know who you are. But I know that you’re my partner.
+**Hitsumi:** Well, maybe so. I don't know what's going on right now. I don't know what those were. And to be honest, I feel like I don't even know who you are. But I know that you're my partner.
 
-Izumi: ARE YOU LISTENING TO YOURSELF? YOU DON’T KNOW ME.
+**Izumi:** ARE YOU LISTENING TO YOURSELF? YOU DON'T KNOW ME.
 
-Hitsumi: I KNOW ENOUGH.
+**Hitsumi:** I KNOW ENOUGH.
 
 <p class="centered">Izumi pulls his hand out.</p>
 
-Izumi: Just continue your life without me.
+**Izumi:** Just continue your life without me.
 
 <p class="centered">Hitsumi pulls him back. As he turns around, she slaps him.</p>
 
-Hitsumi: WHAT LIFE?
+**Hitsumi:** WHAT LIFE?
 
 <p class="centered">He stares at her in silence</p>
 
-Hitsumi: My parents died, I have no friends.
+**Hitsumi:** My parents died, I have no friends.
 
-Izumi: I'm sorry.
+**Izumi:** I'm sorry.
 
-Hitsumi: Don’t leave.
+**Hitsumi:** Don't leave.
 
-Izumi: Don’t you understand, I want to, but I can’t stay here. Those things will keep attacking until they find me again.
+**Izumi:** Don't you understand, I want to, but I can't stay here. Those things will keep attacking until they find me again.
 
 <p class="centered">She thinks for some time.</p>
 
-Hitsumi: Where are you going then?
+**Hitsumi:** Where are you going then?
 
-Izumi: To where I came from.
+**Izumi:** To where I came from.
 
-Hitsumi: loosens grip
+**Hitsumi:** *loosens grip*
 
 <p class="centered">Izumi starts to walk towards the portal again.</p>
 
-Hitsumi: tightens grip wait.
+**Hitsumi:** *tightens grip* wait.
 
 <p class="centered">Izumi turns around and looks up to him.</p>
 
-Hitsumi: Take me with you.
+**Hitsumi:** Take me with you.
 
-Izumi: EXCUSE ME?!
+**Izumi:** EXCUSE ME?!
 
-Hitsumi: Why, take me with you.
+**Hitsumi:** Why, take me with you.
 
-Izumi: You don’t even know where I’m going, let alone how dangerous it is.
+**Izumi:** You don't even know where I'm going, let alone how dangerous it is.
 
-Hitsumi: It’s fine, take me with you.
+**Hitsumi:** It's fine, take me with you.
 
-Izumi: No. Out of the question.
+**Izumi:** No. Out of the question.
 
-Hitsumi: WHY?
+**Hitsumi:** WHY?
 
-Izumi: YOU WILL DIE!
+**Izumi:** YOU WILL DIE!
 
-Hitsumi: YOU WON’T LET ME!
+**Hitsumi:** YOU WON'T LET ME!
 
-Izumi: sighs frustratedly
+**Izumi:** *sighs frustratedly*
 
-Izumi: (confused) But. Why?
+**Izumi:** *confused* But. Why?
 
-Hitsumi: Because I want to.
+**Hitsumi:** Because I want to.
 
-Izumi: My God, why are you so annoying?
+**Izumi:** My God, why are you so annoying?
 
-Hitsumi: I don’t care.
+**Hitsumi:** I don't care.
 
-Aoi: Izumi, make it quick, I’m getting bored.
+**Aoi:** Izumi, make it quick, I'm getting bored.
 
-Izumi: Just wait for some time.
+**Izumi:** Just wait for some time.
 
 <p class="centered">Izumi looks at Hitsumi as she looks at him with pleading eyes</p>
 
-Izumi: Do you know what you’re getting yourself into?
+**Izumi:** Do you know what you're getting yourself into?
 
-Hitsumi: Yes.
+**Hitsumi:** Yes.
 
-Izumi: thinks for some time and takes a deep breath Fine, do what you want.
+**Izumi:** *thinks for some time and takes a deep breath* Fine, do what you want.
 
-Hitsumi: smiles Really. Hugs him
+**Hitsumi:** *smiles* Really. *Hugs him*
 
-Izumi: hugs her back But you know what you're sacrificing, right?
+**Izumi:** *hugs her back* But you know what you're sacrificing, right?
 
-Hitsumi: Mmm.
+**Hitsumi:** Mmm.
 
-Izumi: You’re crazy, you know that.
+**Izumi:** You're crazy, you know that.
 
-Hitsumi: But you said I’m a genius.
+**Hitsumi:** But you said I'm a genius.
 
-Izumi: You can be both.
+**Izumi:** You can be both.
 
-Hitsumi: laughs
+**Hitsumi:** *laughs*
 
-Izumi: smiles
+**Izumi:** *smiles*
 
 <p class="centered">Izumi looks towards the portal and picks her up.</p>
 
-Izumi: (How did I get myself into this? Why did I get myself into this? Maybe because she’s different. Maybe because she’s special. Or, maybe it’s just because.) Looks at her as she smiles
+**Izumi:** *(How did I get myself into this? Why did I get myself into this? Maybe because she's different. Maybe because she's special. Or, maybe it's just because.)* *Looks at her as she smiles*
 
 <p class="centered">[Blurred Fragment]</p>
 
-Izumi: (Because she is just like her)
+**Izumi:** *(Because she is just like her)*
 
 <p class="centered">They enter the portal together</p>
 
