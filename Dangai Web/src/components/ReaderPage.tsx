@@ -24,10 +24,13 @@ const ReaderPage: React.FC<ReaderPageProps> = ({ arc, chapter, part, onBack, onN
     const throttleTimerRef = useRef<number | null>(null);
 
     const pageTitle = useMemo(() => {
-        const chapterTitle = `Chapter ${chapter.id}: ${chapter.title}`;
-        const partTitle = part ? ` - ${part.title}` : '';
-        return `${chapterTitle}${partTitle} - Dangai`;
-    }, [chapter, part]);
+        if (arc.id === 'prologue' && part) {
+            return `${arc.title} - ${part.title} - Dangai`;
+        }
+        
+        const chapterString = `Chapter ${chapter.id}: ${chapter.title}`;
+        return `${arc.title} - ${chapterString} - Dangai`;
+    }, [arc, chapter, part]);
 
     const headerTitle = useMemo(() => {
         const mainTitle = arc.id === 'prologue' ? arc.title : `Chapter ${chapter.id}: ${chapter.title}`;
