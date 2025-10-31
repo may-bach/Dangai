@@ -502,5 +502,3 @@
 <p class="centered">He looks in disbelief at where Izumi went</p>
 
 **Haruto:** Who the hell is that guy, or rather what is he?
-
----
