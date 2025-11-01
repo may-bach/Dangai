@@ -16,7 +16,7 @@ export const ARCS: Arc[] = [
                 parts: [
                     { id: 1, slug: "part-1-a-normal-day", title: "Part 1: A Normal Day", locked: false },
                     { id: 2, slug: "part-2-the-test", title: "Part 2: The Fest", locked: false },
-                    { id: 3, slug: "part-3-the-explosion", title: "Part 3: Head Volunteer's Assisstant", locked: false },
+                    { id: 3, slug: "part-3-the-explosion", title: "Part 3: Assisstant", locked: false },
                     { id: 4, slug: "part-4-chaos", title: "Part 4: Chaos", locked: false },
                     { id: 5, slug: "part-5-a-demon", title: "Part 5: A Demon", locked: false },
                     { id: 6, slug: "part-6-laughter", title: "Part 6: Laughter", locked: false },
