@@ -3,7 +3,7 @@
 
 **???:** YOU ARE THE GUY WHO RAN INTO ME EARLIER AREN'T YOU.
 
-**Izumi:** Umm. I don't know. Maybe your mistaking me for someone else?
+**Izumi:** Umm. I don't know. Maybe you're mistaking me for someone else?
 
 **???:** You have the same outfit.
 
@@ -11,35 +11,29 @@
 
 **Izumi:** A lot of people have this jacket.
 
-<p class="centered">They look around and notice no one having anything similar.</p>
-
-<p class="centered">She turns back towards him.</p>
+<p class="centered">They look around and notice no one having anything similar. She turns back towards him.</p>
 
 **Izumi:** Well…
 
-<p class="centered">She gets pissed off and grabs him by his collar</p>
+<p class="centered">She gets pissed off and grabs him by his collar.</p>
 
 **Izumi:** Woah, woah, woah. Chill out.
 
 **???:** Chill out? You didn't even apologize.
 
-**Izumi:** It's not my fault you sounded so annoying. *He says looking away from her*
+**Izumi:** It's not my fault you sounded so annoying. *he says looking away from her*
 
 **???:** EXCUSE ME?
 
-<p class="centered">She gets even more frustrated and tightens her grip.</p>
-
-<p class="centered">The students around start whispering to each other about what's going on.</p>
+<p class="centered">She gets even more frustrated and tightens her grip. The students around start whispering to each other about what's going on.</p>
 
 **Girl:** *whispers* Hey, put him down.
 
-<p class="centered">She ignores her</p>
-
-<p class="centered">As this is going on a voice is heard from outside.</p>
+<p class="centered">She ignores her. As this is going on a voice is heard from outside.</p>
 
 **Aoki:** KUROSAKI!
 
-<p class="centered">He turns back towards the girl grabbing his shirt</p>
+<p class="centered">He turns back towards the girl grabbing his shirt.</p>
 
 **Izumi:** You heard the teacher.
 
@@ -53,15 +47,13 @@
 
 **???:** Hey, wait.
 
-<p class="centered">Izumi runs out and she chases after him, but before she could leave the next teacher enters.</p>
-
-<p class="centered">He notices Izumi lets him pass so that he wouldn't have to deal with him</p>
+<p class="centered">Izumi runs out and she chases after him, but before she could leave the next teacher enters. He notices Izumi and lets him pass so that he wouldn't have to deal with him.</p>
 
 **Teacher:** NO RUNNING IN THE CLASS KUROSAKI.
 
 <p class="centered">The same couldn't be said for her.</p>
 
-**Teacher:** And where do you think you're going miss.
+**Teacher:** And where do you think you're going miss?
 
 **???:** Why did you let him leave?
 
@@ -75,7 +67,7 @@
 
 <p class="centered">She looks over his shoulder and notices he's completely missing.</p>
 
-**???:** *sighs* Whatever. *I'll get him eventually*
+**???:** *sighs* Whatever. *(I'll get him eventually)*
 
 <p class="centered">She goes back and takes a seat, controlling her fury.</p>
 
@@ -97,13 +89,13 @@
 
 **Yuno:** Well, Mr. Tanaka?
 
-**Tanaka:** Is my first name mentioned there somewhere.
+**Tanaka:** Is my first name mentioned there somewhere?
 
 **Yuno:** No.
 
 **Tanaka:** Then there is no reason for you to know it.
 
-**Yuno:** But.
+**Yuno:** But—
 
 **Tanaka:** Yes?
 
@@ -113,7 +105,7 @@
 
 <p class="centered">The student sits down in defeat.</p>
 
-**Tanaka:** Now, I'm your university's academic dean. I will be talking in detail about the academic syllabus of this university, which you better pay attention to unless you want to end up kicked out due to academic insufficiency-
+**Tanaka:** Now, I'm your university's academic dean. I will be talking in detail about the academic syllabus of this university, which you better pay attention to unless you want to end up kicked out due to academic insufficiency—
 
 <p class="centered">He points towards the door.</p>
 
@@ -125,17 +117,17 @@
 
 <p class="centered">The teacher notices.</p>
 
-**Tanaka:** Something bothering you Mr. Jine.
+**Tanaka:** Something bothering you Mr. Jine?
 
 **Jine:** *flustered* Oh nothing, sorry.
 
 <p class="centered">The teacher gives him an indifferent look and continues his lecture.</p>
 
-**Teacher:** Alright, First….
+**Teacher:** Alright, First…
 
 <p class="centered">The girl goes back to spinning her pen out of boredom as she is no longer interested in the class, but in how to get back at Izumi.</p>
 
-<p class="centered">Outside the class</p>
+<p class="centered">Outside the class.</p>
 
 **Aoki:** Kurosaki, what took you so long?
 
@@ -145,11 +137,11 @@
 
 **Izumi:** *smirks* First name basis?
 
-<p class="centered">She looks at him with a bland expression</p>
+<p class="centered">She looks at him with a bland expression.</p>
 
 **Izumi:** Sorry, force of habit.
 
-<p class="centered">She sighs with a lack of surprise</p>
+<p class="centered">She sighs with a lack of surprise.</p>
 
 **Izumi:** I'm just here for fun.
 
@@ -163,11 +155,11 @@
 
 <p class="centered">She starts walking and Izumi follows her.</p>
 
-**Aoki:** I went through you entrance exams. You got exactly 86 out of 100 marks.
+**Aoki:** I went through your entrance exams. You got exactly 86 out of 100 marks.
 
 **Izumi:** Seems normal enough.
 
-**Aoki:** Yes, except that was the exact cut off mark for entering. One mark lower and you wouldn't have gotten a seat.
+**Aoki:** Yes, except that was the exact cutoff mark for entering. One mark lower and you wouldn't have gotten a seat.
 
 **Izumi:** Really? Phew, that was close huh.
 
@@ -195,9 +187,7 @@
 
 **Izumi:** *smiles* Don't worry I don't make mistakes.
 
-<p class="centered">He turns around and starts to walk away.</p>
-
-<p class="centered">She extends her arm backwards and grabs him by the back of his collar without turning around</p>
+<p class="centered">He turns around and starts to walk away. She extends her arm backwards and grabs him by the back of his collar without turning around.</p>
 
 **Izumi:** HEY, WHAT GIVES?
 
@@ -207,17 +197,17 @@
 
 **Izumi:** What more do you want? You're not even my teacher.
 
-**Aoki:** Thats irrelevant, I'm the HOD, which means I'm still responsible for you.
+**Aoki:** That's irrelevant, I'm the HOD, which means I'm still responsible for you.
 
 **Izumi:** *sighs* Fine.
 
-**Aoki:** Good, Are you aware of the fest coming up?
+**Aoki:** Good. Are you aware of the fest coming up?
 
 **Izumi:** Sure, I am. I can't wait.
 
-**Aoki:** Really, and what makes you look forward to it so much.
+**Aoki:** Really, and what makes you look forward to it so much?
 
-<p class="centered">He keeps his finger on his chin and smiles slyly</p>
+<p class="centered">He keeps his finger on his chin and smiles slyly.</p>
 
 **Izumi:** Girls from other universities.
 
@@ -227,19 +217,19 @@
 
 **Aoki:** Hit? Who hit who?
 
-<p class="centered">He realizes she's just gonna deny it happening and gives up arguing</p>
+<p class="centered">He realizes she's just gonna deny it happening and gives up arguing.</p>
 
 **Aoki:** *smiles* Well, as the HOD of the most successful department in the university, I've been appointed as the Chief Coordinator of the fest.
 
 **Izumi:** Congratulations. Does that come with a bonus? *grins*
 
-**Aoki:** I don't think that any of your business Kurosaki.
+**Aoki:** I don't think that's any of your business Kurosaki.
 
 <p class="centered">He crosses his arms and looks away in disappointment.</p>
 
 **Aoki:** *smiles* And as the chief I have a lot of responsibilities.
 
-**Izumi:** I'm sure you do. But, what does this have to do with me.
+**Izumi:** I'm sure you do. But, what does this have to do with me?
 
 **Aoki:** One of the responsibilities happens to be choosing volunteers for the fest.
 
@@ -251,19 +241,19 @@
 
 **Aoki:** You misunderstand me.
 
-<p class="centered">Izumi realizes where she's going with this, but continues to act in the hopes that he's wrong</p>
+<p class="centered">Izumi realizes where she's going with this, but continues to act in the hopes that he's wrong.</p>
 
 **Izumi:** What do you mean?
 
 **Aoki:** *smirks* You know exactly what I mean.
 
-**Izumi:** Nope, No, Nah, Nein, Nada. Not happening. Nuh uh. Never,
+**Izumi:** Nope, No, Nah, Nein, Nada. Not happening. Nuh uh. Never.
 
 **Aoki:** I wasn't asking Kurosaki.
 
 **Izumi:** I'm not gonna be the university's slave.
 
-**Aoki:** Well then, you'll pleased to know that in your own words, you won't be a slave.
+**Aoki:** Well then, you'll be pleased to know that in your own words, you won't be a slave.
 
 **Izumi:** *he has a sigh of relief* Phew, thanks teach. I always knew you were a good one.
 
@@ -275,13 +265,11 @@
 
 **Izumi:** I'm busy, I can't do this. I'm not responsible at all. I have no sense of direction. I will also be sick on that day, so I can't possibly do my job well.
 
-<p class="centered">They make their way to the chairman's office as Izumi comes with more and more unique reasons</p>
-
-<p class="centered">Uninterested in his statements, she raises her hand to cover his face and grabs the office door's handle with her other hand.</p>
+<p class="centered">They make their way to the chairman's office as Izumi comes with more and more unique reasons. Uninterested in his statements, she raises her hand to cover his face and grabs the office door's handle with her other hand.</p>
 
 **Aoki:** I'm not interested in your excuses Kurosaki. I will call you to meet me later at my office, right now I have an important meeting to attend to. All the best, head volunteer. *smiles*
 
-**Izumi:** But I-
+**Izumi:** But I—
 
 <p class="centered">He reaches his hand out, but before he could finish she goes in and slams the door shut and he retracts his hand in defeat.</p>
 
@@ -301,67 +289,43 @@
 
 **Aoki:** Don't worry Chairman. I can promise you this will be the best. *smiles* I have a good feeling about this.
 
-<p class="centered">Meanwhile</p>
+<p class="centered">Meanwhile, Izumi takes a walk down the corridor with his hands in his pockets as he contemplates about the fest. Her words echo in his head.</p>
 
-<p class="centered">Izumi takes a walk down the corridor with his hands in his pockets as he contemplates about the fest</p>
+**Aoki:** *(All the best head volunteer)*
 
-<p class="centered">Her words echo in her head</p>
-
-**Aoki:** *All the best head volunteer*
-
-<p class="centered">He exhales and throws his head up towards the sky</p>
+<p class="centered">He exhales and throws his head up towards the sky.</p>
 
 **Izumi:** Agh, what's her problem?
 
-<p class="centered">As he's walking a paper ball hits him from the left.</p>
-
-<p class="centered">He turns around annoyed and sees a group of kids with paper balls as a guy sitting in the middle juggles a ball.</p>
-
-<p class="centered">Izumi decides to ignore them, he turns and continues walking.</p>
-
-<p class="centered">As soon as he turns another paper ball hits his head as the group laughs.</p>
-
-<p class="centered">This time he was mildly more annoyed but still decides to proceed with his day.</p>
-
-<p class="centered">Unfortunately, they weren't having it.</p>
-
-<p class="centered">One of the guys steps in front of him and blocks his path</p>
-
-<p class="centered">The guy from the center calls out to Izumi</p>
+<p class="centered">As he's walking a paper ball hits him from the left. He turns around annoyed and sees a group of kids with paper balls as a guy sitting in the middle juggles a ball. Izumi decides to ignore them, he turns and continues walking. As soon as he turns another paper ball hits his head as the group laughs. This time he was mildly more annoyed but still decides to proceed with his day. Unfortunately, they weren't having it. One of the guys steps in front of him and blocks his path. The guy from the center calls out to Izumi.</p>
 
 **Bully:** Hey, Pipsqueak.
 
-<p class="centered">He turns around to look at him, uninterested.</p>
+<p class="centered">He turns around to look at him, uninterested. The bully walks up to him.</p>
 
-<p class="centered">The bully walks up to him.</p>
-
-**Bully:** Can't you see where you're going. *he says as he signals to his friend in front of Izumi*
+**Bully:** Can't you see where you're going? *he says as he signals to his friend in front of Izumi*
 
 **Izumi:** Alright, my bad, sorry guys.
 
-<p class="centered">He tries to squeeze past them, but the bully joins with his friend and block him.</p>
+<p class="centered">He tries to squeeze past them, but the bully joins with his friend and blocks him.</p>
 
 **Bully:** I'm afraid an apology isn't gonna be enough.
 
-<p class="centered">He says with a smile as he cracks his knuckles</p>
+<p class="centered">He says with a smile as he cracks his knuckles.</p>
 
 **Izumi:** *smiles* Of course.
 
-<p class="centered">He takes out his wallet and and gives them all his money.</p>
-
-<p class="centered">The bully smacks his out his hand</p>
+<p class="centered">He takes out his wallet and gives them all his money. The bully smacks it out of his hand.</p>
 
 **Bully:** You think we're thugs, we don't want your money.
 
-<p class="centered">As he says that, one of his guys in the background scramble to pick up all the money.</p>
-
-<p class="centered">The bully looks at them mad as Izumi chuckles</p>
+<p class="centered">As he says that, one of his guys in the background scramble to pick up all the money. The bully looks at them mad as Izumi chuckles.</p>
 
 **Bully:** What's so funny?
 
 **Izumi:** Nothing.
 
-<p class="centered">The bully grabs him by his collar</p>
+<p class="centered">The bully grabs him by his collar.</p>
 
 **Bully:** *grits his teeth* Watch your mouth bastard.
 
@@ -369,9 +333,9 @@
 
 **Bully:** What about it, aren't you as well?
 
-**Izumi:** Nah, I'm a second year. *smiles* *Of course he is*
+**Izumi:** Nah, I'm a second year. *smiles* *(Of course he is)*
 
-<p class="centered">All of them start laughing</p>
+<p class="centered">All of them start laughing.</p>
 
 **???:** A second year getting bullied by a first year.
 
@@ -387,7 +351,7 @@
 
 **Izumi:** Excuse me?
 
-<p class="centered">He lets go of his collar</p>
+<p class="centered">He lets go of his collar.</p>
 
 **Bully:** Get down on your knees.
 
@@ -407,15 +371,15 @@
 
 **???:** HARUTO.
 
-<p class="centered">He turns around to see another guy with his own group, with more mature looking students</p>
+<p class="centered">He turns around to see another guy with his own group, with more mature looking students.</p>
 
 **Haruto:** Brother?
 
 <p class="centered">One of Haruto's guys looks at the guy in awe.</p>
 
-**??? 1:** Isn't that Nanjo Yusei.
+**??? 1:** Isn't that Nanjo Yusei?
 
-**??? 2:** Yeah, He is a third year, he is like the gang leader around here.
+**??? 2:** Yeah. He is a third year, he is like the gang leader around here.
 
 **??? 1:** I heard he's never lost a fight.
 
@@ -451,7 +415,7 @@
 
 **Yusei:** Let. Him. Go. *he says seriously*
 
-**Haruto:** *gnashes his teeth* Fine, Scram, before I change my mind.
+**Haruto:** *gnashes his teeth* Fine. Scram, before I change my mind.
 
 <p class="centered">Izumi lifts his head finally, and flashes a smile, before escaping.</p>
 
@@ -469,7 +433,7 @@
 
 **Yusei:** Yes, you're supposed to.
 
-<p class="centered">Yusei looks at the direction he went angrily</p>
+<p class="centered">Yusei looks at the direction he went angrily.</p>
 
 **Yusei:** That's Kurosaki Izumi.
 
@@ -499,6 +463,7 @@
 
 **Haruto:** What?
 
-<p class="centered">He looks in disbelief at where Izumi went</p>
+<p class="centered">He looks in disbelief at where Izumi went.</p>
 
 **Haruto:** Who the hell is that guy, or rather what is he?
+
