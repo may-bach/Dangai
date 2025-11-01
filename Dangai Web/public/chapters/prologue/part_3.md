@@ -436,3 +436,4 @@
 **Aoki:** Meet your head, Kurosaki Izumi. Kurosaki meet your assistant volunteer Miyamoto Hitsumi.
 
 <p class="centered">As they look at each other the calm before the storm ensues.</p>
+
