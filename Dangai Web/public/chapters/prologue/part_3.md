@@ -433,7 +433,7 @@
 
 <p class="centered">Izumi hears them and turns around to look at them as she signals towards him.</p>
 
-**Aoki:** Meet your head, Kurosaki Izumi. Kurosaki meet your assistant volunteer Miyamoto Hitsumi.
+**Aoki:** Meet your head, Kurosaki Izumi. Kurosaki meet your assistant Miyamoto Hitsumi.
 
 <p class="centered">As they look at each other the calm before the storm ensues.</p>
 
