@@ -31,7 +31,7 @@ export const ARCS: Arc[] = [
         slug: "first-arc",
         title: "First Arc",
         description: "The Hollow Soul",
-        locked: false,
+        locked: true,
         chapters: [
             { id: 1, slug: "shura", title: "Shura", locked: false },
             { id: 2, slug: "the-beginning", title: "The Beginning", locked: false },

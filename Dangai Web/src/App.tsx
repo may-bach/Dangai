@@ -152,8 +152,13 @@ const App: React.FC = () => {
     };
 
     return (
-        <div className="min-h-screen bg-black text-neutral-200 overflow-x-hidden">
-            {renderContent()}
+        <div className="min-h-screen bg-black text-neutral-200 overflow-x-hidden flex flex-col">
+            <main className="flex-grow">
+                {renderContent()}
+            </main>
+            <footer className="flex-shrink-0 text-center text-xs text-neutral-500 py-4">
+                © 2025 Dangai | All rights reserved
+            </footer>
         </div>
     );
 };
