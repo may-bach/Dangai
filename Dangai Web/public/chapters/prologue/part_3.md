@@ -1,6 +1,4 @@
 
----
-
 **PART-3**
 
 <p class="centered"><em>The next day.</em></p>
