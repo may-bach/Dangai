@@ -156,7 +156,7 @@ const App: React.FC = () => {
             <main className="flex-grow">
                 {renderContent()}
             </main>
-            <footer className="flex-shrink-0 text-center text-xs text-neutral-500 py-4">
+            <footer className="flex-shrink-0 text-center text-sm text-neutral-400 py-4">
                 © 2025 Dangai | All rights reserved
             </footer>
         </div>
