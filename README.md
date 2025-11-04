@@ -1,6 +1,6 @@
 # Dangai Web
 
-A sophisticated single-page web application for reading serialized stories online, built with React and Vite. Features a sleek dark interface, dynamic content loading, and a fully organized project structure ready for deployment on Vercel.
+A sophisticated web application for reading serialized stories online, built with React and Vite. Features a sleek dark interface, dynamic content loading, and a fully organized project structure ready for deployment on Vercel.
 
 ## Features
 
