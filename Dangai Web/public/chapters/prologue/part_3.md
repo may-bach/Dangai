@@ -1,6 +1,4 @@
 
-**PART-3**
-
 <p class="centered"><em>The next day.</em></p>
 
 <p class="centered">Ms. Aoki thinks to herself as she walks down the hallway to her class.</p>
