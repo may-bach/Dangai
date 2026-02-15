@@ -1,4 +1,3 @@
-
 <p class="centered">A guy lies on the floor with his left arm covering his eyes and playing with a ball with his right.</p>
 
 <p class="centered">He has his earbuds plugged in as he talks to his friend on the phone</p>
@@ -392,4 +391,3 @@
 <p class="centered">He smiles innocently as he rubs his neck.</p>
 
 **Izumi:** (Shit).</p>
-
