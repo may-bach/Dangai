@@ -157,7 +157,7 @@ const App: React.FC = () => {
                 {renderContent()}
             </main>
             <footer className="flex-shrink-0 text-center text-sm text-neutral-400 py-4">
-                © 2025 Dangai | All rights reserved
+                © 2025-26 Dangai | All rights reserved
             </footer>
         </div>
     );
