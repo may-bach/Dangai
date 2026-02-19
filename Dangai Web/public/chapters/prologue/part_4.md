@@ -662,21 +662,21 @@
 
 **Izumi:** Oh that, well that's as good as over.
 
-**Rin:** Why? What happened?
+**Ria:** Why? What happened?
 
 **Izumi:** I'd rather not get into it.
 
-**Rin:** Fine, it's not like you have a lack of females anyways.
+**Ria:** Fine, it's not like you have a lack of females anyways.
 
 <p class="centered">He scratched his head sheepishly, sticking his tongue out in a playful tease.</p>
 
 <p class="centered">Suddenly, he gets a notification on his phone and he pulls it out to check it.</p>
 
-**Rin:** Which damsel is in distress now?
+**Ria:** Which damsel is in distress now?
 
 <p class="centered">He looks at his phone with a smile, but slowly his smile turns into a sluggish and irritated pout.</p>
 
-**Rin:** What happened? Who is it?
+**Ria:** What happened? Who is it?
 
 **Izumi:** No one of concern.
 
@@ -684,27 +684,27 @@
 
 **Izumi:** Argh, fine, it's the assistant head volunteer.
 
-**Rin:** Of the fest? What do they have to do with you.
+**Ria:** Of the fest? What do they have to do with you.
 
 **Izumi:** Well, maybe because she *my* assistant volunteer.
 
 <p class="centered">She nods her head as a sign of understanding.</p>
 
-**Rin:** Oh, yeah, wait.
+**Ria:** Oh, yeah, wait.
 
 <p class="centered">She realizes what that means.</p>
 
-**Rin:** YOU'RE THE HEAD VOLUNTEER OF THE FEST.
+**Ria:** YOU'RE THE HEAD VOLUNTEER OF THE FEST.
 
 <p class="centered">He let's out a sigh with a mix of laziness and frustration</p>
 
 **Izumi:** Yes.
 
-**Rin:** How come I didn't know?
+**Ria:** How come I didn't know?
 
 **Izumi:** It was just decided today, so I'm guessing it will be public by tomorrow.
 
-**Rin:** I can't wait for the fest.
+**Ria:** I can't wait for the fest.
 
 <p class="centered">She gives a evil smile knowing the Izumi's misery.</p>
 
@@ -716,11 +716,11 @@
 
 <p class="centered">He renames her contact and puts the phone back leaving her on read.</p>
 
-**Rin:** What is she checking in about.
+**Ria:** What is she checking in about.
 
 **Izumi:** I was supposed to ask 5 clubs or groups of people trying to host something during the fest, what exactly they were planning to do.
 
-**Rin:** That doesn't sound like something you'd be up to do.
+**Ria:** That doesn't sound like something you'd be up to do.
 
 **Izumi:** You're right, that's why I pawned it off to 5 girls.
 
@@ -728,23 +728,23 @@
 
 **Izumi:** What?
 
-**Rin:** You should really try to do somethings yourself.
+**Ria:** You should really try to do somethings yourself.
 
 **Izumi:** Now you're starting to sound like her.
 
-**Rin:** Sure, just don't get into any trouble.
+**Ria:** Sure, just don't get into any trouble.
 
 **Izumi:** Alright, see you later.
 
 <p class="centered">He gives her a hug and walks towards the exit.</p>
 
-**Rin:** Izumi.
+**Ria:** Izumi.
 
 <p class="centered">He looks over his shoulders.</p>
 
 **Izumi:** Yeah?
 
-**Rin:** Take care.
+**Ria:** Take care.
 
 <p class="centered">She says with a smile and a little bit of a blush.</p>
 
