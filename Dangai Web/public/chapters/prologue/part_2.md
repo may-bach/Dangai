@@ -240,6 +240,8 @@ umi approaches carefully, trying to walk past her.</p>
 
 **Izumi:** I'm busy, I can't do this. I'm not responsible at all. I have no sense of direction. I will also be sick on that day, so I can't possibly do my job well.
 
+**Aoki:** Come on, Izumi. It'll be fun, I promise. This year's fest is going to be the best one Kansai has ever seen. We've even had to pull emergency power from a part of the eastern sector of the city just to keep, construction cranes  moving and light up every stage and stall. When was the last time the city committee was willing to evacuate buildings for an event?
+
 <p class="centered">They make their way to the chairman's office as Izumi comes with more and more unique reasons.</p>
 
 <p class="centered">Uninterested in his statements, she raises her hand to cover his face and grabs the office door's handle with her other hand.</p>
@@ -467,5 +469,6 @@ umi approaches carefully, trying to walk past her.</p>
 **Haruto:** What?
 
 <p class="centered">He looks in disbelief at where Izumi went</p>
+
 
 **Haruto:** Who the hell is that guy, or rather, what is he?
