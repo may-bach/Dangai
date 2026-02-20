@@ -68,9 +68,9 @@
 
 <p class="centered">He cuts the call, and Izumi smiles, and he speeds up</p>
 
-<p class="centered">He shoved his phone into his pocket, picking up speed. He overtook a group of friends and slammed shoulder-first into a girl too short for him to notice instantly walking in the opposite direction. The impact was solid, hitting her right on the head. He turns around momentarily to apologize.</p>
+<p class="centered">He shoved his phone into his pocket, picking up speed. He overtook a group of friends and slammed shoulder-first into a girl too short for him to notice instantly walking in the opposite direction. The impact was solid, hitting her right on the head, almost sending her falling. He turns around momentarily to apologize.</p>
 
-<p class="centered">She glares at him furiously, and he could predict the situation that would unfold.</p>
+<p class="centered">She glares at him furiously with her hand on her head, and he could predict the situation that would unfold.</p>
 
 **White-haired Girl:** DO YOU NOT PAY ATTENTION TO -
 
@@ -415,3 +415,4 @@
 <p class="centered">He smiles innocently as he rubs his neck.</p>
 
 **Izumi:** (Shit ).
+
