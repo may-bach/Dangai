@@ -72,11 +72,11 @@
 
 <p class="centered">She glares at him furiously with her hand on her head, and he could predict the situation that would unfold.</p>
 
-**White-haired Girl:** DO YOU NOT PAY ATTENTION TO -
+**Purple-eyed Girl:** DO YOU NOT PAY ATTENTION TO -
 
 <p class="centered">Not wanting to listen to her argue, he ignores her, turns back and continues running.</p>
 
-**White-haired Girl:** HEY, COME BACK HERE.
+**Purple-eyed Girl:** HEY, COME BACK HERE.
 
 <p class="centered">He ignored her, skidding up to his classroom door. He grabbed the doorframe, using his momentum to swing himself inside, and halted dramatically in the entrance.</p>
 
@@ -404,11 +404,11 @@
 
 **Izumi:** Have we met before?
 
-<p class="centered">He thinks back and realizes that he had seen this white hair earlier that day.</p>
+<p class="centered">He thinks back and realizes that he had seen these eyes earlier that day.</p>
 
 **Izumi:** Oh.
 
-**White-haired Girl (???):** Wait, you are…
+**Purple-eyed Girl (???):** Wait, you are…
 
 <p class="centered">She realizes as well.</p>
 
@@ -419,4 +419,5 @@
 <br>
 
 ---
+
 
