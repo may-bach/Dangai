@@ -1,10 +1,10 @@
 Izumi: Heyyy…
 
-White-haired Girl: YOU ARE THE GUY WHO RAN INTO ME EARLIER, AREN’T YOU?
+Purple-eyed Girl: YOU ARE THE GUY WHO RAN INTO ME EARLIER, AREN’T YOU?
 
 Izumi: Umm. I don’t know. Maybe you're mistaking me for someone else?
 
-White-haired Girl: You have the same outfit.
+Purple-eyed Girl: You have the same outfit.
 
 <p class="centered">He looks at his black jacket he wore on top of a white tee.</p>
 
@@ -20,13 +20,13 @@ Izumi: Well…
 
 Izumi: Whoa, whoa, whoa. Chill out.
 
-White-haired Girl: Chill out? You didn’t even apologize.
+Purple-eyed Girl: Chill out? You didn’t even apologize.
 
 Izumi: It's not my fault you sounded so annoying.
 
 <p class="centered">He says it while looking away from her, completely dismissing the threat.</p>
 
-White-haired Girl: EXCUSE ME?
+Purple-eyed Girl: EXCUSE ME?
 
 <p class="centered">She gets even more frustrated and tightens her grip on his collar. The students around them start whispering, eyes darting between the fuming girl and the nonchalant boy.</p>
 
@@ -44,13 +44,13 @@ Izumi: You heard the teacher.
 
 <p class="centered">He shakes her off and escapes toward the door.</p>
 
-White-haired Girl: Hey, I'm not done with you.
+Purple-eyed Girl: Hey, I'm not done with you.
 
 <p class="centered">He ignores her and runs away, waving goodbye over his shoulder.</p>
 
 Izumi: Talk to you later… or maybe not, hopefully.
 
-White-haired Girl: Hey, wait.
+Purple-eyed Girl: Hey, wait.
 
 <p class="centered">Izumi runs out, and she chases after him, but before she can leave, the next teacher enters.</p>
 
@@ -62,19 +62,19 @@ Teacher: NO RUNNING IN THE CLASS, KUROSAKI.
 
 Teacher: And where do you think you’re going, miss?
 
-White-haired Girl: Why did you let him leave?
+Purple-eyed Girl: Why did you let him leave?
 
 Teacher: He’s a second year; it's beyond me why he was here to begin with, but frankly, I don’t care.
 
-White-haired Girl: But that boy.
+Purple-eyed Girl: But that boy.
 
 Teacher: Alright, alright, settle down, Ms. Miyamoto. You can talk to your boyfriend later; right now, it's my class.
 
-White-haired Girl: WHAT! HE'S NOT MY…
+Purple-eyed Girl: WHAT! HE'S NOT MY…
 
 <p class="centered">She looks over his shoulder and notices he's completely missing.</p>
 
-White-haired Girl: sighs Whatever. (I’ll get him eventually.)
+Purple-eyed Girl: sighs Whatever. (I’ll get him eventually.)
 
 <p class="centered">She goes back and takes a seat, controlling her fury, not even realizing the teacher somehow knows her name.</p>
 
@@ -543,4 +543,5 @@ Haruto: Who the hell is that guy, or rather, what is he?
 <br>
 
 ---
+
 
