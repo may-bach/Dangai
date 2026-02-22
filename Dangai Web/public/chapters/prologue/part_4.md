@@ -685,7 +685,7 @@
 
 <p class="centered">Outside</p>
 
-<p class="centered">He exits the café and looks at the sun setting over the horizon.</p>
+<p class="centered">He exits the café at the border of the southern sector with only the beach to look out towards and admires the sun setting over the horizon.</p>
 
 **Izumi:** (It's getting pretty late, how come none of the girls have texted me yet)
 
