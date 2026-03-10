@@ -47,9 +47,9 @@
 
 **Aoki:** You, what's your name?
 
-<p class="centered">She points to the girl with white hair.</p>
+<p class="centered">She points to the girl with purple eyes.</p>
 
-**Hitsumi (White-haired Girl):** Miyamoto Hitsumi.
+**Hitsumi (Purple-eyed Girl):** Miyamoto Hitsumi.
 
 **Aoki:** Oh, you’re the one who got the top score in this class, am I correct?
 
