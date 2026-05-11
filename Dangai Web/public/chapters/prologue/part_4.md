@@ -275,7 +275,7 @@
 
 **Izumi:** You’re not wrong.
 
-**Chloe:** So, what are you planning, head volunteer?
+**Chloe:** So, what are you planning, Lead Coordinator?
 
 **Izumi:** Nothing.
 
@@ -319,7 +319,7 @@
 
 <p class="centered">She tries to think of something while still being hesitant of the idea.</p>
 
-**Izumi:** Come on, I'll be paying anyways. Have something. Think of it as a treat for getting this detestable position of head volunteer.
+**Izumi:** Come on, I'll be paying anyways. Have something. Think of it as a treat for getting this detestable position of Lead Coordinator.
 
 <p class="centered">She laughs and decides to take him up on his offer.</p>
 
@@ -611,11 +611,11 @@
 
 <p class="centered">She folds her arms and stares at him.</p>
 
-**Izumi:** Argh, fine, it's the assistant head volunteer.
+**Izumi:** Argh, fine, it's the Deputy Coordinator.
 
 **Ria:** Of the fest? What do they have to do with you?
 
-**Izumi:** Well, maybe because she's my assistant volunteer.
+**Izumi:** Well, maybe because she's my Deputy.
 
 <p class="centered">She nods her head as a sign of understanding.</p>
 
@@ -623,7 +623,7 @@
 
 <p class="centered">She realizes what that means.</p>
 
-**Ria:** YOU’RE THE HEAD VOLUNTEER OF THE FEST.
+**Ria:** YOU’RE THE LEAD COORDINATOR OF THE FEST.
 
 <p class="centered">He lets out a sigh with a mix of laziness and frustration.</p>
 
