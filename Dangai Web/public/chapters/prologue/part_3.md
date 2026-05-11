@@ -3,7 +3,7 @@
 
 <p class="centered">The morning sun bleeds through the windows of the administrative block as Ms. Aoki walks down the hallway. The rhythmic click-clack of her heels echoing against the pristine walls. She adjusts the stack of files in her arms, her mind racing ahead of her feet.</p>
 
-**Aoki:** (Now we have a Lead for the fest, he’s going to need an assistant.)
+**Aoki:** (Now we have a lead for the fest, he’s going to need an assistant.)
 
 <p class="centered">She recalls the chaos of the previous day—the screaming girls, the fanfare.</p>
 
@@ -285,7 +285,7 @@
 
 **Hitsumi:** What do you mean?
 
-**Aoki:** Your Lead, he might try to actively sabotage the event.
+**Aoki:** Your lead, he might try to actively sabotage the event.
 
 **Hitsumi:** WHAT?!
 
@@ -494,7 +494,7 @@
 
 **Hitsumi:** What's the matter, Ms. Aoki?
 
-**Aoki:** You wanted to know who’s your Lead right.
+**Aoki:** You wanted to know who your Lead is right.
 
 <p class="centered">Izumi hears voices and turns around lazily towards the class as Aoki gestures toward him.</p>
 
