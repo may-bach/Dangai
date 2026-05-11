@@ -242,7 +242,7 @@ Aoki: smiles And as the chief, I have a lot of responsibilities.
 
 Izumi: I'm sure you do. But what does this have to do with me?
 
-Aoki: One of the responsibilities happens to be choosing volunteers for the fest.
+Aoki: One of the responsibilities happens to be choosing volunteers and organizers for the fest.
 
 Izumi: You mean glorified peons.
 
@@ -272,7 +272,7 @@ Aoki: You are gonna be the head slave.
 
 Izumi: WHAT?
 
-Aoki: I hope you’re happy with your posting, head volunteer.
+Aoki: I hope you’re happy with your posting, Lead Coordinator.
 
 Izumi: I'm busy, I can't do this. I'm not responsible at all. I have no sense of direction. I will also be sick on that day, so I can't possibly do my job well.
 
@@ -282,7 +282,7 @@ Aoki: Come on, Izumi. It'll be fun, I promise. This year's fest is going to be t
 
 <p class="centered">Uninterested in his statements, she raises her hand to cover his face and grabs the office door’s handle with her other hand.</p>
 
-Aoki: I'm not interested in your excuses, Kurosaki. I will call you to meet me later at my office. Right now I have an important meeting to attend. All the best, head volunteer. smiles
+Aoki: I'm not interested in your excuses, Kurosaki. I will call you to meet me later at my office. Right now I have an important meeting to attend. All the best, Lead Coordinator. smiles
 
 Izumi: But I-
 
@@ -312,7 +312,7 @@ Aoki: Don’t worry, Chairman. I can promise you this will be the best. smiles I
 
 <p class="centered">Her words echo in his head.</p>
 
-Aoki (Flashback): All the best, head volunteer.
+Aoki (Flashback): All the best, Lead Coordinator.
 
 <p class="centered">He exhales and throws his head up towards the sky.</p>
 
