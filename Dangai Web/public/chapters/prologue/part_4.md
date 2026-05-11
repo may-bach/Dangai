@@ -67,7 +67,7 @@
 
 **Izumi:** Why???
 
-**Hitsumi:** Why? You’re the fucking head.
+**Hitsumi:** Why? You’re the fucking lead.
 
 **Izumi:** Well, that just means I handle the executive decision-making. Not slave work.
 
