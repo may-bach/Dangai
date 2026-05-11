@@ -3,7 +3,7 @@
 
 <p class="centered">The morning sun bleeds through the windows of the administrative block as Ms. Aoki walks down the hallway. The rhythmic click-clack of her heels echoing against the pristine walls. She adjusts the stack of files in her arms, her mind racing ahead of her feet.</p>
 
-**Aoki:** (Now we have a head for the fest, he’s going to need an assistant.)
+**Aoki:** (Now we have a Lead for the fest, he’s going to need an assistant.)
 
 <p class="centered">She recalls the chaos of the previous day—the screaming girls, the fanfare.</p>
 
@@ -23,7 +23,7 @@
 
 **Neighbor Girl:** Which is?
 
-**Aoki:** The assistant head volunteer of the fest.
+**Aoki:** The Deputy Coordinator of the fest.
 
 <p class="centered">The students whisper amongst themselves.</p>
 
@@ -37,7 +37,7 @@
 
 <p class="centered">She closes her eyes for a moment, visualizing the ideal candidate.</p>
 
-**Aoki:** (It would be nice to have a student from my own class be chosen for the position. Even on the off chance that no one in the university is interested, I could at least let these guys know who the head volunteer is, maybe that would-)
+**Aoki:** (It would be nice to have a student from my own class be chosen for the position. Even on the off chance that no one in the university is interested, I could at least let these guys know who the Lead Coordinator is, maybe that would-)
 
 <p class="centered">The sound of tables shifting and chairs sliding interrupts her thoughts. She opens her eyes. A forest of hands has shot up. She hides her surprise behind a small smile.</p>
 
@@ -235,7 +235,7 @@
 
 **Aoki:** Sure.
 
-**Hitsumi:** Who’s the Head volunteer?
+**Hitsumi:** Who’s the Lead Coordinator?
 
 **Aoki:** It’s Iz-
 
@@ -285,7 +285,7 @@
 
 **Hitsumi:** What do you mean?
 
-**Aoki:** Your head, he might try to actively sabotage the event.
+**Aoki:** Your Lead, he might try to actively sabotage the event.
 
 **Hitsumi:** WHAT?!
 
@@ -494,11 +494,11 @@
 
 **Hitsumi:** What's the matter, Ms. Aoki?
 
-**Aoki:** You wanted to know who’s your head right.
+**Aoki:** You wanted to know who’s your Lead right.
 
 <p class="centered">Izumi hears voices and turns around lazily towards the class as Aoki gestures toward him.</p>
 
-**Aoki:** Meet your head, Kurosaki Izumi. Kurosaki, meet your assistant, Miyamoto Hitsumi.
+**Aoki:** Meet your Lead, Kurosaki Izumi. Kurosaki, meet your Deputy, Miyamoto Hitsumi.
 
 <p class="centered">As they look at each other, the calm before the storm ensues.</p>
 
