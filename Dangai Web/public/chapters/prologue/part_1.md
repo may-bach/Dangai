@@ -26,11 +26,11 @@
 
 <p class="centered">He throws the ball up and catches it before throwing it up again.</p>
 
-**Friend:** The classes are about to start, man, it's the first class of the year.
+**Friend:** Yo, the classes are about to start. It's the first class of the year.
 
 <p class="centered">The guy responds without stopping the ball</p>
 
-**???:** Man, chill out. This is our second year, you should know the teacher doesn't care.
+**???:** Dude, chill out. This is our second year, you should know the teacher doesn't care.
 
 <p class="centered">The teacher yells over Kenji's phone</p>
 
@@ -42,7 +42,7 @@
 
 **Kenji:** Just a minute, teach, it's my father. It's really important.
 
-**???:** *smiles* You can call me daddy anytime, man.
+**???:** *smiles* You can call me daddy anytime.
 
 **Kenji:** COME TO CLASS.
 
@@ -62,7 +62,7 @@
 
 <p class="centered">The students walking in the corridor scatter as the guy runs while barely grabbing onto his messenger bag</p>
 
-**???:** You should've told me sooner, man.
+**???:** You should've told me sooner.
 
 **Kenji:** Yeah, you're right, maybe I should've. Make your way to class quickly.
 
@@ -246,7 +246,7 @@
 
 <p class="centered">He shuffled out, leaving only Kenji and the sleeping Izumi. Kenji nudged his friend. He nudges him, but he refuses to wake up.</p>
 
-**Kenji:** Hey, man, the next class students are gonna start coming any second now, wake up. Our next class is two blocks away.
+**Kenji:** Hey, the next class students are gonna start coming any second now, wake up. Our next class is two blocks away.
 
 <p class="centered">Izumi groaned burying his face</p>
 
