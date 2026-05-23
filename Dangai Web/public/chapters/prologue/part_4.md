@@ -7,7 +7,7 @@
 
 **Izumi & Hitsumi:** EHHHHHHHHHHHHHH.
 
-**Izumi:** SENSEI, WHAT’S THE MEANING OF THIS?
+**Izumi:** TEACH, WHAT’S THE MEANING OF THIS?
 
 **Hitsumi:** I SHOULD BE ASKING THAT.
 
@@ -39,7 +39,7 @@
 
 <p class="centered">She hands Hitsumi a paper with a list of clubs and teams.</p>
 
-**Aoki:** That’s a list of all the members from our school who will be hosting an event or a shop, etc. Your job is to contact all these teams using the contact information and follow up with their preparations. We only have 2 weeks for the event, so you guys need to get a move on. All the best.
+**Aoki:** That’s a list of all the members from our school who will be hosting an event or a shop, etc. Your job is to contact all these groups or clubs using the contact information and follow up with their preparations. We only have a month for the event, so you guys need to get a move on. All the best.
 
 **Izumi:** And what are you gonna do?
 
