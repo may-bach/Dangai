@@ -242,7 +242,7 @@ Aoki: smiles And as the chief, I have a lot of responsibilities.
 
 Izumi: I'm sure you do. But what does this have to do with me?
 
-Aoki: One of the responsibilities happens to be choosing volunteers and organizers for the fest.
+Aoki: One of the responsibilities happens to be choosing volunteers and coordinators for the fest.
 
 Izumi: You mean glorified peons.
 
