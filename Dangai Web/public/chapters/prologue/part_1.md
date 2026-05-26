@@ -270,7 +270,7 @@
 
 **Students:** Good morning, Madam.
 
-**Teacher:** Take a seat. I'm Ms. Aoki. I'm the HOD of Computer Science engineering, and I'll also be your handler, I guess you could say, as long as you're here in this university. I hope we can get along.
+**Teacher:** Take a seat. I'm Ms. Aoki. I'm the HOD of the Computer Science Department, and I'll also be your handler, I guess you could say, as long as you're here in this university. I hope we can get along.
 
 <p class="centered">She starts pacing around the front of the class.</p>
 
