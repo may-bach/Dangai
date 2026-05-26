@@ -1,4 +1,4 @@
-```md
+
 # PART-5
 
 <p class="centered">He starts the engine and rides towards the center of the city.</p>
