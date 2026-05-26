@@ -282,6 +282,3 @@
 **Izumi:** (How annoying...)
 
 ---
-
-<p style="text-align: right;">-To be continued</p>
-```
