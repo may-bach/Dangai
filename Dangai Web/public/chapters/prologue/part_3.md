@@ -315,7 +315,7 @@
 
 **Hitsumi:** *smiles* Yes, I'll make sure you don’t regret this decision.
 
-**Aoki:** I'm sure I won’t. Now get going. It's almost 9:30 PM, they’re gonna close the dormitories. And it’s raining pretty hard out there.
+**Aoki:** I'm sure I won’t. Now get going. It's 8:15 PM, they’re gonna close the dormitories. And it’s raining pretty hard out there.
 
 <p class="centered">Hitsumi checks the clock on the wall and gasps.</p>
 
