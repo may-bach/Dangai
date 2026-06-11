@@ -367,7 +367,7 @@
 
 <p class="centered">As he was about to finish his sentence he is left in shock after looking at the waiter's face.</p>
 
-**Waiter:** I'm sorry, a what si-
+**Waiter:** I'm sorry, a what sir-
 
 <p class="centered">She looks up and she is also equally stunned at seeing Izumi here.</p>
 
