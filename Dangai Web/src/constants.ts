@@ -18,7 +18,8 @@ export const ARCS: Arc[] = [
                     { id: 2, slug: "part-2-the-test", title: "Part 2: The Fest", locked: false },
                     { id: 3, slug: "part-3-the-explosion", title: "Part 3: Assisstant", locked: false },
                     { id: 4, slug: "part-4-trouble", title: "Part 4: Trouble", locked: false },
-                    { id: 8, slug: "part-5-to-be-continued", title: "Part 5: To Be Continued", locked: true },
+                    { id: 5, slug: "part-5-warning", title: "Part 5: Warning", locked: false },
+                    { id: 8, slug: "part-6-to-be-continued", title: "Part 6: To Be Continued", locked: true },
                 ]
             },
         ]
