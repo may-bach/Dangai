@@ -50,15 +50,23 @@
 
 **???:** You really gotta try harder to convince me to attend a Calculus class at 8 on such a beautiful Wednesday morning.
 
-**Kenji:** You remember how this time, first and second years have the same class for math.
+*Kenji:** You talk as if it was any other day you would’ve been here.
 
 <p class="centered">Kenji takes a breath and calms down.</p>
 
-**Kenji:** You talk as if it was any other day you would’ve been here.
+**Kenji:** You remember how this time, first and second years have the same class for simple calculus.
 
-**???:** Yeah?
+**???:** Yeah, feels bad. They have to sit for a lecture even before orientation just because we have to have the classes.
 
-**Kenji:** *clears his throat* The first year, girls are hot.
+**Kenji:** They made their attendance optional though, so only some of the first years actually attended, still a decent amount.
+
+<p class="centered">He thinks for sometime in silence before shouting silently.</p>
+
+**Kenji:** STOP DISTRACTING ME.
+
+**Izumi:** *laughs* Sure what were you about to say.
+
+**Kenji:** *clears his throat* The first year girls are hot.
 
 <p class="centered">The rhythmic bouncing stopped. The ball landed on the floor with a dull thud, rolling away into an empty corridor as the boy vanished.</p>
 
