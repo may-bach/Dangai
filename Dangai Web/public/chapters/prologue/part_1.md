@@ -48,11 +48,13 @@
 
 <p class="centered">He gets up and starts bouncing the ball off the wall catching it on the rebound as he dusts his pants.</p>
 
-**???:** You really gotta try harder to convince me to attend a Calculus class at 8 on a Monday morning.
+**???:** You really gotta try harder to convince me to attend a Calculus class at 8 on such a beautiful Wednesday morning.
+
+**Kenji:** You remember how this time, first and second years have the same class for math.
 
 <p class="centered">Kenji takes a breath and calms down.</p>
 
-**Kenji:** You remember how this time, first and second years have the same class for math.
+**Kenji:** You talk as if it was any other day you would’ve been here.
 
 **???:** Yeah?
 
