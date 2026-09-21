@@ -50,7 +50,7 @@
 
 **???:** You really gotta try harder to convince me to attend a Calculus class at 8 on such a beautiful Wednesday morning.
 
-*Kenji:** You talk as if it was any other day you would’ve been here.
+**Kenji:** You talk as if it was any other day you would’ve been here.
 
 <p class="centered">Kenji takes a breath and calms down.</p>
 
